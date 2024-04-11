@@ -1,3 +1,8 @@
 lets make some conflicts here
 
+<<<<<<< HEAD
 Lets rewrite the conflicts!
+=======
+Aslam -> My new feature!!
+This will make some conflicts
+>>>>>>> b73306669fd4274414ade980412b8c85f10aae09

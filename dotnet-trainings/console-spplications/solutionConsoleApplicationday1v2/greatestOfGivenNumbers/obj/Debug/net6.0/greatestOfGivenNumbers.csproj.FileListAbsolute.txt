@@ -1,0 +1,14 @@
+C:\Users\VC\Desktop\Presidio\dotnet-trainings\console-spplications\solutionConsoleApplicationday1v2\greatestOfGivenNumbers\bin\Debug\net6.0\greatestOfGivenNumbers.exe
+C:\Users\VC\Desktop\Presidio\dotnet-trainings\console-spplications\solutionConsoleApplicationday1v2\greatestOfGivenNumbers\bin\Debug\net6.0\greatestOfGivenNumbers.deps.json
+C:\Users\VC\Desktop\Presidio\dotnet-trainings\console-spplications\solutionConsoleApplicationday1v2\greatestOfGivenNumbers\bin\Debug\net6.0\greatestOfGivenNumbers.runtimeconfig.json
+C:\Users\VC\Desktop\Presidio\dotnet-trainings\console-spplications\solutionConsoleApplicationday1v2\greatestOfGivenNumbers\bin\Debug\net6.0\greatestOfGivenNumbers.dll
+C:\Users\VC\Desktop\Presidio\dotnet-trainings\console-spplications\solutionConsoleApplicationday1v2\greatestOfGivenNumbers\bin\Debug\net6.0\greatestOfGivenNumbers.pdb
+C:\Users\VC\Desktop\Presidio\dotnet-trainings\console-spplications\solutionConsoleApplicationday1v2\greatestOfGivenNumbers\obj\Debug\net6.0\greatestOfGivenNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VC\Desktop\Presidio\dotnet-trainings\console-spplications\solutionConsoleApplicationday1v2\greatestOfGivenNumbers\obj\Debug\net6.0\greatestOfGivenNumbers.AssemblyInfoInputs.cache
+C:\Users\VC\Desktop\Presidio\dotnet-trainings\console-spplications\solutionConsoleApplicationday1v2\greatestOfGivenNumbers\obj\Debug\net6.0\greatestOfGivenNumbers.AssemblyInfo.cs
+C:\Users\VC\Desktop\Presidio\dotnet-trainings\console-spplications\solutionConsoleApplicationday1v2\greatestOfGivenNumbers\obj\Debug\net6.0\greatestOfGivenNumbers.csproj.CoreCompileInputs.cache
+C:\Users\VC\Desktop\Presidio\dotnet-trainings\console-spplications\solutionConsoleApplicationday1v2\greatestOfGivenNumbers\obj\Debug\net6.0\greatestOfGivenNumbers.dll
+C:\Users\VC\Desktop\Presidio\dotnet-trainings\console-spplications\solutionConsoleApplicationday1v2\greatestOfGivenNumbers\obj\Debug\net6.0\refint\greatestOfGivenNumbers.dll
+C:\Users\VC\Desktop\Presidio\dotnet-trainings\console-spplications\solutionConsoleApplicationday1v2\greatestOfGivenNumbers\obj\Debug\net6.0\greatestOfGivenNumbers.pdb
+C:\Users\VC\Desktop\Presidio\dotnet-trainings\console-spplications\solutionConsoleApplicationday1v2\greatestOfGivenNumbers\obj\Debug\net6.0\greatestOfGivenNumbers.genruntimeconfig.cache
+C:\Users\VC\Desktop\Presidio\dotnet-trainings\console-spplications\solutionConsoleApplicationday1v2\greatestOfGivenNumbers\obj\Debug\net6.0\ref\greatestOfGivenNumbers.dll
