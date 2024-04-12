@@ -1,30 +1,34 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\VC\\Desktop\\Presidio\\dotnet-trainings\\console-spplications\\solutionConsoleApplication\\",
+  "WorkspaceRootPath": "C:\\Users\\VC\\Desktop\\Presidio\\Genspark-trainings\\dotnet-trainings\\console-spplications\\day3\\solutionConsoleApplication\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{24D63B33-4F97-4E91-B191-138F99DAA40A}|day3ConsoleApplication\\day3ConsoleApplication.csproj|c:\\users\\vc\\desktop\\presidio\\dotnet-trainings\\console-spplications\\solutionconsoleapplication\\day3consoleapplication\\vowels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{24D63B33-4F97-4E91-B191-138F99DAA40A}|day3ConsoleApplication\\day3ConsoleApplication.csproj|solutionrelative:day3consoleapplication\\vowels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{24D63B33-4F97-4E91-B191-138F99DAA40A}|day3ConsoleApplication\\day3ConsoleApplication.csproj|c:\\users\\vc\\desktop\\presidio\\genspark-trainings\\dotnet-trainings\\console-spplications\\day3\\solutionconsoleapplication\\day3consoleapplication\\obj\\debug\\net6.0\\day3consoleapplication.assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24D63B33-4F97-4E91-B191-138F99DAA40A}|day3ConsoleApplication\\day3ConsoleApplication.csproj|solutionrelative:day3consoleapplication\\obj\\debug\\net6.0\\day3consoleapplication.assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{24D63B33-4F97-4E91-B191-138F99DAA40A}|day3ConsoleApplication\\day3ConsoleApplication.csproj|c:\\users\\vc\\desktop\\presidio\\dotnet-trainings\\console-spplications\\solutionconsoleapplication\\day3consoleapplication\\day3consoleapplication.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "AbsoluteMoniker": "D:0:0:{24D63B33-4F97-4E91-B191-138F99DAA40A}|day3ConsoleApplication\\day3ConsoleApplication.csproj|c:\\users\\vc\\desktop\\presidio\\genspark-trainings\\dotnet-trainings\\console-spplications\\day3\\solutionconsoleapplication\\day3consoleapplication\\day3consoleapplication.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
       "RelativeMoniker": "D:0:0:{24D63B33-4F97-4E91-B191-138F99DAA40A}|day3ConsoleApplication\\day3ConsoleApplication.csproj|solutionrelative:day3consoleapplication\\day3consoleapplication.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{24D63B33-4F97-4E91-B191-138F99DAA40A}|day3ConsoleApplication\\day3ConsoleApplication.csproj|c:\\users\\vc\\desktop\\presidio\\dotnet-trainings\\console-spplications\\solutionconsoleapplication\\day3consoleapplication\\lengthofusername.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{24D63B33-4F97-4E91-B191-138F99DAA40A}|day3ConsoleApplication\\day3ConsoleApplication.csproj|c:\\users\\vc\\desktop\\presidio\\genspark-trainings\\dotnet-trainings\\console-spplications\\day3\\solutionconsoleapplication\\day3consoleapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24D63B33-4F97-4E91-B191-138F99DAA40A}|day3ConsoleApplication\\day3ConsoleApplication.csproj|solutionrelative:day3consoleapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24D63B33-4F97-4E91-B191-138F99DAA40A}|day3ConsoleApplication\\day3ConsoleApplication.csproj|c:\\users\\vc\\desktop\\presidio\\genspark-trainings\\dotnet-trainings\\console-spplications\\day3\\solutionconsoleapplication\\day3consoleapplication\\vowels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24D63B33-4F97-4E91-B191-138F99DAA40A}|day3ConsoleApplication\\day3ConsoleApplication.csproj|solutionrelative:day3consoleapplication\\vowels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24D63B33-4F97-4E91-B191-138F99DAA40A}|day3ConsoleApplication\\day3ConsoleApplication.csproj|c:\\users\\vc\\desktop\\presidio\\genspark-trainings\\dotnet-trainings\\console-spplications\\day3\\solutionconsoleapplication\\day3consoleapplication\\lengthofusername.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{24D63B33-4F97-4E91-B191-138F99DAA40A}|day3ConsoleApplication\\day3ConsoleApplication.csproj|solutionrelative:day3consoleapplication\\lengthofusername.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{24D63B33-4F97-4E91-B191-138F99DAA40A}|day3ConsoleApplication\\day3ConsoleApplication.csproj|c:\\users\\vc\\desktop\\presidio\\dotnet-trainings\\console-spplications\\solutionconsoleapplication\\day3consoleapplication\\average.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{24D63B33-4F97-4E91-B191-138F99DAA40A}|day3ConsoleApplication\\day3ConsoleApplication.csproj|c:\\users\\vc\\desktop\\presidio\\genspark-trainings\\dotnet-trainings\\console-spplications\\day3\\solutionconsoleapplication\\day3consoleapplication\\average.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{24D63B33-4F97-4E91-B191-138F99DAA40A}|day3ConsoleApplication\\day3ConsoleApplication.csproj|solutionrelative:day3consoleapplication\\average.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{24D63B33-4F97-4E91-B191-138F99DAA40A}|day3ConsoleApplication\\day3ConsoleApplication.csproj|c:\\users\\vc\\desktop\\presidio\\dotnet-trainings\\console-spplications\\solutionconsoleapplication\\day3consoleapplication\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{24D63B33-4F97-4E91-B191-138F99DAA40A}|day3ConsoleApplication\\day3ConsoleApplication.csproj|c:\\users\\vc\\desktop\\presidio\\genspark-trainings\\dotnet-trainings\\console-spplications\\day3\\solutionconsoleapplication\\day3consoleapplication\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{24D63B33-4F97-4E91-B191-138F99DAA40A}|day3ConsoleApplication\\day3ConsoleApplication.csproj|solutionrelative:day3consoleapplication\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{24D63B33-4F97-4E91-B191-138F99DAA40A}|day3ConsoleApplication\\day3ConsoleApplication.csproj|c:\\users\\vc\\desktop\\presidio\\dotnet-trainings\\console-spplications\\solutionconsoleapplication\\day3consoleapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{24D63B33-4F97-4E91-B191-138F99DAA40A}|day3ConsoleApplication\\day3ConsoleApplication.csproj|solutionrelative:day3consoleapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,17 +38,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "Vowels.cs",
-              "DocumentMoniker": "C:\\Users\\VC\\Desktop\\Presidio\\dotnet-trainings\\console-spplications\\solutionConsoleApplication\\day3ConsoleApplication\\Vowels.cs",
+              "DocumentMoniker": "C:\\Users\\VC\\Desktop\\Presidio\\Genspark-trainings\\dotnet-trainings\\console-spplications\\day3\\solutionConsoleApplication\\day3ConsoleApplication\\Vowels.cs",
               "RelativeDocumentMoniker": "day3ConsoleApplication\\Vowels.cs",
-              "ToolTip": "C:\\Users\\VC\\Desktop\\Presidio\\dotnet-trainings\\console-spplications\\solutionConsoleApplication\\day3ConsoleApplication\\Vowels.cs",
+              "ToolTip": "C:\\Users\\VC\\Desktop\\Presidio\\Genspark-trainings\\dotnet-trainings\\console-spplications\\day3\\solutionConsoleApplication\\day3ConsoleApplication\\Vowels.cs",
               "RelativeToolTip": "day3ConsoleApplication\\Vowels.cs",
-              "ViewState": "AQIAACkAAAAAAAAAAAAIwDMAAAAjAAAA",
+              "ViewState": "AQIAABgAAAAAAAAAAADwvzMAAAAjAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-11T10:41:57.598Z",
               "IsPinned": true,
@@ -52,66 +56,77 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "day3ConsoleApplication.AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\VC\\Desktop\\Presidio\\Genspark-trainings\\dotnet-trainings\\console-spplications\\day3\\solutionConsoleApplication\\day3ConsoleApplication\\obj\\Debug\\net6.0\\day3ConsoleApplication.AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "day3ConsoleApplication\\obj\\Debug\\net6.0\\day3ConsoleApplication.AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\VC\\Desktop\\Presidio\\Genspark-trainings\\dotnet-trainings\\console-spplications\\day3\\solutionConsoleApplication\\day3ConsoleApplication\\obj\\Debug\\net6.0\\day3ConsoleApplication.AssemblyInfo.cs",
+              "RelativeToolTip": "day3ConsoleApplication\\obj\\Debug\\net6.0\\day3ConsoleApplication.AssemblyInfo.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAowA0AAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T12:29:14.624Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
               "Title": "day3ConsoleApplication",
-              "DocumentMoniker": "C:\\Users\\VC\\Desktop\\Presidio\\dotnet-trainings\\console-spplications\\solutionConsoleApplication\\day3ConsoleApplication\\day3ConsoleApplication.csproj",
+              "DocumentMoniker": "C:\\Users\\VC\\Desktop\\Presidio\\Genspark-trainings\\dotnet-trainings\\console-spplications\\day3\\solutionConsoleApplication\\day3ConsoleApplication\\day3ConsoleApplication.csproj",
               "RelativeDocumentMoniker": "day3ConsoleApplication\\day3ConsoleApplication.csproj",
-              "ToolTip": "C:\\Users\\VC\\Desktop\\Presidio\\dotnet-trainings\\console-spplications\\solutionConsoleApplication\\day3ConsoleApplication\\day3ConsoleApplication.csproj",
+              "ToolTip": "C:\\Users\\VC\\Desktop\\Presidio\\Genspark-trainings\\dotnet-trainings\\console-spplications\\day3\\solutionConsoleApplication\\day3ConsoleApplication\\day3ConsoleApplication.csproj",
               "RelativeToolTip": "day3ConsoleApplication\\day3ConsoleApplication.csproj",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-04-11T11:30:30.102Z",
+              "WhenOpened": "2024-04-12T12:24:24.349Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Login.cs",
+              "DocumentMoniker": "C:\\Users\\VC\\Desktop\\Presidio\\Genspark-trainings\\dotnet-trainings\\console-spplications\\day3\\solutionConsoleApplication\\day3ConsoleApplication\\Login.cs",
+              "RelativeDocumentMoniker": "day3ConsoleApplication\\Login.cs",
+              "ToolTip": "C:\\Users\\VC\\Desktop\\Presidio\\Genspark-trainings\\dotnet-trainings\\console-spplications\\day3\\solutionConsoleApplication\\day3ConsoleApplication\\Login.cs",
+              "RelativeToolTip": "day3ConsoleApplication\\Login.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAQwCsAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T10:32:08.443Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "Login.cs",
-              "DocumentMoniker": "C:\\Users\\VC\\Desktop\\Presidio\\dotnet-trainings\\console-spplications\\solutionConsoleApplication\\day3ConsoleApplication\\Login.cs",
-              "RelativeDocumentMoniker": "day3ConsoleApplication\\Login.cs",
-              "ToolTip": "C:\\Users\\VC\\Desktop\\Presidio\\dotnet-trainings\\console-spplications\\solutionConsoleApplication\\day3ConsoleApplication\\Login.cs",
-              "RelativeToolTip": "day3ConsoleApplication\\Login.cs",
-              "ViewState": "AQIAABwAAAAAAAAAAAAQwCsAAAA7AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-11T10:32:08.443Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
               "Title": "LengthofUserName.cs",
-              "DocumentMoniker": "C:\\Users\\VC\\Desktop\\Presidio\\dotnet-trainings\\console-spplications\\solutionConsoleApplication\\day3ConsoleApplication\\LengthofUserName.cs",
+              "DocumentMoniker": "C:\\Users\\VC\\Desktop\\Presidio\\Genspark-trainings\\dotnet-trainings\\console-spplications\\day3\\solutionConsoleApplication\\day3ConsoleApplication\\LengthofUserName.cs",
               "RelativeDocumentMoniker": "day3ConsoleApplication\\LengthofUserName.cs",
-              "ToolTip": "C:\\Users\\VC\\Desktop\\Presidio\\dotnet-trainings\\console-spplications\\solutionConsoleApplication\\day3ConsoleApplication\\LengthofUserName.cs",
+              "ToolTip": "C:\\Users\\VC\\Desktop\\Presidio\\Genspark-trainings\\dotnet-trainings\\console-spplications\\day3\\solutionConsoleApplication\\day3ConsoleApplication\\LengthofUserName.cs",
               "RelativeToolTip": "day3ConsoleApplication\\LengthofUserName.cs",
               "ViewState": "AQIAABIAAAAAAAAAAAAUwBwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-11T09:57:17.7Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Average.cs",
-              "DocumentMoniker": "C:\\Users\\VC\\Desktop\\Presidio\\dotnet-trainings\\console-spplications\\solutionConsoleApplication\\day3ConsoleApplication\\Average.cs",
-              "RelativeDocumentMoniker": "day3ConsoleApplication\\Average.cs",
-              "ToolTip": "C:\\Users\\VC\\Desktop\\Presidio\\dotnet-trainings\\console-spplications\\solutionConsoleApplication\\day3ConsoleApplication\\Average.cs",
-              "RelativeToolTip": "day3ConsoleApplication\\Average.cs",
-              "ViewState": "AQIAAA0AAAAAAAAAAAAIwBsAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-11T09:41:39.024Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-11T09:57:17.7Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\VC\\Desktop\\Presidio\\dotnet-trainings\\console-spplications\\solutionConsoleApplication\\day3ConsoleApplication\\Program.cs",
-              "RelativeDocumentMoniker": "day3ConsoleApplication\\Program.cs",
-              "ToolTip": "C:\\Users\\VC\\Desktop\\Presidio\\dotnet-trainings\\console-spplications\\solutionConsoleApplication\\day3ConsoleApplication\\Program.cs",
-              "RelativeToolTip": "day3ConsoleApplication\\Program.cs",
-              "ViewState": "AQIAACQAAAAAAAAAAAAAAC8AAAAJAAAA",
+              "Title": "Average.cs",
+              "DocumentMoniker": "C:\\Users\\VC\\Desktop\\Presidio\\Genspark-trainings\\dotnet-trainings\\console-spplications\\day3\\solutionConsoleApplication\\day3ConsoleApplication\\Average.cs",
+              "RelativeDocumentMoniker": "day3ConsoleApplication\\Average.cs",
+              "ToolTip": "C:\\Users\\VC\\Desktop\\Presidio\\Genspark-trainings\\dotnet-trainings\\console-spplications\\day3\\solutionConsoleApplication\\day3ConsoleApplication\\Average.cs",
+              "RelativeToolTip": "day3ConsoleApplication\\Average.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAIwBsAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-11T04:37:35.477Z"
+              "WhenOpened": "2024-04-11T09:41:39.024Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\VC\\Desktop\\Presidio\\Genspark-trainings\\dotnet-trainings\\console-spplications\\day3\\solutionConsoleApplication\\day3ConsoleApplication\\Program.cs",
+              "RelativeDocumentMoniker": "day3ConsoleApplication\\Program.cs",
+              "ToolTip": "C:\\Users\\VC\\Desktop\\Presidio\\Genspark-trainings\\dotnet-trainings\\console-spplications\\day3\\solutionConsoleApplication\\day3ConsoleApplication\\Program.cs",
+              "RelativeToolTip": "day3ConsoleApplication\\Program.cs",
+              "ViewState": "AQIAACsAAAAAAAAAAAAgwC8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T04:37:35.477Z",
+              "EditorCaption": ""
             }
           ]
         }

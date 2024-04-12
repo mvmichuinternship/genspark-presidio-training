@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("day4ConsoleAppDoctor")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+75460aea46579d6c913e22399dbc03419cbc1dd4")]
 [assembly: System.Reflection.AssemblyProductAttribute("day4ConsoleAppDoctor")]
 [assembly: System.Reflection.AssemblyTitleAttribute("day4ConsoleAppDoctor")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

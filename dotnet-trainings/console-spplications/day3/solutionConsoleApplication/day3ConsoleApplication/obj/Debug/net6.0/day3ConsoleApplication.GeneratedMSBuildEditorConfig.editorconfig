@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = day3ConsoleApplication
-build_property.ProjectDir = C:\Users\VC\Desktop\Presidio\Genspark-trainings\dotnet-trainings\console-spplications\solutionConsoleApplication\day3ConsoleApplication\
+build_property.ProjectDir = C:\Users\VC\Desktop\Presidio\Genspark-trainings\dotnet-trainings\console-spplications\day3\solutionConsoleApplication\day3ConsoleApplication\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

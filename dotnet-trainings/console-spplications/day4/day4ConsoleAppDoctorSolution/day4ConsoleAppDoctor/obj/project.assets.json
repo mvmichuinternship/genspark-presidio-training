@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\VC\\Desktop\\Presidio\\dotnet-trainings\\console-spplications\\day4\\day4ConsoleAppDoctorSolution\\day4ConsoleAppDoctor\\day4ConsoleAppDoctor.csproj",
+      "projectUniqueName": "C:\\Users\\VC\\Desktop\\Presidio\\Genspark-trainings\\dotnet-trainings\\console-spplications\\day4\\day4ConsoleAppDoctorSolution\\day4ConsoleAppDoctor\\day4ConsoleAppDoctor.csproj",
       "projectName": "day4ConsoleAppDoctor",
-      "projectPath": "C:\\Users\\VC\\Desktop\\Presidio\\dotnet-trainings\\console-spplications\\day4\\day4ConsoleAppDoctorSolution\\day4ConsoleAppDoctor\\day4ConsoleAppDoctor.csproj",
+      "projectPath": "C:\\Users\\VC\\Desktop\\Presidio\\Genspark-trainings\\dotnet-trainings\\console-spplications\\day4\\day4ConsoleAppDoctorSolution\\day4ConsoleAppDoctor\\day4ConsoleAppDoctor.csproj",
       "packagesPath": "C:\\Users\\VC\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\VC\\Desktop\\Presidio\\dotnet-trainings\\console-spplications\\day4\\day4ConsoleAppDoctorSolution\\day4ConsoleAppDoctor\\obj\\",
+      "outputPath": "C:\\Users\\VC\\Desktop\\Presidio\\Genspark-trainings\\dotnet-trainings\\console-spplications\\day4\\day4ConsoleAppDoctorSolution\\day4ConsoleAppDoctor\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -5,7 +5,7 @@
     <TargetFramework>net6.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
-    <StartupObject>day3ConsoleApplication.Vowels</StartupObject>
+    <StartupObject>day3ConsoleApplication.Login</StartupObject>
   </PropertyGroup>
 
 </Project>
