@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\VC\\Desktop\\Presidio\\dotnet-trainings\\console-spplications\\day4ConsoleAppSolution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{48FAE2FC-A546-47C9-A99D-4096120085FD}|day4ConsoleApp\\day4ConsoleApp.csproj|c:\\users\\vc\\desktop\\presidio\\dotnet-trainings\\console-spplications\\day4consoleappsolution\\day4consoleapp\\arraydemo1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48FAE2FC-A546-47C9-A99D-4096120085FD}|day4ConsoleApp\\day4ConsoleApp.csproj|solutionrelative:day4consoleapp\\arraydemo1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48FAE2FC-A546-47C9-A99D-4096120085FD}|day4ConsoleApp\\day4ConsoleApp.csproj|c:\\users\\vc\\desktop\\presidio\\dotnet-trainings\\console-spplications\\day4consoleappsolution\\day4consoleapp\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48FAE2FC-A546-47C9-A99D-4096120085FD}|day4ConsoleApp\\day4ConsoleApp.csproj|solutionrelative:day4consoleapp\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48FAE2FC-A546-47C9-A99D-4096120085FD}|day4ConsoleApp\\day4ConsoleApp.csproj|c:\\users\\vc\\desktop\\presidio\\dotnet-trainings\\console-spplications\\day4consoleappsolution\\day4consoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48FAE2FC-A546-47C9-A99D-4096120085FD}|day4ConsoleApp\\day4ConsoleApp.csproj|solutionrelative:day4consoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48FAE2FC-A546-47C9-A99D-4096120085FD}|day4ConsoleApp\\day4ConsoleApp.csproj|c:\\users\\vc\\desktop\\presidio\\dotnet-trainings\\console-spplications\\day4consoleappsolution\\day4consoleapp\\day4consoleapp.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{48FAE2FC-A546-47C9-A99D-4096120085FD}|day4ConsoleApp\\day4ConsoleApp.csproj|solutionrelative:day4consoleapp\\day4consoleapp.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "day4ConsoleApp",
+              "DocumentMoniker": "C:\\Users\\VC\\Desktop\\Presidio\\dotnet-trainings\\console-spplications\\day4ConsoleAppSolution\\day4ConsoleApp\\day4ConsoleApp.csproj",
+              "RelativeDocumentMoniker": "day4ConsoleApp\\day4ConsoleApp.csproj",
+              "ToolTip": "C:\\Users\\VC\\Desktop\\Presidio\\dotnet-trainings\\console-spplications\\day4ConsoleAppSolution\\day4ConsoleApp\\day4ConsoleApp.csproj",
+              "RelativeToolTip": "day4ConsoleApp\\day4ConsoleApp.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-12T06:52:01.525Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ArrayDemo1.cs",
+              "DocumentMoniker": "C:\\Users\\VC\\Desktop\\Presidio\\dotnet-trainings\\console-spplications\\day4ConsoleAppSolution\\day4ConsoleApp\\ArrayDemo1.cs",
+              "RelativeDocumentMoniker": "day4ConsoleApp\\ArrayDemo1.cs",
+              "ToolTip": "C:\\Users\\VC\\Desktop\\Presidio\\dotnet-trainings\\console-spplications\\day4ConsoleAppSolution\\day4ConsoleApp\\ArrayDemo1.cs",
+              "RelativeToolTip": "day4ConsoleApp\\ArrayDemo1.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAQwBUAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T06:47:12.125Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\VC\\Desktop\\Presidio\\dotnet-trainings\\console-spplications\\day4ConsoleAppSolution\\day4ConsoleApp\\Employee.cs",
+              "RelativeDocumentMoniker": "day4ConsoleApp\\Employee.cs",
+              "ToolTip": "C:\\Users\\VC\\Desktop\\Presidio\\dotnet-trainings\\console-spplications\\day4ConsoleAppSolution\\day4ConsoleApp\\Employee.cs",
+              "RelativeToolTip": "day4ConsoleApp\\Employee.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAUwCMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T06:27:58.915Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\VC\\Desktop\\Presidio\\dotnet-trainings\\console-spplications\\day4ConsoleAppSolution\\day4ConsoleApp\\Program.cs",
+              "RelativeDocumentMoniker": "day4ConsoleApp\\Program.cs",
+              "ToolTip": "C:\\Users\\VC\\Desktop\\Presidio\\dotnet-trainings\\console-spplications\\day4ConsoleAppSolution\\day4ConsoleApp\\Program.cs",
+              "RelativeToolTip": "day4ConsoleApp\\Program.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAYwCUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T06:26:39.495Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
