@@ -1,0 +1,15 @@
+C:\Users\VC\Desktop\Presidio\Genspark-trainings\dotnet-trainings\console-spplications\day3\day3ConsoleAppSolution\day3ConsoleApp\obj\Debug\net6.0\day3ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VC\Desktop\Presidio\Genspark-trainings\dotnet-trainings\console-spplications\day3\day3ConsoleAppSolution\day3ConsoleApp\obj\Debug\net6.0\day3ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\VC\Desktop\Presidio\Genspark-trainings\dotnet-trainings\console-spplications\day3\day3ConsoleAppSolution\day3ConsoleApp\obj\Debug\net6.0\day3ConsoleApp.AssemblyInfo.cs
+C:\Users\VC\Desktop\Presidio\Genspark-trainings\dotnet-trainings\console-spplications\day3\day3ConsoleAppSolution\day3ConsoleApp\obj\Debug\net6.0\day3ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\VC\Desktop\Presidio\Genspark-trainings\dotnet-trainings\console-spplications\day3\day3ConsoleAppSolution\day3ConsoleApp\obj\Debug\net6.0\day3ConsoleApp.sourcelink.json
+C:\Users\VC\Desktop\Presidio\Genspark-trainings\dotnet-trainings\console-spplications\day3\day3ConsoleAppSolution\day3ConsoleApp\bin\Debug\net6.0\day3ConsoleApp.exe
+C:\Users\VC\Desktop\Presidio\Genspark-trainings\dotnet-trainings\console-spplications\day3\day3ConsoleAppSolution\day3ConsoleApp\bin\Debug\net6.0\day3ConsoleApp.deps.json
+C:\Users\VC\Desktop\Presidio\Genspark-trainings\dotnet-trainings\console-spplications\day3\day3ConsoleAppSolution\day3ConsoleApp\bin\Debug\net6.0\day3ConsoleApp.runtimeconfig.json
+C:\Users\VC\Desktop\Presidio\Genspark-trainings\dotnet-trainings\console-spplications\day3\day3ConsoleAppSolution\day3ConsoleApp\bin\Debug\net6.0\day3ConsoleApp.dll
+C:\Users\VC\Desktop\Presidio\Genspark-trainings\dotnet-trainings\console-spplications\day3\day3ConsoleAppSolution\day3ConsoleApp\bin\Debug\net6.0\day3ConsoleApp.pdb
+C:\Users\VC\Desktop\Presidio\Genspark-trainings\dotnet-trainings\console-spplications\day3\day3ConsoleAppSolution\day3ConsoleApp\obj\Debug\net6.0\day3ConsoleApp.dll
+C:\Users\VC\Desktop\Presidio\Genspark-trainings\dotnet-trainings\console-spplications\day3\day3ConsoleAppSolution\day3ConsoleApp\obj\Debug\net6.0\refint\day3ConsoleApp.dll
+C:\Users\VC\Desktop\Presidio\Genspark-trainings\dotnet-trainings\console-spplications\day3\day3ConsoleAppSolution\day3ConsoleApp\obj\Debug\net6.0\day3ConsoleApp.pdb
+C:\Users\VC\Desktop\Presidio\Genspark-trainings\dotnet-trainings\console-spplications\day3\day3ConsoleAppSolution\day3ConsoleApp\obj\Debug\net6.0\day3ConsoleApp.genruntimeconfig.cache
+C:\Users\VC\Desktop\Presidio\Genspark-trainings\dotnet-trainings\console-spplications\day3\day3ConsoleAppSolution\day3ConsoleApp\obj\Debug\net6.0\ref\day3ConsoleApp.dll
