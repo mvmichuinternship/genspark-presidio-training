@@ -1,0 +1,120 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\VC\\Desktop\\Presidio\\Genspark-trainings\\dotnet-trainings\\console-spplications\\day5\\day5ConsoleAppSolution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{747B2652-0858-428C-A21A-07A3703A820C}|day5ConsoleApp\\day5ConsoleApp.csproj|c:\\users\\vc\\desktop\\presidio\\genspark-trainings\\dotnet-trainings\\console-spplications\\day5\\day5consoleappsolution\\day5consoleapp\\day5consoleapp.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{747B2652-0858-428C-A21A-07A3703A820C}|day5ConsoleApp\\day5ConsoleApp.csproj|solutionrelative:day5consoleapp\\day5consoleapp.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{747B2652-0858-428C-A21A-07A3703A820C}|day5ConsoleApp\\day5ConsoleApp.csproj|c:\\users\\vc\\desktop\\presidio\\genspark-trainings\\dotnet-trainings\\console-spplications\\day5\\day5consoleappsolution\\day5consoleapp\\cowsandbulls.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{747B2652-0858-428C-A21A-07A3703A820C}|day5ConsoleApp\\day5ConsoleApp.csproj|solutionrelative:day5consoleapp\\cowsandbulls.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{747B2652-0858-428C-A21A-07A3703A820C}|day5ConsoleApp\\day5ConsoleApp.csproj|c:\\users\\vc\\desktop\\presidio\\genspark-trainings\\dotnet-trainings\\console-spplications\\day5\\day5consoleappsolution\\day5consoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{747B2652-0858-428C-A21A-07A3703A820C}|day5ConsoleApp\\day5ConsoleApp.csproj|solutionrelative:day5consoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{747B2652-0858-428C-A21A-07A3703A820C}|day5ConsoleApp\\day5ConsoleApp.csproj|c:\\users\\vc\\desktop\\presidio\\genspark-trainings\\dotnet-trainings\\console-spplications\\day5\\day5consoleappsolution\\day5consoleapp\\arrayproblem1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{747B2652-0858-428C-A21A-07A3703A820C}|day5ConsoleApp\\day5ConsoleApp.csproj|solutionrelative:day5consoleapp\\arrayproblem1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{747B2652-0858-428C-A21A-07A3703A820C}|day5ConsoleApp\\day5ConsoleApp.csproj|c:\\users\\vc\\desktop\\presidio\\genspark-trainings\\dotnet-trainings\\console-spplications\\day5\\day5consoleappsolution\\day5consoleapp\\loops.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{747B2652-0858-428C-A21A-07A3703A820C}|day5ConsoleApp\\day5ConsoleApp.csproj|solutionrelative:day5consoleapp\\loops.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4773FCB-B3C8-4163-8BAC-A6816C04E707}|day5ApplicationModelLibrary\\day5ApplicationModelLibrary.csproj|c:\\users\\vc\\desktop\\presidio\\genspark-trainings\\dotnet-trainings\\console-spplications\\day5\\day5consoleappsolution\\day5applicationmodellibrary\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4773FCB-B3C8-4163-8BAC-A6816C04E707}|day5ApplicationModelLibrary\\day5ApplicationModelLibrary.csproj|solutionrelative:day5applicationmodellibrary\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CowsAndBulls.cs",
+              "DocumentMoniker": "C:\\Users\\VC\\Desktop\\Presidio\\Genspark-trainings\\dotnet-trainings\\console-spplications\\day5\\day5ConsoleAppSolution\\day5ConsoleApp\\CowsAndBulls.cs",
+              "RelativeDocumentMoniker": "day5ConsoleApp\\CowsAndBulls.cs",
+              "ToolTip": "C:\\Users\\VC\\Desktop\\Presidio\\Genspark-trainings\\dotnet-trainings\\console-spplications\\day5\\day5ConsoleAppSolution\\day5ConsoleApp\\CowsAndBulls.cs",
+              "RelativeToolTip": "day5ConsoleApp\\CowsAndBulls.cs",
+              "ViewState": "AQIAADIAAAAAAAAAAAAqwDsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T09:38:45.017Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "day5ConsoleApp",
+              "DocumentMoniker": "C:\\Users\\VC\\Desktop\\Presidio\\Genspark-trainings\\dotnet-trainings\\console-spplications\\day5\\day5ConsoleAppSolution\\day5ConsoleApp\\day5ConsoleApp.csproj",
+              "RelativeDocumentMoniker": "day5ConsoleApp\\day5ConsoleApp.csproj",
+              "ToolTip": "C:\\Users\\VC\\Desktop\\Presidio\\Genspark-trainings\\dotnet-trainings\\console-spplications\\day5\\day5ConsoleAppSolution\\day5ConsoleApp\\day5ConsoleApp.csproj",
+              "RelativeToolTip": "day5ConsoleApp\\day5ConsoleApp.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-15T11:57:31.184Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\VC\\Desktop\\Presidio\\Genspark-trainings\\dotnet-trainings\\console-spplications\\day5\\day5ConsoleAppSolution\\day5ApplicationModelLibrary\\Employee.cs",
+              "RelativeDocumentMoniker": "day5ApplicationModelLibrary\\Employee.cs",
+              "ToolTip": "C:\\Users\\VC\\Desktop\\Presidio\\Genspark-trainings\\dotnet-trainings\\console-spplications\\day5\\day5ConsoleAppSolution\\day5ApplicationModelLibrary\\Employee.cs",
+              "RelativeToolTip": "day5ApplicationModelLibrary\\Employee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T06:41:56.513Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Loops.cs",
+              "DocumentMoniker": "C:\\Users\\VC\\Desktop\\Presidio\\Genspark-trainings\\dotnet-trainings\\console-spplications\\day5\\day5ConsoleAppSolution\\day5ConsoleApp\\Loops.cs",
+              "RelativeDocumentMoniker": "day5ConsoleApp\\Loops.cs",
+              "ToolTip": "C:\\Users\\VC\\Desktop\\Presidio\\Genspark-trainings\\dotnet-trainings\\console-spplications\\day5\\day5ConsoleAppSolution\\day5ConsoleApp\\Loops.cs",
+              "RelativeToolTip": "day5ConsoleApp\\Loops.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFUAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T06:37:41.832Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ArrayProblem1.cs",
+              "DocumentMoniker": "C:\\Users\\VC\\Desktop\\Presidio\\Genspark-trainings\\dotnet-trainings\\console-spplications\\day5\\day5ConsoleAppSolution\\day5ConsoleApp\\ArrayProblem1.cs",
+              "RelativeDocumentMoniker": "day5ConsoleApp\\ArrayProblem1.cs",
+              "ToolTip": "C:\\Users\\VC\\Desktop\\Presidio\\Genspark-trainings\\dotnet-trainings\\console-spplications\\day5\\day5ConsoleAppSolution\\day5ConsoleApp\\ArrayProblem1.cs",
+              "RelativeToolTip": "day5ConsoleApp\\ArrayProblem1.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAmwCEAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T05:22:50.497Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\VC\\Desktop\\Presidio\\Genspark-trainings\\dotnet-trainings\\console-spplications\\day5\\day5ConsoleAppSolution\\day5ConsoleApp\\Program.cs",
+              "RelativeDocumentMoniker": "day5ConsoleApp\\Program.cs",
+              "ToolTip": "C:\\Users\\VC\\Desktop\\Presidio\\Genspark-trainings\\dotnet-trainings\\console-spplications\\day5\\day5ConsoleAppSolution\\day5ConsoleApp\\Program.cs",
+              "RelativeToolTip": "day5ConsoleApp\\Program.cs",
+              "ViewState": "AQIAAEMAAAAAAAAAAAAkwBEAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T04:33:19.768Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

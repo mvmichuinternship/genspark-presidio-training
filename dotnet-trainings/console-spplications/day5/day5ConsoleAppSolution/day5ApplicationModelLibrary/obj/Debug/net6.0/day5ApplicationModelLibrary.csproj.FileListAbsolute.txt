@@ -1,0 +1,12 @@
+C:\Users\VC\Desktop\Presidio\Genspark-trainings\dotnet-trainings\console-spplications\day5\day5ConsoleAppSolution\day5ApplicationModelLibrary\bin\Debug\net6.0\day5ApplicationModelLibrary.deps.json
+C:\Users\VC\Desktop\Presidio\Genspark-trainings\dotnet-trainings\console-spplications\day5\day5ConsoleAppSolution\day5ApplicationModelLibrary\bin\Debug\net6.0\day5ApplicationModelLibrary.dll
+C:\Users\VC\Desktop\Presidio\Genspark-trainings\dotnet-trainings\console-spplications\day5\day5ConsoleAppSolution\day5ApplicationModelLibrary\bin\Debug\net6.0\day5ApplicationModelLibrary.pdb
+C:\Users\VC\Desktop\Presidio\Genspark-trainings\dotnet-trainings\console-spplications\day5\day5ConsoleAppSolution\day5ApplicationModelLibrary\obj\Debug\net6.0\day5ApplicationModelLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VC\Desktop\Presidio\Genspark-trainings\dotnet-trainings\console-spplications\day5\day5ConsoleAppSolution\day5ApplicationModelLibrary\obj\Debug\net6.0\day5ApplicationModelLibrary.AssemblyInfoInputs.cache
+C:\Users\VC\Desktop\Presidio\Genspark-trainings\dotnet-trainings\console-spplications\day5\day5ConsoleAppSolution\day5ApplicationModelLibrary\obj\Debug\net6.0\day5ApplicationModelLibrary.AssemblyInfo.cs
+C:\Users\VC\Desktop\Presidio\Genspark-trainings\dotnet-trainings\console-spplications\day5\day5ConsoleAppSolution\day5ApplicationModelLibrary\obj\Debug\net6.0\day5ApplicationModelLibrary.csproj.CoreCompileInputs.cache
+C:\Users\VC\Desktop\Presidio\Genspark-trainings\dotnet-trainings\console-spplications\day5\day5ConsoleAppSolution\day5ApplicationModelLibrary\obj\Debug\net6.0\day5ApplicationModelLibrary.sourcelink.json
+C:\Users\VC\Desktop\Presidio\Genspark-trainings\dotnet-trainings\console-spplications\day5\day5ConsoleAppSolution\day5ApplicationModelLibrary\obj\Debug\net6.0\day5ApplicationModelLibrary.dll
+C:\Users\VC\Desktop\Presidio\Genspark-trainings\dotnet-trainings\console-spplications\day5\day5ConsoleAppSolution\day5ApplicationModelLibrary\obj\Debug\net6.0\refint\day5ApplicationModelLibrary.dll
+C:\Users\VC\Desktop\Presidio\Genspark-trainings\dotnet-trainings\console-spplications\day5\day5ConsoleAppSolution\day5ApplicationModelLibrary\obj\Debug\net6.0\day5ApplicationModelLibrary.pdb
+C:\Users\VC\Desktop\Presidio\Genspark-trainings\dotnet-trainings\console-spplications\day5\day5ConsoleAppSolution\day5ApplicationModelLibrary\obj\Debug\net6.0\ref\day5ApplicationModelLibrary.dll
