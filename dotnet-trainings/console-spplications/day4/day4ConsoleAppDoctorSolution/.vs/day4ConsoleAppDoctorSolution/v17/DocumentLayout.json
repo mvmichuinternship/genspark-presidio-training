@@ -3,6 +3,42 @@
   "WorkspaceRootPath": "C:\\Users\\VC\\Desktop\\Presidio\\Genspark-trainings\\dotnet-trainings\\console-spplications\\day4\\day4ConsoleAppDoctorSolution\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{F8BD6DFD-4554-46DF-95BC-D36B23F56462}|ClinicAppBlLibrary\\ClinicAppBlLibrary.csproj|c:\\users\\vc\\desktop\\presidio\\genspark-trainings\\dotnet-trainings\\console-spplications\\day4\\day4consoleappdoctorsolution\\clinicappbllibrary\\iclinicalservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8BD6DFD-4554-46DF-95BC-D36B23F56462}|ClinicAppBlLibrary\\ClinicAppBlLibrary.csproj|solutionrelative:clinicappbllibrary\\iclinicalservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F99BB84-C553-44FD-9C45-16FDB8229F8C}|ClinicAppDalLibrary\\ClinicAppDalLibrary.csproj|c:\\users\\vc\\desktop\\presidio\\genspark-trainings\\dotnet-trainings\\console-spplications\\day4\\day4consoleappdoctorsolution\\clinicappdallibrary\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F99BB84-C553-44FD-9C45-16FDB8229F8C}|ClinicAppDalLibrary\\ClinicAppDalLibrary.csproj|solutionrelative:clinicappdallibrary\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F99BB84-C553-44FD-9C45-16FDB8229F8C}|ClinicAppDalLibrary\\ClinicAppDalLibrary.csproj|c:\\users\\vc\\desktop\\presidio\\genspark-trainings\\dotnet-trainings\\console-spplications\\day4\\day4consoleappdoctorsolution\\clinicappdallibrary\\doctorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F99BB84-C553-44FD-9C45-16FDB8229F8C}|ClinicAppDalLibrary\\ClinicAppDalLibrary.csproj|solutionrelative:clinicappdallibrary\\doctorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{639F9463-40AE-4ED6-A407-06C6ECAAB6A5}|ClinicTrackerModelLibrary\\ClinicTrackerModelLibrary.csproj|c:\\users\\vc\\desktop\\presidio\\genspark-trainings\\dotnet-trainings\\console-spplications\\day4\\day4consoleappdoctorsolution\\clinictrackermodellibrary\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{639F9463-40AE-4ED6-A407-06C6ECAAB6A5}|ClinicTrackerModelLibrary\\ClinicTrackerModelLibrary.csproj|solutionrelative:clinictrackermodellibrary\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F99BB84-C553-44FD-9C45-16FDB8229F8C}|ClinicAppDalLibrary\\ClinicAppDalLibrary.csproj|c:\\users\\vc\\desktop\\presidio\\genspark-trainings\\dotnet-trainings\\console-spplications\\day4\\day4consoleappdoctorsolution\\clinicappdallibrary\\patientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F99BB84-C553-44FD-9C45-16FDB8229F8C}|ClinicAppDalLibrary\\ClinicAppDalLibrary.csproj|solutionrelative:clinicappdallibrary\\patientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F99BB84-C553-44FD-9C45-16FDB8229F8C}|ClinicAppDalLibrary\\ClinicAppDalLibrary.csproj|c:\\users\\vc\\desktop\\presidio\\genspark-trainings\\dotnet-trainings\\console-spplications\\day4\\day4consoleappdoctorsolution\\clinicappdallibrary\\appointmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F99BB84-C553-44FD-9C45-16FDB8229F8C}|ClinicAppDalLibrary\\ClinicAppDalLibrary.csproj|solutionrelative:clinicappdallibrary\\appointmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{639F9463-40AE-4ED6-A407-06C6ECAAB6A5}|ClinicTrackerModelLibrary\\ClinicTrackerModelLibrary.csproj|c:\\users\\vc\\desktop\\presidio\\genspark-trainings\\dotnet-trainings\\console-spplications\\day4\\day4consoleappdoctorsolution\\clinictrackermodellibrary\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{639F9463-40AE-4ED6-A407-06C6ECAAB6A5}|ClinicTrackerModelLibrary\\ClinicTrackerModelLibrary.csproj|solutionrelative:clinictrackermodellibrary\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{639F9463-40AE-4ED6-A407-06C6ECAAB6A5}|ClinicTrackerModelLibrary\\ClinicTrackerModelLibrary.csproj|c:\\users\\vc\\desktop\\presidio\\genspark-trainings\\dotnet-trainings\\console-spplications\\day4\\day4consoleappdoctorsolution\\clinictrackermodellibrary\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{639F9463-40AE-4ED6-A407-06C6ECAAB6A5}|ClinicTrackerModelLibrary\\ClinicTrackerModelLibrary.csproj|solutionrelative:clinictrackermodellibrary\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11252FE5-ED90-4EF8-B4B3-650A18C3DB25}|day4ConsoleAppDoctor\\day4ConsoleAppDoctor.csproj|c:\\users\\vc\\desktop\\presidio\\genspark-trainings\\dotnet-trainings\\console-spplications\\day4\\day4consoleappdoctorsolution\\day4consoleappdoctor\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11252FE5-ED90-4EF8-B4B3-650A18C3DB25}|day4ConsoleAppDoctor\\day4ConsoleAppDoctor.csproj|solutionrelative:day4consoleappdoctor\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{11252FE5-ED90-4EF8-B4B3-650A18C3DB25}|day4ConsoleAppDoctor\\day4ConsoleAppDoctor.csproj|c:\\users\\vc\\desktop\\presidio\\genspark-trainings\\dotnet-trainings\\console-spplications\\day4\\day4consoleappdoctorsolution\\day4consoleappdoctor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{11252FE5-ED90-4EF8-B4B3-650A18C3DB25}|day4ConsoleAppDoctor\\day4ConsoleAppDoctor.csproj|solutionrelative:day4consoleappdoctor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -13,10 +49,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{11252FE5-ED90-4EF8-B4B3-650A18C3DB25}|day4ConsoleAppDoctor\\day4ConsoleAppDoctor.csproj|c:\\users\\vc\\desktop\\presidio\\genspark-trainings\\dotnet-trainings\\console-spplications\\day4\\day4consoleappdoctorsolution\\day4consoleappdoctor\\algorithm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{11252FE5-ED90-4EF8-B4B3-650A18C3DB25}|day4ConsoleAppDoctor\\day4ConsoleAppDoctor.csproj|solutionrelative:day4consoleappdoctor\\algorithm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{11252FE5-ED90-4EF8-B4B3-650A18C3DB25}|day4ConsoleAppDoctor\\day4ConsoleAppDoctor.csproj|c:\\users\\vc\\desktop\\presidio\\genspark-trainings\\dotnet-trainings\\console-spplications\\day4\\day4consoleappdoctorsolution\\day4consoleappdoctor\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{11252FE5-ED90-4EF8-B4B3-650A18C3DB25}|day4ConsoleAppDoctor\\day4ConsoleAppDoctor.csproj|solutionrelative:day4consoleappdoctor\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,23 +58,117 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "day4ConsoleAppDoctor",
-              "DocumentMoniker": "C:\\Users\\VC\\Desktop\\Presidio\\Genspark-trainings\\dotnet-trainings\\console-spplications\\day4\\day4ConsoleAppDoctorSolution\\day4ConsoleAppDoctor\\day4ConsoleAppDoctor.csproj",
-              "RelativeDocumentMoniker": "day4ConsoleAppDoctor\\day4ConsoleAppDoctor.csproj",
-              "ToolTip": "C:\\Users\\VC\\Desktop\\Presidio\\Genspark-trainings\\dotnet-trainings\\console-spplications\\day4\\day4ConsoleAppDoctorSolution\\day4ConsoleAppDoctor\\day4ConsoleAppDoctor.csproj",
-              "RelativeToolTip": "day4ConsoleAppDoctor\\day4ConsoleAppDoctor.csproj",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-04-12T12:17:54.418Z",
+              "DocumentIndex": 5,
+              "Title": "AppointmentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\VC\\Desktop\\Presidio\\Genspark-trainings\\dotnet-trainings\\console-spplications\\day4\\day4ConsoleAppDoctorSolution\\ClinicAppDalLibrary\\AppointmentRepository.cs",
+              "RelativeDocumentMoniker": "ClinicAppDalLibrary\\AppointmentRepository.cs",
+              "ToolTip": "C:\\Users\\VC\\Desktop\\Presidio\\Genspark-trainings\\dotnet-trainings\\console-spplications\\day4\\day4ConsoleAppDoctorSolution\\ClinicAppDalLibrary\\AppointmentRepository.cs",
+              "RelativeToolTip": "ClinicAppDalLibrary\\AppointmentRepository.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAsAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T09:36:33.918Z",
+              "IsPinned": true,
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "DoctorRepository.cs",
+              "DocumentMoniker": "C:\\Users\\VC\\Desktop\\Presidio\\Genspark-trainings\\dotnet-trainings\\console-spplications\\day4\\day4ConsoleAppDoctorSolution\\ClinicAppDalLibrary\\DoctorRepository.cs",
+              "RelativeDocumentMoniker": "ClinicAppDalLibrary\\DoctorRepository.cs",
+              "ToolTip": "C:\\Users\\VC\\Desktop\\Presidio\\Genspark-trainings\\dotnet-trainings\\console-spplications\\day4\\day4ConsoleAppDoctorSolution\\ClinicAppDalLibrary\\DoctorRepository.cs",
+              "RelativeToolTip": "ClinicAppDalLibrary\\DoctorRepository.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAE4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T08:48:05.619Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IClinicalServices.cs",
+              "DocumentMoniker": "C:\\Users\\VC\\Desktop\\Presidio\\Genspark-trainings\\dotnet-trainings\\console-spplications\\day4\\day4ConsoleAppDoctorSolution\\ClinicAppBlLibrary\\IClinicalServices.cs",
+              "RelativeDocumentMoniker": "ClinicAppBlLibrary\\IClinicalServices.cs",
+              "ToolTip": "C:\\Users\\VC\\Desktop\\Presidio\\Genspark-trainings\\dotnet-trainings\\console-spplications\\day4\\day4ConsoleAppDoctorSolution\\ClinicAppBlLibrary\\IClinicalServices.cs",
+              "RelativeToolTip": "ClinicAppBlLibrary\\IClinicalServices.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T10:35:44.523Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Patient.cs",
+              "DocumentMoniker": "C:\\Users\\VC\\Desktop\\Presidio\\Genspark-trainings\\dotnet-trainings\\console-spplications\\day4\\day4ConsoleAppDoctorSolution\\ClinicTrackerModelLibrary\\Patient.cs",
+              "RelativeDocumentMoniker": "ClinicTrackerModelLibrary\\Patient.cs",
+              "ToolTip": "C:\\Users\\VC\\Desktop\\Presidio\\Genspark-trainings\\dotnet-trainings\\console-spplications\\day4\\day4ConsoleAppDoctorSolution\\ClinicTrackerModelLibrary\\Patient.cs",
+              "RelativeToolTip": "ClinicTrackerModelLibrary\\Patient.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T09:47:01.358Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\VC\\Desktop\\Presidio\\Genspark-trainings\\dotnet-trainings\\console-spplications\\day4\\day4ConsoleAppDoctorSolution\\ClinicAppDalLibrary\\IRepository.cs",
+              "RelativeDocumentMoniker": "ClinicAppDalLibrary\\IRepository.cs",
+              "ToolTip": "C:\\Users\\VC\\Desktop\\Presidio\\Genspark-trainings\\dotnet-trainings\\console-spplications\\day4\\day4ConsoleAppDoctorSolution\\ClinicAppDalLibrary\\IRepository.cs",
+              "RelativeToolTip": "ClinicAppDalLibrary\\IRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T08:45:47.519Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PatientRepository.cs",
+              "DocumentMoniker": "C:\\Users\\VC\\Desktop\\Presidio\\Genspark-trainings\\dotnet-trainings\\console-spplications\\day4\\day4ConsoleAppDoctorSolution\\ClinicAppDalLibrary\\PatientRepository.cs",
+              "RelativeDocumentMoniker": "ClinicAppDalLibrary\\PatientRepository.cs",
+              "ToolTip": "C:\\Users\\VC\\Desktop\\Presidio\\Genspark-trainings\\dotnet-trainings\\console-spplications\\day4\\day4ConsoleAppDoctorSolution\\ClinicAppDalLibrary\\PatientRepository.cs",
+              "RelativeToolTip": "ClinicAppDalLibrary\\PatientRepository.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAAAkwCoAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T09:51:18.762Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Appointment.cs",
+              "DocumentMoniker": "C:\\Users\\VC\\Desktop\\Presidio\\Genspark-trainings\\dotnet-trainings\\console-spplications\\day4\\day4ConsoleAppDoctorSolution\\ClinicTrackerModelLibrary\\Appointment.cs",
+              "RelativeDocumentMoniker": "ClinicTrackerModelLibrary\\Appointment.cs",
+              "ToolTip": "C:\\Users\\VC\\Desktop\\Presidio\\Genspark-trainings\\dotnet-trainings\\console-spplications\\day4\\day4ConsoleAppDoctorSolution\\ClinicTrackerModelLibrary\\Appointment.cs",
+              "RelativeToolTip": "ClinicTrackerModelLibrary\\Appointment.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T09:26:36.68Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Doctor.cs",
+              "DocumentMoniker": "C:\\Users\\VC\\Desktop\\Presidio\\Genspark-trainings\\dotnet-trainings\\console-spplications\\day4\\day4ConsoleAppDoctorSolution\\ClinicTrackerModelLibrary\\Doctor.cs",
+              "RelativeDocumentMoniker": "ClinicTrackerModelLibrary\\Doctor.cs",
+              "ToolTip": "C:\\Users\\VC\\Desktop\\Presidio\\Genspark-trainings\\dotnet-trainings\\console-spplications\\day4\\day4ConsoleAppDoctorSolution\\ClinicTrackerModelLibrary\\Doctor.cs",
+              "RelativeToolTip": "ClinicTrackerModelLibrary\\Doctor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T08:38:58.906Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "Algorithm.cs",
               "DocumentMoniker": "C:\\Users\\VC\\Desktop\\Presidio\\Genspark-trainings\\dotnet-trainings\\console-spplications\\day4\\day4ConsoleAppDoctorSolution\\day4ConsoleAppDoctor\\Algorithm.cs",
               "RelativeDocumentMoniker": "day4ConsoleAppDoctor\\Algorithm.cs",
@@ -50,30 +176,41 @@
               "RelativeToolTip": "day4ConsoleAppDoctor\\Algorithm.cs",
               "ViewState": "AQIAABAAAAAAAAAAAAAAABYAAAA1AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-12T10:01:58.018Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-12T10:01:58.018Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 8,
               "Title": "Doctor.cs",
               "DocumentMoniker": "C:\\Users\\VC\\Desktop\\Presidio\\Genspark-trainings\\dotnet-trainings\\console-spplications\\day4\\day4ConsoleAppDoctorSolution\\day4ConsoleAppDoctor\\Doctor.cs",
               "RelativeDocumentMoniker": "day4ConsoleAppDoctor\\Doctor.cs",
               "ToolTip": "C:\\Users\\VC\\Desktop\\Presidio\\Genspark-trainings\\dotnet-trainings\\console-spplications\\day4\\day4ConsoleAppDoctorSolution\\day4ConsoleAppDoctor\\Doctor.cs",
               "RelativeToolTip": "day4ConsoleAppDoctor\\Doctor.cs",
-              "ViewState": "AQIAABYAAAAAAAAAAAAcwCEAAABDAAAA",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAgwCEAAABDAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-12T09:36:52.219Z"
+              "WhenOpened": "2024-04-12T09:36:52.219Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 10,
+              "Title": "day4ConsoleAppDoctor",
+              "DocumentMoniker": "C:\\Users\\VC\\Desktop\\Presidio\\Genspark-trainings\\dotnet-trainings\\console-spplications\\day4\\day4ConsoleAppDoctorSolution\\day4ConsoleAppDoctor\\day4ConsoleAppDoctor.csproj",
+              "RelativeDocumentMoniker": "day4ConsoleAppDoctor\\day4ConsoleAppDoctor.csproj",
+              "ToolTip": "C:\\Users\\VC\\Desktop\\Presidio\\Genspark-trainings\\dotnet-trainings\\console-spplications\\day4\\day4ConsoleAppDoctorSolution\\day4ConsoleAppDoctor\\day4ConsoleAppDoctor.csproj",
+              "RelativeToolTip": "day4ConsoleAppDoctor\\day4ConsoleAppDoctor.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-12T12:17:54.418Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\VC\\Desktop\\Presidio\\Genspark-trainings\\dotnet-trainings\\console-spplications\\day4\\day4ConsoleAppDoctorSolution\\day4ConsoleAppDoctor\\Program.cs",
               "RelativeDocumentMoniker": "day4ConsoleAppDoctor\\Program.cs",
               "ToolTip": "C:\\Users\\VC\\Desktop\\Presidio\\Genspark-trainings\\dotnet-trainings\\console-spplications\\day4\\day4ConsoleAppDoctorSolution\\day4ConsoleAppDoctor\\Program.cs",
               "RelativeToolTip": "day4ConsoleAppDoctor\\Program.cs",
-              "ViewState": "AQIAABMAAAAAAAAAAAA2wCEAAAAtAAAA",
+              "ViewState": "AQIAABQAAAAAAAAAAAAUwCEAAAAtAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-12T09:36:13.222Z",
               "EditorCaption": ""
