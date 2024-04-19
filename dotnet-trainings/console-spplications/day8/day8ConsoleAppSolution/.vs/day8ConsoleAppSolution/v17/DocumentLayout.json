@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\VC\\Desktop\\Presidio\\Genspark-trainings\\dotnet-trainings\\console-spplications\\day8\\day8ConsoleAppSolution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{379613B0-B322-4891-808C-644D7AC98307}|day8ConsoleApp\\day8ConsoleApp.csproj|c:\\users\\vc\\desktop\\presidio\\genspark-trainings\\dotnet-trainings\\console-spplications\\day8\\day8consoleappsolution\\day8consoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{379613B0-B322-4891-808C-644D7AC98307}|day8ConsoleApp\\day8ConsoleApp.csproj|solutionrelative:day8consoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{379613B0-B322-4891-808C-644D7AC98307}|day8ConsoleApp\\day8ConsoleApp.csproj|c:\\users\\vc\\desktop\\presidio\\genspark-trainings\\dotnet-trainings\\console-spplications\\day8\\day8consoleappsolution\\day8consoleapp\\heart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{379613B0-B322-4891-808C-644D7AC98307}|day8ConsoleApp\\day8ConsoleApp.csproj|solutionrelative:day8consoleapp\\heart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{379613B0-B322-4891-808C-644D7AC98307}|day8ConsoleApp\\day8ConsoleApp.csproj|c:\\users\\vc\\desktop\\presidio\\genspark-trainings\\dotnet-trainings\\console-spplications\\day8\\day8consoleappsolution\\day8consoleapp\\shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{379613B0-B322-4891-808C-644D7AC98307}|day8ConsoleApp\\day8ConsoleApp.csproj|solutionrelative:day8consoleapp\\shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{379613B0-B322-4891-808C-644D7AC98307}|day8ConsoleApp\\day8ConsoleApp.csproj|c:\\users\\vc\\desktop\\presidio\\genspark-trainings\\dotnet-trainings\\console-spplications\\day8\\day8consoleappsolution\\day8consoleapp\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{379613B0-B322-4891-808C-644D7AC98307}|day8ConsoleApp\\day8ConsoleApp.csproj|solutionrelative:day8consoleapp\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{379613B0-B322-4891-808C-644D7AC98307}|day8ConsoleApp\\day8ConsoleApp.csproj|c:\\users\\vc\\desktop\\presidio\\genspark-trainings\\dotnet-trainings\\console-spplications\\day8\\day8consoleappsolution\\day8consoleapp\\square.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{379613B0-B322-4891-808C-644D7AC98307}|day8ConsoleApp\\day8ConsoleApp.csproj|solutionrelative:day8consoleapp\\square.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Heart.cs",
+              "DocumentMoniker": "C:\\Users\\VC\\Desktop\\Presidio\\Genspark-trainings\\dotnet-trainings\\console-spplications\\day8\\day8ConsoleAppSolution\\day8ConsoleApp\\Heart.cs",
+              "RelativeDocumentMoniker": "day8ConsoleApp\\Heart.cs",
+              "ToolTip": "C:\\Users\\VC\\Desktop\\Presidio\\Genspark-trainings\\dotnet-trainings\\console-spplications\\day8\\day8ConsoleAppSolution\\day8ConsoleApp\\Heart.cs",
+              "RelativeToolTip": "day8ConsoleApp\\Heart.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAIwAgAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T04:51:59.8Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Square.cs",
+              "DocumentMoniker": "C:\\Users\\VC\\Desktop\\Presidio\\Genspark-trainings\\dotnet-trainings\\console-spplications\\day8\\day8ConsoleAppSolution\\day8ConsoleApp\\Square.cs",
+              "RelativeDocumentMoniker": "day8ConsoleApp\\Square.cs",
+              "ToolTip": "C:\\Users\\VC\\Desktop\\Presidio\\Genspark-trainings\\dotnet-trainings\\console-spplications\\day8\\day8ConsoleAppSolution\\day8ConsoleApp\\Square.cs",
+              "RelativeToolTip": "day8ConsoleApp\\Square.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T04:51:44.828Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Circle.cs",
+              "DocumentMoniker": "C:\\Users\\VC\\Desktop\\Presidio\\Genspark-trainings\\dotnet-trainings\\console-spplications\\day8\\day8ConsoleAppSolution\\day8ConsoleApp\\Circle.cs",
+              "RelativeDocumentMoniker": "day8ConsoleApp\\Circle.cs",
+              "ToolTip": "C:\\Users\\VC\\Desktop\\Presidio\\Genspark-trainings\\dotnet-trainings\\console-spplications\\day8\\day8ConsoleAppSolution\\day8ConsoleApp\\Circle.cs",
+              "RelativeToolTip": "day8ConsoleApp\\Circle.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T04:51:28.765Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Shape.cs",
+              "DocumentMoniker": "C:\\Users\\VC\\Desktop\\Presidio\\Genspark-trainings\\dotnet-trainings\\console-spplications\\day8\\day8ConsoleAppSolution\\day8ConsoleApp\\Shape.cs",
+              "RelativeDocumentMoniker": "day8ConsoleApp\\Shape.cs",
+              "ToolTip": "C:\\Users\\VC\\Desktop\\Presidio\\Genspark-trainings\\dotnet-trainings\\console-spplications\\day8\\day8ConsoleAppSolution\\day8ConsoleApp\\Shape.cs",
+              "RelativeToolTip": "day8ConsoleApp\\Shape.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T04:50:01.632Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\VC\\Desktop\\Presidio\\Genspark-trainings\\dotnet-trainings\\console-spplications\\day8\\day8ConsoleAppSolution\\day8ConsoleApp\\Program.cs",
+              "RelativeDocumentMoniker": "day8ConsoleApp\\Program.cs",
+              "ToolTip": "C:\\Users\\VC\\Desktop\\Presidio\\Genspark-trainings\\dotnet-trainings\\console-spplications\\day8\\day8ConsoleAppSolution\\day8ConsoleApp\\Program.cs",
+              "RelativeToolTip": "day8ConsoleApp\\Program.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAA7wDUAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T04:18:09.128Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

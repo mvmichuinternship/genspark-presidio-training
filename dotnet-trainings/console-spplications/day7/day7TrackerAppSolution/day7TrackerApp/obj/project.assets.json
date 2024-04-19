@@ -1,11 +1,67 @@
 {
   "version": 3,
   "targets": {
-    "net6.0": {}
+    "net6.0": {
+      "RequestTrackerAppModel/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/RequestTrackerAppModel.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/RequestTrackerAppModel.dll": {}
+        }
+      },
+      "RequestTrackerBlLibrary/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "RequestTrackerAppModel": "1.0.0",
+          "RequestTrackerDalLibrary": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/RequestTrackerBlLibrary.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/RequestTrackerBlLibrary.dll": {}
+        }
+      },
+      "RequestTrackerDalLibrary/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "RequestTrackerAppModel": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/RequestTrackerDalLibrary.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/RequestTrackerDalLibrary.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "RequestTrackerAppModel/1.0.0": {
+      "type": "project",
+      "path": "../RequestTrackerAppModel/RequestTrackerAppModel.csproj",
+      "msbuildProject": "../RequestTrackerAppModel/RequestTrackerAppModel.csproj"
+    },
+    "RequestTrackerBlLibrary/1.0.0": {
+      "type": "project",
+      "path": "../RequestTrackerBlLibrary/RequestTrackerBlLibrary.csproj",
+      "msbuildProject": "../RequestTrackerBlLibrary/RequestTrackerBlLibrary.csproj"
+    },
+    "RequestTrackerDalLibrary/1.0.0": {
+      "type": "project",
+      "path": "../RequestTrackerDalLibrary/RequestTrackerDalLibrary.csproj",
+      "msbuildProject": "../RequestTrackerDalLibrary/RequestTrackerDalLibrary.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net6.0": []
+    "net6.0": [
+      "RequestTrackerBlLibrary >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\VC\\.nuget\\packages\\": {},
@@ -38,7 +94,11 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\VC\\Desktop\\Presidio\\Genspark-trainings\\dotnet-trainings\\console-spplications\\day7\\day7TrackerAppSolution\\RequestTrackerBlLibrary\\RequestTrackerBlLibrary.csproj": {
+              "projectPath": "C:\\Users\\VC\\Desktop\\Presidio\\Genspark-trainings\\dotnet-trainings\\console-spplications\\day7\\day7TrackerAppSolution\\RequestTrackerBlLibrary\\RequestTrackerBlLibrary.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
