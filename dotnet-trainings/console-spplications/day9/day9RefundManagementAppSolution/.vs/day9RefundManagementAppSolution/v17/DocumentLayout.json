@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\VC\\Desktop\\Presidio\\Genspark-trainings\\dotnet-trainings\\console-spplications\\day9\\day9RefundManagementAppSolution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C9826DAA-5DF2-449D-9FFB-BCD35ECD0F29}|RefundMngtModelLibrary\\RefundMngtModelLibrary.csproj|c:\\users\\vc\\desktop\\presidio\\genspark-trainings\\dotnet-trainings\\console-spplications\\day9\\day9refundmanagementappsolution\\refundmngtmodellibrary\\return.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9826DAA-5DF2-449D-9FFB-BCD35ECD0F29}|RefundMngtModelLibrary\\RefundMngtModelLibrary.csproj|solutionrelative:refundmngtmodellibrary\\return.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9826DAA-5DF2-449D-9FFB-BCD35ECD0F29}|RefundMngtModelLibrary\\RefundMngtModelLibrary.csproj|c:\\users\\vc\\desktop\\presidio\\genspark-trainings\\dotnet-trainings\\console-spplications\\day9\\day9refundmanagementappsolution\\refundmngtmodellibrary\\accomodation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9826DAA-5DF2-449D-9FFB-BCD35ECD0F29}|RefundMngtModelLibrary\\RefundMngtModelLibrary.csproj|solutionrelative:refundmngtmodellibrary\\accomodation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9826DAA-5DF2-449D-9FFB-BCD35ECD0F29}|RefundMngtModelLibrary\\RefundMngtModelLibrary.csproj|c:\\users\\vc\\desktop\\presidio\\genspark-trainings\\dotnet-trainings\\console-spplications\\day9\\day9refundmanagementappsolution\\refundmngtmodellibrary\\meals.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9826DAA-5DF2-449D-9FFB-BCD35ECD0F29}|RefundMngtModelLibrary\\RefundMngtModelLibrary.csproj|solutionrelative:refundmngtmodellibrary\\meals.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9826DAA-5DF2-449D-9FFB-BCD35ECD0F29}|RefundMngtModelLibrary\\RefundMngtModelLibrary.csproj|c:\\users\\vc\\desktop\\presidio\\genspark-trainings\\dotnet-trainings\\console-spplications\\day9\\day9refundmanagementappsolution\\refundmngtmodellibrary\\travel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9826DAA-5DF2-449D-9FFB-BCD35ECD0F29}|RefundMngtModelLibrary\\RefundMngtModelLibrary.csproj|solutionrelative:refundmngtmodellibrary\\travel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9826DAA-5DF2-449D-9FFB-BCD35ECD0F29}|RefundMngtModelLibrary\\RefundMngtModelLibrary.csproj|c:\\users\\vc\\desktop\\presidio\\genspark-trainings\\dotnet-trainings\\console-spplications\\day9\\day9refundmanagementappsolution\\refundmngtmodellibrary\\expensetype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9826DAA-5DF2-449D-9FFB-BCD35ECD0F29}|RefundMngtModelLibrary\\RefundMngtModelLibrary.csproj|solutionrelative:refundmngtmodellibrary\\expensetype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9826DAA-5DF2-449D-9FFB-BCD35ECD0F29}|RefundMngtModelLibrary\\RefundMngtModelLibrary.csproj|c:\\users\\vc\\desktop\\presidio\\genspark-trainings\\dotnet-trainings\\console-spplications\\day9\\day9refundmanagementappsolution\\refundmngtmodellibrary\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9826DAA-5DF2-449D-9FFB-BCD35ECD0F29}|RefundMngtModelLibrary\\RefundMngtModelLibrary.csproj|solutionrelative:refundmngtmodellibrary\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42521070-964C-4F00-95C6-D0C928AB96EF}|RefundMngtBLLibrary\\RefundMngtBLLibrary.csproj|c:\\users\\vc\\desktop\\presidio\\genspark-trainings\\dotnet-trainings\\console-spplications\\day9\\day9refundmanagementappsolution\\refundmngtbllibrary\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42521070-964C-4F00-95C6-D0C928AB96EF}|RefundMngtBLLibrary\\RefundMngtBLLibrary.csproj|solutionrelative:refundmngtbllibrary\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A9DCF48-5D55-42D2-8798-455A7652453B}|RefundMngtDALLibrary\\RefundMngtDALLibrary.csproj|c:\\users\\vc\\desktop\\presidio\\genspark-trainings\\dotnet-trainings\\console-spplications\\day9\\day9refundmanagementappsolution\\refundmngtdallibrary\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A9DCF48-5D55-42D2-8798-455A7652453B}|RefundMngtDALLibrary\\RefundMngtDALLibrary.csproj|solutionrelative:refundmngtdallibrary\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{219BA03F-2A83-4B04-8B7F-C45796C4AF67}|day9RefundManagementApp\\day9RefundManagementApp.csproj|c:\\users\\vc\\desktop\\presidio\\genspark-trainings\\dotnet-trainings\\console-spplications\\day9\\day9refundmanagementappsolution\\day9refundmanagementapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{219BA03F-2A83-4B04-8B7F-C45796C4AF67}|day9RefundManagementApp\\day9RefundManagementApp.csproj|solutionrelative:day9refundmanagementapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Return.cs",
+              "DocumentMoniker": "C:\\Users\\VC\\Desktop\\Presidio\\Genspark-trainings\\dotnet-trainings\\console-spplications\\day9\\day9RefundManagementAppSolution\\RefundMngtModelLibrary\\Return.cs",
+              "RelativeDocumentMoniker": "RefundMngtModelLibrary\\Return.cs",
+              "ToolTip": "C:\\Users\\VC\\Desktop\\Presidio\\Genspark-trainings\\dotnet-trainings\\console-spplications\\day9\\day9RefundManagementAppSolution\\RefundMngtModelLibrary\\Return.cs",
+              "RelativeToolTip": "RefundMngtModelLibrary\\Return.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAwAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T05:34:44.42Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Accomodation.cs",
+              "DocumentMoniker": "C:\\Users\\VC\\Desktop\\Presidio\\Genspark-trainings\\dotnet-trainings\\console-spplications\\day9\\day9RefundManagementAppSolution\\RefundMngtModelLibrary\\Accomodation.cs",
+              "RelativeDocumentMoniker": "RefundMngtModelLibrary\\Accomodation.cs",
+              "ToolTip": "C:\\Users\\VC\\Desktop\\Presidio\\Genspark-trainings\\dotnet-trainings\\console-spplications\\day9\\day9RefundManagementAppSolution\\RefundMngtModelLibrary\\Accomodation.cs",
+              "RelativeToolTip": "RefundMngtModelLibrary\\Accomodation.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAgwA0AAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T04:45:39.451Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Meals.cs",
+              "DocumentMoniker": "C:\\Users\\VC\\Desktop\\Presidio\\Genspark-trainings\\dotnet-trainings\\console-spplications\\day9\\day9RefundManagementAppSolution\\RefundMngtModelLibrary\\Meals.cs",
+              "RelativeDocumentMoniker": "RefundMngtModelLibrary\\Meals.cs",
+              "ToolTip": "C:\\Users\\VC\\Desktop\\Presidio\\Genspark-trainings\\dotnet-trainings\\console-spplications\\day9\\day9RefundManagementAppSolution\\RefundMngtModelLibrary\\Meals.cs",
+              "RelativeToolTip": "RefundMngtModelLibrary\\Meals.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAgAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T04:45:22.273Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Travel.cs",
+              "DocumentMoniker": "C:\\Users\\VC\\Desktop\\Presidio\\Genspark-trainings\\dotnet-trainings\\console-spplications\\day9\\day9RefundManagementAppSolution\\RefundMngtModelLibrary\\Travel.cs",
+              "RelativeDocumentMoniker": "RefundMngtModelLibrary\\Travel.cs",
+              "ToolTip": "C:\\Users\\VC\\Desktop\\Presidio\\Genspark-trainings\\dotnet-trainings\\console-spplications\\day9\\day9RefundManagementAppSolution\\RefundMngtModelLibrary\\Travel.cs",
+              "RelativeToolTip": "RefundMngtModelLibrary\\Travel.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAiwAoAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T04:45:07.61Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ExpenseType.cs",
+              "DocumentMoniker": "C:\\Users\\VC\\Desktop\\Presidio\\Genspark-trainings\\dotnet-trainings\\console-spplications\\day9\\day9RefundManagementAppSolution\\RefundMngtModelLibrary\\ExpenseType.cs",
+              "RelativeDocumentMoniker": "RefundMngtModelLibrary\\ExpenseType.cs",
+              "ToolTip": "C:\\Users\\VC\\Desktop\\Presidio\\Genspark-trainings\\dotnet-trainings\\console-spplications\\day9\\day9RefundManagementAppSolution\\RefundMngtModelLibrary\\ExpenseType.cs",
+              "RelativeToolTip": "RefundMngtModelLibrary\\ExpenseType.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwBQAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T04:35:03.104Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\VC\\Desktop\\Presidio\\Genspark-trainings\\dotnet-trainings\\console-spplications\\day9\\day9RefundManagementAppSolution\\RefundMngtBLLibrary\\Class1.cs",
+              "RelativeDocumentMoniker": "RefundMngtBLLibrary\\Class1.cs",
+              "ToolTip": "C:\\Users\\VC\\Desktop\\Presidio\\Genspark-trainings\\dotnet-trainings\\console-spplications\\day9\\day9RefundManagementAppSolution\\RefundMngtBLLibrary\\Class1.cs",
+              "RelativeToolTip": "RefundMngtBLLibrary\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T04:14:33.886Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\VC\\Desktop\\Presidio\\Genspark-trainings\\dotnet-trainings\\console-spplications\\day9\\day9RefundManagementAppSolution\\RefundMngtDALLibrary\\Class1.cs",
+              "RelativeDocumentMoniker": "RefundMngtDALLibrary\\Class1.cs",
+              "ToolTip": "C:\\Users\\VC\\Desktop\\Presidio\\Genspark-trainings\\dotnet-trainings\\console-spplications\\day9\\day9RefundManagementAppSolution\\RefundMngtDALLibrary\\Class1.cs",
+              "RelativeToolTip": "RefundMngtDALLibrary\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T04:14:11.778Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\VC\\Desktop\\Presidio\\Genspark-trainings\\dotnet-trainings\\console-spplications\\day9\\day9RefundManagementAppSolution\\RefundMngtModelLibrary\\Employee.cs",
+              "RelativeDocumentMoniker": "RefundMngtModelLibrary\\Employee.cs",
+              "ToolTip": "C:\\Users\\VC\\Desktop\\Presidio\\Genspark-trainings\\dotnet-trainings\\console-spplications\\day9\\day9RefundManagementAppSolution\\RefundMngtModelLibrary\\Employee.cs",
+              "RelativeToolTip": "RefundMngtModelLibrary\\Employee.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwCcAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T04:12:34.567Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\VC\\Desktop\\Presidio\\Genspark-trainings\\dotnet-trainings\\console-spplications\\day9\\day9RefundManagementAppSolution\\day9RefundManagementApp\\Program.cs",
+              "RelativeDocumentMoniker": "day9RefundManagementApp\\Program.cs",
+              "ToolTip": "C:\\Users\\VC\\Desktop\\Presidio\\Genspark-trainings\\dotnet-trainings\\console-spplications\\day9\\day9RefundManagementAppSolution\\day9RefundManagementApp\\Program.cs",
+              "RelativeToolTip": "day9RefundManagementApp\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T04:10:59.457Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
