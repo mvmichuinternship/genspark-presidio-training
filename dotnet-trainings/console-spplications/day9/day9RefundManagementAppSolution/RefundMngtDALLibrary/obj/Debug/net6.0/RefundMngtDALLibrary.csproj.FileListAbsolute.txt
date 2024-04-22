@@ -1,0 +1,16 @@
+C:\Users\VC\Desktop\Presidio\Genspark-trainings\dotnet-trainings\console-spplications\day9\day9RefundManagementAppSolution\RefundMngtDALLibrary\bin\Debug\net6.0\RefundMngtDALLibrary.deps.json
+C:\Users\VC\Desktop\Presidio\Genspark-trainings\dotnet-trainings\console-spplications\day9\day9RefundManagementAppSolution\RefundMngtDALLibrary\bin\Debug\net6.0\RefundMngtDALLibrary.dll
+C:\Users\VC\Desktop\Presidio\Genspark-trainings\dotnet-trainings\console-spplications\day9\day9RefundManagementAppSolution\RefundMngtDALLibrary\bin\Debug\net6.0\RefundMngtDALLibrary.pdb
+C:\Users\VC\Desktop\Presidio\Genspark-trainings\dotnet-trainings\console-spplications\day9\day9RefundManagementAppSolution\RefundMngtDALLibrary\bin\Debug\net6.0\RefundMngtModelLibrary.dll
+C:\Users\VC\Desktop\Presidio\Genspark-trainings\dotnet-trainings\console-spplications\day9\day9RefundManagementAppSolution\RefundMngtDALLibrary\bin\Debug\net6.0\RefundMngtModelLibrary.pdb
+C:\Users\VC\Desktop\Presidio\Genspark-trainings\dotnet-trainings\console-spplications\day9\day9RefundManagementAppSolution\RefundMngtDALLibrary\obj\Debug\net6.0\RefundMngtDALLibrary.csproj.AssemblyReference.cache
+C:\Users\VC\Desktop\Presidio\Genspark-trainings\dotnet-trainings\console-spplications\day9\day9RefundManagementAppSolution\RefundMngtDALLibrary\obj\Debug\net6.0\RefundMngtDALLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VC\Desktop\Presidio\Genspark-trainings\dotnet-trainings\console-spplications\day9\day9RefundManagementAppSolution\RefundMngtDALLibrary\obj\Debug\net6.0\RefundMngtDALLibrary.AssemblyInfoInputs.cache
+C:\Users\VC\Desktop\Presidio\Genspark-trainings\dotnet-trainings\console-spplications\day9\day9RefundManagementAppSolution\RefundMngtDALLibrary\obj\Debug\net6.0\RefundMngtDALLibrary.AssemblyInfo.cs
+C:\Users\VC\Desktop\Presidio\Genspark-trainings\dotnet-trainings\console-spplications\day9\day9RefundManagementAppSolution\RefundMngtDALLibrary\obj\Debug\net6.0\RefundMngtDALLibrary.csproj.CoreCompileInputs.cache
+C:\Users\VC\Desktop\Presidio\Genspark-trainings\dotnet-trainings\console-spplications\day9\day9RefundManagementAppSolution\RefundMngtDALLibrary\obj\Debug\net6.0\RefundMngtDALLibrary.sourcelink.json
+C:\Users\VC\Desktop\Presidio\Genspark-trainings\dotnet-trainings\console-spplications\day9\day9RefundManagementAppSolution\RefundMngtDALLibrary\obj\Debug\net6.0\RefundMn.8762B4B2.Up2Date
+C:\Users\VC\Desktop\Presidio\Genspark-trainings\dotnet-trainings\console-spplications\day9\day9RefundManagementAppSolution\RefundMngtDALLibrary\obj\Debug\net6.0\RefundMngtDALLibrary.dll
+C:\Users\VC\Desktop\Presidio\Genspark-trainings\dotnet-trainings\console-spplications\day9\day9RefundManagementAppSolution\RefundMngtDALLibrary\obj\Debug\net6.0\refint\RefundMngtDALLibrary.dll
+C:\Users\VC\Desktop\Presidio\Genspark-trainings\dotnet-trainings\console-spplications\day9\day9RefundManagementAppSolution\RefundMngtDALLibrary\obj\Debug\net6.0\RefundMngtDALLibrary.pdb
+C:\Users\VC\Desktop\Presidio\Genspark-trainings\dotnet-trainings\console-spplications\day9\day9RefundManagementAppSolution\RefundMngtDALLibrary\obj\Debug\net6.0\ref\RefundMngtDALLibrary.dll

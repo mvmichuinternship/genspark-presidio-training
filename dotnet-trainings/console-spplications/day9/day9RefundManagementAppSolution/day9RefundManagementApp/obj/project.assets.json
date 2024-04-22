@@ -1,11 +1,67 @@
 {
   "version": 3,
   "targets": {
-    "net6.0": {}
+    "net6.0": {
+      "RefundMngtBLLibrary/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "RefundMngtDALLibrary": "1.0.0",
+          "RefundMngtModelLibrary": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/RefundMngtBLLibrary.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/RefundMngtBLLibrary.dll": {}
+        }
+      },
+      "RefundMngtDALLibrary/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "RefundMngtModelLibrary": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/RefundMngtDALLibrary.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/RefundMngtDALLibrary.dll": {}
+        }
+      },
+      "RefundMngtModelLibrary/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/RefundMngtModelLibrary.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/RefundMngtModelLibrary.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "RefundMngtBLLibrary/1.0.0": {
+      "type": "project",
+      "path": "../RefundMngtBLLibrary/RefundMngtBLLibrary.csproj",
+      "msbuildProject": "../RefundMngtBLLibrary/RefundMngtBLLibrary.csproj"
+    },
+    "RefundMngtDALLibrary/1.0.0": {
+      "type": "project",
+      "path": "../RefundMngtDALLibrary/RefundMngtDALLibrary.csproj",
+      "msbuildProject": "../RefundMngtDALLibrary/RefundMngtDALLibrary.csproj"
+    },
+    "RefundMngtModelLibrary/1.0.0": {
+      "type": "project",
+      "path": "../RefundMngtModelLibrary/RefundMngtModelLibrary.csproj",
+      "msbuildProject": "../RefundMngtModelLibrary/RefundMngtModelLibrary.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net6.0": []
+    "net6.0": [
+      "RefundMngtBLLibrary >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\VC\\.nuget\\packages\\": {},
@@ -38,7 +94,11 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\VC\\Desktop\\Presidio\\Genspark-trainings\\dotnet-trainings\\console-spplications\\day9\\day9RefundManagementAppSolution\\RefundMngtBLLibrary\\RefundMngtBLLibrary.csproj": {
+              "projectPath": "C:\\Users\\VC\\Desktop\\Presidio\\Genspark-trainings\\dotnet-trainings\\console-spplications\\day9\\day9RefundManagementAppSolution\\RefundMngtBLLibrary\\RefundMngtBLLibrary.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

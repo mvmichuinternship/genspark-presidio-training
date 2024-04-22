@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("RefundMngtModelLibrary")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+71ac7c8e9a1792c467a5c7654bb6a11d4a468586")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3eb229fa6d70e8d6a04f14b98e80f31e25ea0dfb")]
 [assembly: System.Reflection.AssemblyProductAttribute("RefundMngtModelLibrary")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RefundMngtModelLibrary")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

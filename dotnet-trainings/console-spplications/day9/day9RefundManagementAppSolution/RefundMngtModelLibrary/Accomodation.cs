@@ -8,26 +8,14 @@ namespace RefundMngtModelLibrary
 {
     public class Accomodation: ExpenseType
     {
-        internal string ExpenseDesc { get; set; }
-        internal int ReturnAmount { get; set; }
+
         /// <summary>
         /// Accomodation class constructor
         /// </summary>
-        public Accomodation()
+        public Accomodation(string type, DateTime dateOfIssue, string description, int amount, Employee empdetails) : base(type, dateOfIssue, description, amount, empdetails)
         {
-            ExpenseTyp = "Accomodation";
-            ExpenseDesc = string.Empty;
-            ReturnAmount = 0;
         }
 
-        public override void ExpenseDescription()
-        {
-            ExpenseDesc = Console.ReadLine();
-        }
 
-        public override void Amount()
-        {
-            ReturnAmount = int.Parse(Console.ReadLine());
-        }
     }
 }

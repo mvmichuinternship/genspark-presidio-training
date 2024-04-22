@@ -2,6 +2,19 @@
 {
     public class Employee
     {
+        public Employee() {
+            Id = 0;
+            Name = string.Empty;
+            DateOfBirth = new DateTime();
+            Salary = 0;
+        }
+        public Employee(int id, string name, DateTime dOb, int salary )
+        {
+            Id = id;
+            Name = name;
+            DateOfBirth = dOb;
+            Salary = salary;
+        }
         int age;
         DateTime dob;
 
@@ -40,5 +53,6 @@
         /// Gets the salary and returns it.
         /// </summary>
         public double Salary { get; set; }
+
     }
 }

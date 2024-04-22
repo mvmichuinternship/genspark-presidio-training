@@ -1,0 +1,63 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "day9RefundManagementApp/1.0.0": {
+        "dependencies": {
+          "RefundMngtBLLibrary": "1.0.0"
+        },
+        "runtime": {
+          "day9RefundManagementApp.dll": {}
+        }
+      },
+      "RefundMngtBLLibrary/1.0.0": {
+        "dependencies": {
+          "RefundMngtDALLibrary": "1.0.0",
+          "RefundMngtModelLibrary": "1.0.0"
+        },
+        "runtime": {
+          "RefundMngtBLLibrary.dll": {}
+        }
+      },
+      "RefundMngtDALLibrary/1.0.0": {
+        "dependencies": {
+          "RefundMngtModelLibrary": "1.0.0"
+        },
+        "runtime": {
+          "RefundMngtDALLibrary.dll": {}
+        }
+      },
+      "RefundMngtModelLibrary/1.0.0": {
+        "runtime": {
+          "RefundMngtModelLibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "day9RefundManagementApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "RefundMngtBLLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "RefundMngtDALLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "RefundMngtModelLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

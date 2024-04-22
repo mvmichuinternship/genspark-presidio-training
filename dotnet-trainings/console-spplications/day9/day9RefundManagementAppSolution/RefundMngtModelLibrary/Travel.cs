@@ -8,23 +8,16 @@ namespace RefundMngtModelLibrary
 {
     public class Travel : ExpenseType
     {
-        internal string ExpenseDesc {  get; set; }
-        internal int ReturnAmount {  get; set; }
+        //internal string ExpenseDesc {  get; set; }
+        //internal int ReturnAmount {  get; set; }
         /// <summary>
         /// Travel class constructor
         /// </summary>
-        public Travel() {
-            ExpenseTyp = "Travel";
-            ExpenseDesc =string.Empty;
-            ReturnAmount = 0;
+        public Travel(string type, DateTime dateOfIssue, string description, int amount, Employee empdetails) : base(type, dateOfIssue, description, amount, empdetails)
+        {
+            
         }
         
-        public override void ExpenseDescription() {
-            ExpenseDesc = Console.ReadLine();
-        }
 
-        public override void Amount() { 
-            ReturnAmount = int.Parse(Console.ReadLine());
-        }
     }
 }

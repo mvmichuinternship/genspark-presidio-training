@@ -1,0 +1,12 @@
+C:\Users\VC\Desktop\Presidio\Genspark-trainings\dotnet-trainings\console-spplications\day9\day9RefundManagementAppSolution\RefundMngtModelLibrary\bin\Debug\net6.0\RefundMngtModelLibrary.deps.json
+C:\Users\VC\Desktop\Presidio\Genspark-trainings\dotnet-trainings\console-spplications\day9\day9RefundManagementAppSolution\RefundMngtModelLibrary\bin\Debug\net6.0\RefundMngtModelLibrary.dll
+C:\Users\VC\Desktop\Presidio\Genspark-trainings\dotnet-trainings\console-spplications\day9\day9RefundManagementAppSolution\RefundMngtModelLibrary\bin\Debug\net6.0\RefundMngtModelLibrary.pdb
+C:\Users\VC\Desktop\Presidio\Genspark-trainings\dotnet-trainings\console-spplications\day9\day9RefundManagementAppSolution\RefundMngtModelLibrary\obj\Debug\net6.0\RefundMngtModelLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VC\Desktop\Presidio\Genspark-trainings\dotnet-trainings\console-spplications\day9\day9RefundManagementAppSolution\RefundMngtModelLibrary\obj\Debug\net6.0\RefundMngtModelLibrary.AssemblyInfoInputs.cache
+C:\Users\VC\Desktop\Presidio\Genspark-trainings\dotnet-trainings\console-spplications\day9\day9RefundManagementAppSolution\RefundMngtModelLibrary\obj\Debug\net6.0\RefundMngtModelLibrary.AssemblyInfo.cs
+C:\Users\VC\Desktop\Presidio\Genspark-trainings\dotnet-trainings\console-spplications\day9\day9RefundManagementAppSolution\RefundMngtModelLibrary\obj\Debug\net6.0\RefundMngtModelLibrary.csproj.CoreCompileInputs.cache
+C:\Users\VC\Desktop\Presidio\Genspark-trainings\dotnet-trainings\console-spplications\day9\day9RefundManagementAppSolution\RefundMngtModelLibrary\obj\Debug\net6.0\RefundMngtModelLibrary.sourcelink.json
+C:\Users\VC\Desktop\Presidio\Genspark-trainings\dotnet-trainings\console-spplications\day9\day9RefundManagementAppSolution\RefundMngtModelLibrary\obj\Debug\net6.0\RefundMngtModelLibrary.dll
+C:\Users\VC\Desktop\Presidio\Genspark-trainings\dotnet-trainings\console-spplications\day9\day9RefundManagementAppSolution\RefundMngtModelLibrary\obj\Debug\net6.0\refint\RefundMngtModelLibrary.dll
+C:\Users\VC\Desktop\Presidio\Genspark-trainings\dotnet-trainings\console-spplications\day9\day9RefundManagementAppSolution\RefundMngtModelLibrary\obj\Debug\net6.0\RefundMngtModelLibrary.pdb
+C:\Users\VC\Desktop\Presidio\Genspark-trainings\dotnet-trainings\console-spplications\day9\day9RefundManagementAppSolution\RefundMngtModelLibrary\obj\Debug\net6.0\ref\RefundMngtModelLibrary.dll
