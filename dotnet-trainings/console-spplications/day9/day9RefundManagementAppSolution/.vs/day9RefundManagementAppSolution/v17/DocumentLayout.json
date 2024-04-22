@@ -70,8 +70,7 @@
               "RelativeToolTip": "RefundMngtModelLibrary\\Return.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAiAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-22T10:10:41.46Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-22T10:10:41.46Z"
             },
             {
               "$type": "Document",
@@ -83,8 +82,7 @@
               "RelativeToolTip": "RefundMngtBLLibrary\\EmployeeBL.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-22T09:35:55.54Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-22T09:35:55.54Z"
             },
             {
               "$type": "Document",
@@ -96,8 +94,7 @@
               "RelativeToolTip": "RefundMngtDALLibrary\\EmployeeRepository.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-22T09:21:46.758Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-22T09:21:46.758Z"
             },
             {
               "$type": "Document",
@@ -109,8 +106,7 @@
               "RelativeToolTip": "RefundMngtDALLibrary\\IRepository.cs",
               "ViewState": "AQIAAAMAAAAAAAAAAAAAAA4AAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-22T09:20:55.085Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-22T09:20:55.085Z"
             },
             {
               "$type": "Document",
@@ -122,8 +118,7 @@
               "RelativeToolTip": "RefundMngtDALLibrary\\ExpenseRepository.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-22T09:20:35.435Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-22T09:20:35.435Z"
             },
             {
               "$type": "Document",
@@ -135,8 +130,7 @@
               "RelativeToolTip": "RefundMngtBLLibrary\\AcceptanceBL.cs",
               "ViewState": "AQIAAAkAAAAAAAAAAAAUwBMAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-22T09:17:12.932Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-22T09:17:12.932Z"
             },
             {
               "$type": "Document",
@@ -148,8 +142,7 @@
               "RelativeToolTip": "RefundMngtBLLibrary\\IAcceptance.cs",
               "ViewState": "AQIAAAMAAAAAAAAAAAAQwAsAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-22T09:17:00Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-22T09:17:00Z"
             },
             {
               "$type": "Document",
@@ -161,8 +154,7 @@
               "RelativeToolTip": "RefundMngtModelLibrary\\Accomodation.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAowAoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-22T07:29:08.224Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-22T07:29:08.224Z"
             },
             {
               "$type": "Document",
@@ -174,8 +166,7 @@
               "RelativeToolTip": "RefundMngtModelLibrary\\Travel.cs",
               "ViewState": "AQIAAAsAAAAAAAAAAAAswBQAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-22T07:28:43.043Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-22T07:28:43.043Z"
             },
             {
               "$type": "Document",
@@ -187,8 +178,7 @@
               "RelativeToolTip": "RefundMngtModelLibrary\\Meals.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-22T07:26:51.499Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-22T07:26:51.499Z"
             },
             {
               "$type": "Document",
@@ -200,8 +190,7 @@
               "RelativeToolTip": "RefundMngtModelLibrary\\ExpenseType.cs",
               "ViewState": "AQIAAAsAAAAAAAAAAAAAwCsAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-22T07:18:21.709Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-22T07:18:21.709Z"
             },
             {
               "$type": "Document",
@@ -211,7 +200,7 @@
               "RelativeDocumentMoniker": "day9RefundManagementApp\\Program.cs",
               "ToolTip": "C:\\Users\\VC\\Desktop\\Presidio\\Genspark-trainings\\dotnet-trainings\\console-spplications\\day9\\day9RefundManagementAppSolution\\day9RefundManagementApp\\Program.cs",
               "RelativeToolTip": "day9RefundManagementApp\\Program.cs",
-              "ViewState": "AQIAAHUAAAAAAAAAAAAzwJIAAAAWAAAA",
+              "ViewState": "AQIAAHUAAAAAAAAAAAAxwJMAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-22T04:10:59.457Z",
               "EditorCaption": ""
