@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\VC\\Desktop\\Presidio\\Genspark-trainings\\dotnet-trainings\\console-spplications\\day9\\day11shoppingCartSolution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{50E8523A-10E2-40CF-8E53-C171D703384C}|BLTests\\BLTests.csproj|c:\\users\\vc\\desktop\\presidio\\genspark-trainings\\dotnet-trainings\\console-spplications\\day9\\day11shoppingcartsolution\\bltests\\cartbltest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50E8523A-10E2-40CF-8E53-C171D703384C}|BLTests\\BLTests.csproj|solutionrelative:bltests\\cartbltest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCBA8C0C-C6EC-4663-86CF-002DC88112DD}|shoppingCartBLLibrary\\shoppingCartBLLibrary.csproj|c:\\users\\vc\\desktop\\presidio\\genspark-trainings\\dotnet-trainings\\console-spplications\\day9\\day11shoppingcartsolution\\shoppingcartbllibrary\\cartbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCBA8C0C-C6EC-4663-86CF-002DC88112DD}|shoppingCartBLLibrary\\shoppingCartBLLibrary.csproj|solutionrelative:shoppingcartbllibrary\\cartbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CartBL.cs",
+              "DocumentMoniker": "C:\\Users\\VC\\Desktop\\Presidio\\Genspark-trainings\\dotnet-trainings\\console-spplications\\day9\\day11shoppingCartSolution\\shoppingCartBLLibrary\\CartBL.cs",
+              "RelativeDocumentMoniker": "shoppingCartBLLibrary\\CartBL.cs",
+              "ToolTip": "C:\\Users\\VC\\Desktop\\Presidio\\Genspark-trainings\\dotnet-trainings\\console-spplications\\day9\\day11shoppingCartSolution\\shoppingCartBLLibrary\\CartBL.cs",
+              "RelativeToolTip": "shoppingCartBLLibrary\\CartBL.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAgwDUAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T12:07:05.152Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CartBLTest.cs",
+              "DocumentMoniker": "C:\\Users\\VC\\Desktop\\Presidio\\Genspark-trainings\\dotnet-trainings\\console-spplications\\day9\\day11shoppingCartSolution\\BLTests\\CartBLTest.cs",
+              "RelativeDocumentMoniker": "BLTests\\CartBLTest.cs",
+              "ToolTip": "C:\\Users\\VC\\Desktop\\Presidio\\Genspark-trainings\\dotnet-trainings\\console-spplications\\day9\\day11shoppingCartSolution\\BLTests\\CartBLTest.cs",
+              "RelativeToolTip": "BLTests\\CartBLTest.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAA3wDcAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T11:23:55.638Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

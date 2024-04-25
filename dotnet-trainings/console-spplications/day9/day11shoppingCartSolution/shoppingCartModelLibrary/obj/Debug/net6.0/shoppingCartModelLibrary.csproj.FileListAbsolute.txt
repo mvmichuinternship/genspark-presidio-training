@@ -1,0 +1,12 @@
+C:\Users\VC\Desktop\Presidio\Genspark-trainings\dotnet-trainings\console-spplications\day9\day11shoppingCartSolution\shoppingCartModelLibrary\bin\Debug\net6.0\shoppingCartModelLibrary.deps.json
+C:\Users\VC\Desktop\Presidio\Genspark-trainings\dotnet-trainings\console-spplications\day9\day11shoppingCartSolution\shoppingCartModelLibrary\bin\Debug\net6.0\shoppingCartModelLibrary.dll
+C:\Users\VC\Desktop\Presidio\Genspark-trainings\dotnet-trainings\console-spplications\day9\day11shoppingCartSolution\shoppingCartModelLibrary\bin\Debug\net6.0\shoppingCartModelLibrary.pdb
+C:\Users\VC\Desktop\Presidio\Genspark-trainings\dotnet-trainings\console-spplications\day9\day11shoppingCartSolution\shoppingCartModelLibrary\obj\Debug\net6.0\shoppingCartModelLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VC\Desktop\Presidio\Genspark-trainings\dotnet-trainings\console-spplications\day9\day11shoppingCartSolution\shoppingCartModelLibrary\obj\Debug\net6.0\shoppingCartModelLibrary.AssemblyInfoInputs.cache
+C:\Users\VC\Desktop\Presidio\Genspark-trainings\dotnet-trainings\console-spplications\day9\day11shoppingCartSolution\shoppingCartModelLibrary\obj\Debug\net6.0\shoppingCartModelLibrary.AssemblyInfo.cs
+C:\Users\VC\Desktop\Presidio\Genspark-trainings\dotnet-trainings\console-spplications\day9\day11shoppingCartSolution\shoppingCartModelLibrary\obj\Debug\net6.0\shoppingCartModelLibrary.csproj.CoreCompileInputs.cache
+C:\Users\VC\Desktop\Presidio\Genspark-trainings\dotnet-trainings\console-spplications\day9\day11shoppingCartSolution\shoppingCartModelLibrary\obj\Debug\net6.0\shoppingCartModelLibrary.sourcelink.json
+C:\Users\VC\Desktop\Presidio\Genspark-trainings\dotnet-trainings\console-spplications\day9\day11shoppingCartSolution\shoppingCartModelLibrary\obj\Debug\net6.0\shoppingCartModelLibrary.dll
+C:\Users\VC\Desktop\Presidio\Genspark-trainings\dotnet-trainings\console-spplications\day9\day11shoppingCartSolution\shoppingCartModelLibrary\obj\Debug\net6.0\refint\shoppingCartModelLibrary.dll
+C:\Users\VC\Desktop\Presidio\Genspark-trainings\dotnet-trainings\console-spplications\day9\day11shoppingCartSolution\shoppingCartModelLibrary\obj\Debug\net6.0\shoppingCartModelLibrary.pdb
+C:\Users\VC\Desktop\Presidio\Genspark-trainings\dotnet-trainings\console-spplications\day9\day11shoppingCartSolution\shoppingCartModelLibrary\obj\Debug\net6.0\ref\shoppingCartModelLibrary.dll
