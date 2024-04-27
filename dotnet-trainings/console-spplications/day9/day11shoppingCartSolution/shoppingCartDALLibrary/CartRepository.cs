@@ -9,22 +9,22 @@ namespace shoppingCartDALLibrary
 {
     public class CartRepository : AbstractRepository<int, Cart>
     {
-        public override Cart Delete(int key)
+        public override async Task<Cart> Delete(int key)
         {
-            Cart cart = GetByKey(key);
+            Cart cart = await GetByKey(key);
             items.Remove(cart);
             return cart;
         }
 
-        public override Cart GetByKey(int key)
+        public override async Task<Cart> GetByKey(int key)
         {
             Cart cart = items.FirstOrDefault(c => c.Id == key);
             return cart;
         }
 
-        public override Cart Update(Cart item)
+        public override async Task<Cart> Update(Cart item)
         {
-            Cart cart = GetByKey(item.Id);
+            Cart cart = await GetByKey(item.Id);
             if (cart != null)
             {
                 cart = item;

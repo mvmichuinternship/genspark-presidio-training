@@ -11,23 +11,23 @@ namespace shoppingCartDALLibrary
     {
         public ProductRepository() { }
 
-        public override Product Delete(int key)
+        public override async Task<Product> Delete(int key)
         {
-            Product product = GetByKey(key);
+            Product product = await GetByKey(key);
             Product prod = product;
             items.ToList().Remove(product);
             return prod;
         }
 
-        public override Product GetByKey(int key)
+        public override async Task<Product> GetByKey(int key)
         {
             Product product = items.FirstOrDefault(p => p.Id == key);
             return product;
         }
 
-        public override Product Update(Product item)
+        public override async Task<Product> Update(Product item)
         {
-            Product product= GetByKey(item.Id);
+            Product product= await GetByKey(item.Id);
             if (product != null)
             {
                 product = item;
