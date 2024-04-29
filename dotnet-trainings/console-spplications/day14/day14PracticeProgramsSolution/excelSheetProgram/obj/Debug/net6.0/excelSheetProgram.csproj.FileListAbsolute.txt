@@ -1,0 +1,15 @@
+C:\Users\VC\Desktop\Presidio\Genspark-trainings\dotnet-trainings\console-spplications\day14\day14PracticeProgramsSolution\excelSheetProgram\bin\Debug\net6.0\excelSheetProgram.exe
+C:\Users\VC\Desktop\Presidio\Genspark-trainings\dotnet-trainings\console-spplications\day14\day14PracticeProgramsSolution\excelSheetProgram\bin\Debug\net6.0\excelSheetProgram.deps.json
+C:\Users\VC\Desktop\Presidio\Genspark-trainings\dotnet-trainings\console-spplications\day14\day14PracticeProgramsSolution\excelSheetProgram\bin\Debug\net6.0\excelSheetProgram.runtimeconfig.json
+C:\Users\VC\Desktop\Presidio\Genspark-trainings\dotnet-trainings\console-spplications\day14\day14PracticeProgramsSolution\excelSheetProgram\bin\Debug\net6.0\excelSheetProgram.dll
+C:\Users\VC\Desktop\Presidio\Genspark-trainings\dotnet-trainings\console-spplications\day14\day14PracticeProgramsSolution\excelSheetProgram\bin\Debug\net6.0\excelSheetProgram.pdb
+C:\Users\VC\Desktop\Presidio\Genspark-trainings\dotnet-trainings\console-spplications\day14\day14PracticeProgramsSolution\excelSheetProgram\obj\Debug\net6.0\excelSheetProgram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VC\Desktop\Presidio\Genspark-trainings\dotnet-trainings\console-spplications\day14\day14PracticeProgramsSolution\excelSheetProgram\obj\Debug\net6.0\excelSheetProgram.AssemblyInfoInputs.cache
+C:\Users\VC\Desktop\Presidio\Genspark-trainings\dotnet-trainings\console-spplications\day14\day14PracticeProgramsSolution\excelSheetProgram\obj\Debug\net6.0\excelSheetProgram.AssemblyInfo.cs
+C:\Users\VC\Desktop\Presidio\Genspark-trainings\dotnet-trainings\console-spplications\day14\day14PracticeProgramsSolution\excelSheetProgram\obj\Debug\net6.0\excelSheetProgram.csproj.CoreCompileInputs.cache
+C:\Users\VC\Desktop\Presidio\Genspark-trainings\dotnet-trainings\console-spplications\day14\day14PracticeProgramsSolution\excelSheetProgram\obj\Debug\net6.0\excelSheetProgram.sourcelink.json
+C:\Users\VC\Desktop\Presidio\Genspark-trainings\dotnet-trainings\console-spplications\day14\day14PracticeProgramsSolution\excelSheetProgram\obj\Debug\net6.0\excelSheetProgram.dll
+C:\Users\VC\Desktop\Presidio\Genspark-trainings\dotnet-trainings\console-spplications\day14\day14PracticeProgramsSolution\excelSheetProgram\obj\Debug\net6.0\refint\excelSheetProgram.dll
+C:\Users\VC\Desktop\Presidio\Genspark-trainings\dotnet-trainings\console-spplications\day14\day14PracticeProgramsSolution\excelSheetProgram\obj\Debug\net6.0\excelSheetProgram.pdb
+C:\Users\VC\Desktop\Presidio\Genspark-trainings\dotnet-trainings\console-spplications\day14\day14PracticeProgramsSolution\excelSheetProgram\obj\Debug\net6.0\excelSheetProgram.genruntimeconfig.cache
+C:\Users\VC\Desktop\Presidio\Genspark-trainings\dotnet-trainings\console-spplications\day14\day14PracticeProgramsSolution\excelSheetProgram\obj\Debug\net6.0\ref\excelSheetProgram.dll

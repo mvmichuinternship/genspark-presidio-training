@@ -1,0 +1,15 @@
+C:\Users\VC\Desktop\Presidio\Genspark-trainings\dotnet-trainings\console-spplications\day14\day14PracticeProgramsSolution\day14PracticePrograms\bin\Debug\net6.0\day14PracticePrograms.exe
+C:\Users\VC\Desktop\Presidio\Genspark-trainings\dotnet-trainings\console-spplications\day14\day14PracticeProgramsSolution\day14PracticePrograms\bin\Debug\net6.0\day14PracticePrograms.deps.json
+C:\Users\VC\Desktop\Presidio\Genspark-trainings\dotnet-trainings\console-spplications\day14\day14PracticeProgramsSolution\day14PracticePrograms\bin\Debug\net6.0\day14PracticePrograms.runtimeconfig.json
+C:\Users\VC\Desktop\Presidio\Genspark-trainings\dotnet-trainings\console-spplications\day14\day14PracticeProgramsSolution\day14PracticePrograms\bin\Debug\net6.0\day14PracticePrograms.dll
+C:\Users\VC\Desktop\Presidio\Genspark-trainings\dotnet-trainings\console-spplications\day14\day14PracticeProgramsSolution\day14PracticePrograms\bin\Debug\net6.0\day14PracticePrograms.pdb
+C:\Users\VC\Desktop\Presidio\Genspark-trainings\dotnet-trainings\console-spplications\day14\day14PracticeProgramsSolution\day14PracticePrograms\obj\Debug\net6.0\day14PracticePrograms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VC\Desktop\Presidio\Genspark-trainings\dotnet-trainings\console-spplications\day14\day14PracticeProgramsSolution\day14PracticePrograms\obj\Debug\net6.0\day14PracticePrograms.AssemblyInfoInputs.cache
+C:\Users\VC\Desktop\Presidio\Genspark-trainings\dotnet-trainings\console-spplications\day14\day14PracticeProgramsSolution\day14PracticePrograms\obj\Debug\net6.0\day14PracticePrograms.AssemblyInfo.cs
+C:\Users\VC\Desktop\Presidio\Genspark-trainings\dotnet-trainings\console-spplications\day14\day14PracticeProgramsSolution\day14PracticePrograms\obj\Debug\net6.0\day14PracticePrograms.csproj.CoreCompileInputs.cache
+C:\Users\VC\Desktop\Presidio\Genspark-trainings\dotnet-trainings\console-spplications\day14\day14PracticeProgramsSolution\day14PracticePrograms\obj\Debug\net6.0\day14PracticePrograms.sourcelink.json
+C:\Users\VC\Desktop\Presidio\Genspark-trainings\dotnet-trainings\console-spplications\day14\day14PracticeProgramsSolution\day14PracticePrograms\obj\Debug\net6.0\day14PracticePrograms.dll
+C:\Users\VC\Desktop\Presidio\Genspark-trainings\dotnet-trainings\console-spplications\day14\day14PracticeProgramsSolution\day14PracticePrograms\obj\Debug\net6.0\refint\day14PracticePrograms.dll
+C:\Users\VC\Desktop\Presidio\Genspark-trainings\dotnet-trainings\console-spplications\day14\day14PracticeProgramsSolution\day14PracticePrograms\obj\Debug\net6.0\day14PracticePrograms.pdb
+C:\Users\VC\Desktop\Presidio\Genspark-trainings\dotnet-trainings\console-spplications\day14\day14PracticeProgramsSolution\day14PracticePrograms\obj\Debug\net6.0\day14PracticePrograms.genruntimeconfig.cache
+C:\Users\VC\Desktop\Presidio\Genspark-trainings\dotnet-trainings\console-spplications\day14\day14PracticeProgramsSolution\day14PracticePrograms\obj\Debug\net6.0\ref\day14PracticePrograms.dll
