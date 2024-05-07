@@ -4,8 +4,8 @@
     {
         public int Id { get; set; }
         public string Name { get; set; }
-        public int Specialization { get; set; }
-        public string Experience { get; set; }
+        public string Specialization { get; set; }
+        public int Experience { get; set; }
         public int Salary { get; set; }
     }
 }

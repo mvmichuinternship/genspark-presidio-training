@@ -5,11 +5,15 @@ VisualStudioVersion = 17.9.34723.18
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "day4ConsoleAppDoctor", "day4ConsoleAppDoctor\day4ConsoleAppDoctor.csproj", "{11252FE5-ED90-4EF8-B4B3-650A18C3DB25}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClinicTrackerModelLibrary", "ClinicTrackerModelLibrary\ClinicTrackerModelLibrary.csproj", "{639F9463-40AE-4ED6-A407-06C6ECAAB6A5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ClinicTrackerModelLibrary", "ClinicTrackerModelLibrary\ClinicTrackerModelLibrary.csproj", "{639F9463-40AE-4ED6-A407-06C6ECAAB6A5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClinicAppDalLibrary", "ClinicAppDalLibrary\ClinicAppDalLibrary.csproj", "{3F99BB84-C553-44FD-9C45-16FDB8229F8C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ClinicAppDalLibrary", "ClinicAppDalLibrary\ClinicAppDalLibrary.csproj", "{3F99BB84-C553-44FD-9C45-16FDB8229F8C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClinicAppBlLibrary", "ClinicAppBlLibrary\ClinicAppBlLibrary.csproj", "{F8BD6DFD-4554-46DF-95BC-D36B23F56462}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ClinicAppBlLibrary", "ClinicAppBlLibrary\ClinicAppBlLibrary.csproj", "{F8BD6DFD-4554-46DF-95BC-D36B23F56462}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppointmentBLTest", "AppointmentBLTest\AppointmentBLTest.csproj", "{E81557EE-F01C-487B-929E-75FE3723C538}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DoctorBLTest", "DoctorBLTest\DoctorBLTest.csproj", "{D4B928EB-61CC-491E-B3DF-88125932F39A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +37,14 @@ Global
 		{F8BD6DFD-4554-46DF-95BC-D36B23F56462}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F8BD6DFD-4554-46DF-95BC-D36B23F56462}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F8BD6DFD-4554-46DF-95BC-D36B23F56462}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E81557EE-F01C-487B-929E-75FE3723C538}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E81557EE-F01C-487B-929E-75FE3723C538}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E81557EE-F01C-487B-929E-75FE3723C538}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E81557EE-F01C-487B-929E-75FE3723C538}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D4B928EB-61CC-491E-B3DF-88125932F39A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D4B928EB-61CC-491E-B3DF-88125932F39A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D4B928EB-61CC-491E-B3DF-88125932F39A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D4B928EB-61CC-491E-B3DF-88125932F39A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

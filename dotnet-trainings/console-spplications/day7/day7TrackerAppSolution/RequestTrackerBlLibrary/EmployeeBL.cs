@@ -83,5 +83,10 @@ namespace RequestTrackerBlLibrary
 
             throw new EmployeeHeadNotFoundException();
         }
+
+        int IEmployeeServices.GetEmployeeRole(int id)
+        {
+            throw new NotImplementedException();
+        }
     }
 }

@@ -1,0 +1,16 @@
+C:\Users\VC\Desktop\Presidio\Genspark-trainings\dotnet-trainings\console-spplications\day4\day4ConsoleAppDoctorSolution\ClinicAppDalLibrary\bin\Debug\net6.0\ClinicAppDalLibrary.deps.json
+C:\Users\VC\Desktop\Presidio\Genspark-trainings\dotnet-trainings\console-spplications\day4\day4ConsoleAppDoctorSolution\ClinicAppDalLibrary\bin\Debug\net6.0\ClinicAppDalLibrary.dll
+C:\Users\VC\Desktop\Presidio\Genspark-trainings\dotnet-trainings\console-spplications\day4\day4ConsoleAppDoctorSolution\ClinicAppDalLibrary\bin\Debug\net6.0\ClinicAppDalLibrary.pdb
+C:\Users\VC\Desktop\Presidio\Genspark-trainings\dotnet-trainings\console-spplications\day4\day4ConsoleAppDoctorSolution\ClinicAppDalLibrary\bin\Debug\net6.0\ClinicTrackerModelLibrary.dll
+C:\Users\VC\Desktop\Presidio\Genspark-trainings\dotnet-trainings\console-spplications\day4\day4ConsoleAppDoctorSolution\ClinicAppDalLibrary\bin\Debug\net6.0\ClinicTrackerModelLibrary.pdb
+C:\Users\VC\Desktop\Presidio\Genspark-trainings\dotnet-trainings\console-spplications\day4\day4ConsoleAppDoctorSolution\ClinicAppDalLibrary\obj\Debug\net6.0\ClinicAppDalLibrary.csproj.AssemblyReference.cache
+C:\Users\VC\Desktop\Presidio\Genspark-trainings\dotnet-trainings\console-spplications\day4\day4ConsoleAppDoctorSolution\ClinicAppDalLibrary\obj\Debug\net6.0\ClinicAppDalLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VC\Desktop\Presidio\Genspark-trainings\dotnet-trainings\console-spplications\day4\day4ConsoleAppDoctorSolution\ClinicAppDalLibrary\obj\Debug\net6.0\ClinicAppDalLibrary.AssemblyInfoInputs.cache
+C:\Users\VC\Desktop\Presidio\Genspark-trainings\dotnet-trainings\console-spplications\day4\day4ConsoleAppDoctorSolution\ClinicAppDalLibrary\obj\Debug\net6.0\ClinicAppDalLibrary.AssemblyInfo.cs
+C:\Users\VC\Desktop\Presidio\Genspark-trainings\dotnet-trainings\console-spplications\day4\day4ConsoleAppDoctorSolution\ClinicAppDalLibrary\obj\Debug\net6.0\ClinicAppDalLibrary.csproj.CoreCompileInputs.cache
+C:\Users\VC\Desktop\Presidio\Genspark-trainings\dotnet-trainings\console-spplications\day4\day4ConsoleAppDoctorSolution\ClinicAppDalLibrary\obj\Debug\net6.0\ClinicAppDalLibrary.sourcelink.json
+C:\Users\VC\Desktop\Presidio\Genspark-trainings\dotnet-trainings\console-spplications\day4\day4ConsoleAppDoctorSolution\ClinicAppDalLibrary\obj\Debug\net6.0\ClinicAp.B0AAD8AF.Up2Date
+C:\Users\VC\Desktop\Presidio\Genspark-trainings\dotnet-trainings\console-spplications\day4\day4ConsoleAppDoctorSolution\ClinicAppDalLibrary\obj\Debug\net6.0\ClinicAppDalLibrary.dll
+C:\Users\VC\Desktop\Presidio\Genspark-trainings\dotnet-trainings\console-spplications\day4\day4ConsoleAppDoctorSolution\ClinicAppDalLibrary\obj\Debug\net6.0\refint\ClinicAppDalLibrary.dll
+C:\Users\VC\Desktop\Presidio\Genspark-trainings\dotnet-trainings\console-spplications\day4\day4ConsoleAppDoctorSolution\ClinicAppDalLibrary\obj\Debug\net6.0\ClinicAppDalLibrary.pdb
+C:\Users\VC\Desktop\Presidio\Genspark-trainings\dotnet-trainings\console-spplications\day4\day4ConsoleAppDoctorSolution\ClinicAppDalLibrary\obj\Debug\net6.0\ref\ClinicAppDalLibrary.dll

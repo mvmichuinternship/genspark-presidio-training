@@ -1,0 +1,50 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "ClinicAppBlLibrary/1.0.0": {
+        "dependencies": {
+          "ClinicAppDalLibrary": "1.0.0",
+          "ClinicTrackerModelLibrary": "1.0.0"
+        },
+        "runtime": {
+          "ClinicAppBlLibrary.dll": {}
+        }
+      },
+      "ClinicAppDalLibrary/1.0.0": {
+        "dependencies": {
+          "ClinicTrackerModelLibrary": "1.0.0"
+        },
+        "runtime": {
+          "ClinicAppDalLibrary.dll": {}
+        }
+      },
+      "ClinicTrackerModelLibrary/1.0.0": {
+        "runtime": {
+          "ClinicTrackerModelLibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ClinicAppBlLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ClinicAppDalLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ClinicTrackerModelLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

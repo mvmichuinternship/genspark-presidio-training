@@ -24,7 +24,7 @@ namespace ClinicAppDalLibrary
                 return 1;
             }
             int id = _appointments.Keys.Max();
-            return id++;
+            return ++id;
         }
 
         public Appointment Add(Appointment item)
@@ -33,7 +33,8 @@ namespace ClinicAppDalLibrary
             {
                 return null;
             }
-            _appointments.Add(GenerateID(), item);
+            item.AppId = GenerateID();
+            _appointments.Add(item.AppId, item);
             return item;
         }
 

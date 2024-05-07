@@ -1,0 +1,16 @@
+C:\Users\VC\Desktop\Presidio\Genspark-trainings\dotnet-trainings\console-spplications\day7\day7TrackerAppSolution\RequestTrackerDalLibrary\bin\Debug\net6.0\RequestTrackerDalLibrary.deps.json
+C:\Users\VC\Desktop\Presidio\Genspark-trainings\dotnet-trainings\console-spplications\day7\day7TrackerAppSolution\RequestTrackerDalLibrary\bin\Debug\net6.0\RequestTrackerDalLibrary.dll
+C:\Users\VC\Desktop\Presidio\Genspark-trainings\dotnet-trainings\console-spplications\day7\day7TrackerAppSolution\RequestTrackerDalLibrary\bin\Debug\net6.0\RequestTrackerDalLibrary.pdb
+C:\Users\VC\Desktop\Presidio\Genspark-trainings\dotnet-trainings\console-spplications\day7\day7TrackerAppSolution\RequestTrackerDalLibrary\bin\Debug\net6.0\RequestTrackerAppModel.dll
+C:\Users\VC\Desktop\Presidio\Genspark-trainings\dotnet-trainings\console-spplications\day7\day7TrackerAppSolution\RequestTrackerDalLibrary\bin\Debug\net6.0\RequestTrackerAppModel.pdb
+C:\Users\VC\Desktop\Presidio\Genspark-trainings\dotnet-trainings\console-spplications\day7\day7TrackerAppSolution\RequestTrackerDalLibrary\obj\Debug\net6.0\RequestTrackerDalLibrary.csproj.AssemblyReference.cache
+C:\Users\VC\Desktop\Presidio\Genspark-trainings\dotnet-trainings\console-spplications\day7\day7TrackerAppSolution\RequestTrackerDalLibrary\obj\Debug\net6.0\RequestTrackerDalLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VC\Desktop\Presidio\Genspark-trainings\dotnet-trainings\console-spplications\day7\day7TrackerAppSolution\RequestTrackerDalLibrary\obj\Debug\net6.0\RequestTrackerDalLibrary.AssemblyInfoInputs.cache
+C:\Users\VC\Desktop\Presidio\Genspark-trainings\dotnet-trainings\console-spplications\day7\day7TrackerAppSolution\RequestTrackerDalLibrary\obj\Debug\net6.0\RequestTrackerDalLibrary.AssemblyInfo.cs
+C:\Users\VC\Desktop\Presidio\Genspark-trainings\dotnet-trainings\console-spplications\day7\day7TrackerAppSolution\RequestTrackerDalLibrary\obj\Debug\net6.0\RequestTrackerDalLibrary.csproj.CoreCompileInputs.cache
+C:\Users\VC\Desktop\Presidio\Genspark-trainings\dotnet-trainings\console-spplications\day7\day7TrackerAppSolution\RequestTrackerDalLibrary\obj\Debug\net6.0\RequestTrackerDalLibrary.sourcelink.json
+C:\Users\VC\Desktop\Presidio\Genspark-trainings\dotnet-trainings\console-spplications\day7\day7TrackerAppSolution\RequestTrackerDalLibrary\obj\Debug\net6.0\RequestT.3862F959.Up2Date
+C:\Users\VC\Desktop\Presidio\Genspark-trainings\dotnet-trainings\console-spplications\day7\day7TrackerAppSolution\RequestTrackerDalLibrary\obj\Debug\net6.0\RequestTrackerDalLibrary.dll
+C:\Users\VC\Desktop\Presidio\Genspark-trainings\dotnet-trainings\console-spplications\day7\day7TrackerAppSolution\RequestTrackerDalLibrary\obj\Debug\net6.0\refint\RequestTrackerDalLibrary.dll
+C:\Users\VC\Desktop\Presidio\Genspark-trainings\dotnet-trainings\console-spplications\day7\day7TrackerAppSolution\RequestTrackerDalLibrary\obj\Debug\net6.0\RequestTrackerDalLibrary.pdb
+C:\Users\VC\Desktop\Presidio\Genspark-trainings\dotnet-trainings\console-spplications\day7\day7TrackerAppSolution\RequestTrackerDalLibrary\obj\Debug\net6.0\ref\RequestTrackerDalLibrary.dll

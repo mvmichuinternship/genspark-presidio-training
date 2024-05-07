@@ -250,7 +250,7 @@ namespace RequestTrackerApplication
             Program program = new Program();
             //program.EmployeeInteraction();
 
-            Employee employee = new ContractEmployee(101, "Spiderman", DateTime.Now, 90);
+            Employee employee = new ContractEmployee(101, "Mv", DateTime.Now, 90);
 
             //Console.WriteLine(employee);
             Company company = new Company();

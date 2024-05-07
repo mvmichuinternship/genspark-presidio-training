@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = RequestTrackerModelLibrary
-build_property.ProjectDir = C:\MyPersonalFiles\GensparkTraining\GitHub\Day6\RequestTrackerSolution\RequestTrackerModelLibrary\
+build_property.ProjectDir = C:\Users\VC\Desktop\Presidio\Genspark-trainings\dotnet-trainings\console-spplications\Day6\RequestTrackerSolution\RequestTrackerModelLibrary\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

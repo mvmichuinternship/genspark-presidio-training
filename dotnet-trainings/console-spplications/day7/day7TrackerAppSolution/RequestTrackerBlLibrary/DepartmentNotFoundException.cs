@@ -3,24 +3,18 @@
 namespace RequestTrackerBlLibrary
 {
     [Serializable]
-    internal class DepartmentNotFoundException : Exception
+    public class DepartmentNotFoundException : Exception
     {
         string msg;
         public DepartmentNotFoundException()
         {
+            msg = "No Department with such name";
         }
 
-        public DepartmentNotFoundException(string? message) : base(message)
+        public DepartmentNotFoundException(string name)
         {
-            msg = "Department does not exist";
+            msg = $"No Department with name {name}";
         }
-
-        public DepartmentNotFoundException(string? message, Exception? innerException) : base(message, innerException)
-        {
-        }
-
-        protected DepartmentNotFoundException(SerializationInfo info, StreamingContext context) : base(info, context)
-        {
-        }
+        public override string Message => msg;
     }
 }

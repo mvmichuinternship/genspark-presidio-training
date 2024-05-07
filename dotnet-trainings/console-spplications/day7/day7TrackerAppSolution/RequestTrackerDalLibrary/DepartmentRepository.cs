@@ -27,7 +27,8 @@ namespace RequestTrackerDalLibrary
             {
                 return null;
             }
-            _departments.Add(GenerateId(), item);
+            item.Id = GenerateId();
+            _departments.Add(item.Id, item);
             return item;
         }
 

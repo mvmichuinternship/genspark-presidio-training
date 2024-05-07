@@ -1,0 +1,63 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "day7TrackerApp/1.0.0": {
+        "dependencies": {
+          "RequestTrackerBlLibrary": "1.0.0"
+        },
+        "runtime": {
+          "day7TrackerApp.dll": {}
+        }
+      },
+      "RequestTrackerAppModel/1.0.0": {
+        "runtime": {
+          "RequestTrackerAppModel.dll": {}
+        }
+      },
+      "RequestTrackerBlLibrary/1.0.0": {
+        "dependencies": {
+          "RequestTrackerAppModel": "1.0.0",
+          "RequestTrackerDalLibrary": "1.0.0"
+        },
+        "runtime": {
+          "RequestTrackerBlLibrary.dll": {}
+        }
+      },
+      "RequestTrackerDalLibrary/1.0.0": {
+        "dependencies": {
+          "RequestTrackerAppModel": "1.0.0"
+        },
+        "runtime": {
+          "RequestTrackerDalLibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "day7TrackerApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "RequestTrackerAppModel/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "RequestTrackerBlLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "RequestTrackerDalLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

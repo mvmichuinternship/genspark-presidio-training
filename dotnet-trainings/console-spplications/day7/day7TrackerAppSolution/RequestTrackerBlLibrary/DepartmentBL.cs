@@ -12,9 +12,10 @@ namespace RequestTrackerBlLibrary
     public class DepartmentBL : IDepartmentService
     {
         readonly IRepository<int, Department> _departmentRepository;
-        public DepartmentBL()
+        public DepartmentBL(IRepository<int, Department> departmentRepository)
         {
-            _departmentRepository = new DepartmentRepository();
+            //_departmentRepository = new DepartmentRepository();
+            _departmentRepository = departmentRepository;
         }
         public int AddDepartment(Department department)
         {
@@ -55,15 +56,19 @@ namespace RequestTrackerBlLibrary
 
         public Department GetDepartmentByName(string departmentName)
         {
-            List<Department> deptList = new List<Department>();
-            deptList= _departmentRepository.GetAll();
-            foreach (Department department in deptList) { 
-                if(department.Name==departmentName)
-                {
-                    return department;
-                }
-                }
-            
+            //List<Department> deptList = new List<Department>();
+            //deptList= _departmentRepository.GetAll();
+            //foreach (Department department in deptList) { 
+            //    if(department.Name==departmentName)
+            //    {
+            //        return department;
+            //    }
+            //    }
+            var departments = _departmentRepository.GetAll();
+            for (int i = 0; i < departments.Count; i++)
+                if (departments[i].Name == departmentName)
+                    return departments[i];
+            throw new DepartmentNotFoundException();
             throw new DepartmentNotFoundException();
 
         }

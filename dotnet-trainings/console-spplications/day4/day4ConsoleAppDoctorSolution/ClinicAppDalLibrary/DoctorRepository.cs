@@ -23,7 +23,7 @@ namespace ClinicAppDalLibrary
                 return 1;
             }
             int id = _doctors.Keys.Max();
-            return id++;
+            return ++id;
         }
 
         public Doctor Add(Doctor item)
@@ -32,7 +32,8 @@ namespace ClinicAppDalLibrary
             {
                 return null;
             }
-            _doctors.Add(GenerateID(), item);
+            item.Id = GenerateID();
+            _doctors.Add(item.Id, item);
             return item;
         }
 

@@ -1,0 +1,12 @@
+C:\Users\VC\Desktop\Presidio\Genspark-trainings\dotnet-trainings\console-spplications\day7\day7TrackerAppSolution\RequestTrackerAppModel\bin\Debug\net6.0\RequestTrackerAppModel.deps.json
+C:\Users\VC\Desktop\Presidio\Genspark-trainings\dotnet-trainings\console-spplications\day7\day7TrackerAppSolution\RequestTrackerAppModel\bin\Debug\net6.0\RequestTrackerAppModel.dll
+C:\Users\VC\Desktop\Presidio\Genspark-trainings\dotnet-trainings\console-spplications\day7\day7TrackerAppSolution\RequestTrackerAppModel\bin\Debug\net6.0\RequestTrackerAppModel.pdb
+C:\Users\VC\Desktop\Presidio\Genspark-trainings\dotnet-trainings\console-spplications\day7\day7TrackerAppSolution\RequestTrackerAppModel\obj\Debug\net6.0\RequestTrackerAppModel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VC\Desktop\Presidio\Genspark-trainings\dotnet-trainings\console-spplications\day7\day7TrackerAppSolution\RequestTrackerAppModel\obj\Debug\net6.0\RequestTrackerAppModel.AssemblyInfoInputs.cache
+C:\Users\VC\Desktop\Presidio\Genspark-trainings\dotnet-trainings\console-spplications\day7\day7TrackerAppSolution\RequestTrackerAppModel\obj\Debug\net6.0\RequestTrackerAppModel.AssemblyInfo.cs
+C:\Users\VC\Desktop\Presidio\Genspark-trainings\dotnet-trainings\console-spplications\day7\day7TrackerAppSolution\RequestTrackerAppModel\obj\Debug\net6.0\RequestTrackerAppModel.csproj.CoreCompileInputs.cache
+C:\Users\VC\Desktop\Presidio\Genspark-trainings\dotnet-trainings\console-spplications\day7\day7TrackerAppSolution\RequestTrackerAppModel\obj\Debug\net6.0\RequestTrackerAppModel.sourcelink.json
+C:\Users\VC\Desktop\Presidio\Genspark-trainings\dotnet-trainings\console-spplications\day7\day7TrackerAppSolution\RequestTrackerAppModel\obj\Debug\net6.0\RequestTrackerAppModel.dll
+C:\Users\VC\Desktop\Presidio\Genspark-trainings\dotnet-trainings\console-spplications\day7\day7TrackerAppSolution\RequestTrackerAppModel\obj\Debug\net6.0\refint\RequestTrackerAppModel.dll
+C:\Users\VC\Desktop\Presidio\Genspark-trainings\dotnet-trainings\console-spplications\day7\day7TrackerAppSolution\RequestTrackerAppModel\obj\Debug\net6.0\RequestTrackerAppModel.pdb
+C:\Users\VC\Desktop\Presidio\Genspark-trainings\dotnet-trainings\console-spplications\day7\day7TrackerAppSolution\RequestTrackerAppModel\obj\Debug\net6.0\ref\RequestTrackerAppModel.dll

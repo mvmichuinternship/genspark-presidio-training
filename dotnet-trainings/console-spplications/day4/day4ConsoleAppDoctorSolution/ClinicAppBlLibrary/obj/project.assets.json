@@ -2,6 +2,19 @@
   "version": 3,
   "targets": {
     "net6.0": {
+      "ClinicAppDalLibrary/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "ClinicTrackerModelLibrary": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/ClinicAppDalLibrary.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ClinicAppDalLibrary.dll": {}
+        }
+      },
       "ClinicTrackerModelLibrary/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
@@ -15,6 +28,11 @@
     }
   },
   "libraries": {
+    "ClinicAppDalLibrary/1.0.0": {
+      "type": "project",
+      "path": "../ClinicAppDalLibrary/ClinicAppDalLibrary.csproj",
+      "msbuildProject": "../ClinicAppDalLibrary/ClinicAppDalLibrary.csproj"
+    },
     "ClinicTrackerModelLibrary/1.0.0": {
       "type": "project",
       "path": "../ClinicTrackerModelLibrary/ClinicTrackerModelLibrary.csproj",
@@ -23,6 +41,7 @@
   },
   "projectFileDependencyGroups": {
     "net6.0": [
+      "ClinicAppDalLibrary >= 1.0.0",
       "ClinicTrackerModelLibrary >= 1.0.0"
     ]
   },
@@ -58,6 +77,9 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
+            "C:\\Users\\VC\\Desktop\\Presidio\\Genspark-trainings\\dotnet-trainings\\console-spplications\\day4\\day4ConsoleAppDoctorSolution\\ClinicAppDalLibrary\\ClinicAppDalLibrary.csproj": {
+              "projectPath": "C:\\Users\\VC\\Desktop\\Presidio\\Genspark-trainings\\dotnet-trainings\\console-spplications\\day4\\day4ConsoleAppDoctorSolution\\ClinicAppDalLibrary\\ClinicAppDalLibrary.csproj"
+            },
             "C:\\Users\\VC\\Desktop\\Presidio\\Genspark-trainings\\dotnet-trainings\\console-spplications\\day4\\day4ConsoleAppDoctorSolution\\ClinicTrackerModelLibrary\\ClinicTrackerModelLibrary.csproj": {
               "projectPath": "C:\\Users\\VC\\Desktop\\Presidio\\Genspark-trainings\\dotnet-trainings\\console-spplications\\day4\\day4ConsoleAppDoctorSolution\\ClinicTrackerModelLibrary\\ClinicTrackerModelLibrary.csproj"
             }
