@@ -19,23 +19,25 @@
         }
         static void Main(string[] args)
         {
-            Program program = new Program();
-           Doctor[] doctors = new Doctor[3];
-            for (int i = 0; i < doctors.Length; i++)
-            {
-                doctors[i] = program.CreateDoctor(1000 + i);
-            }
-            for (int i = 0; i < doctors.Length; i++)
-            {
-                doctors[i].PrintDetails();
-            }
-            for (int i = 0; i < doctors.Length; i++)
-            {
-                if (doctors[i].Speciality=="neuro")
-                {
-                    doctors[i].PrintDetails();
-                }
-            }
+            // Program program = new Program();
+            //Doctor[] doctors = new Doctor[3];
+            // for (int i = 0; i < doctors.Length; i++)
+            // {
+            //     doctors[i] = program.CreateDoctor(1000 + i);
+            // }
+            // for (int i = 0; i < doctors.Length; i++)
+            // {
+            //     doctors[i].PrintDetails();
+            // }
+            // for (int i = 0; i < doctors.Length; i++)
+            // {
+            //     if (doctors[i].Speciality=="neuro")
+            //     {
+            //         doctors[i].PrintDetails();
+            //     }
+            // }
+
+            Console.WriteLine("Hello world");
         }
     }
 }

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ClinicAppDalLibrary")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3756f164af28d34daf41271b0a9a0f18eb58b278")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c7cded63f09abf37fecf52dc5c2302069bee3911")]
 [assembly: System.Reflection.AssemblyProductAttribute("ClinicAppDalLibrary")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ClinicAppDalLibrary")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

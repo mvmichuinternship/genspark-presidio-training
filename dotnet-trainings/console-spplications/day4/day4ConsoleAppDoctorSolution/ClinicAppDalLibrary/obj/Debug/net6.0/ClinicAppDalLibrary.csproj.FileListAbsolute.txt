@@ -14,3 +14,5 @@ C:\Users\VC\Desktop\Presidio\Genspark-trainings\dotnet-trainings\console-spplica
 C:\Users\VC\Desktop\Presidio\Genspark-trainings\dotnet-trainings\console-spplications\day4\day4ConsoleAppDoctorSolution\ClinicAppDalLibrary\obj\Debug\net6.0\refint\ClinicAppDalLibrary.dll
 C:\Users\VC\Desktop\Presidio\Genspark-trainings\dotnet-trainings\console-spplications\day4\day4ConsoleAppDoctorSolution\ClinicAppDalLibrary\obj\Debug\net6.0\ClinicAppDalLibrary.pdb
 C:\Users\VC\Desktop\Presidio\Genspark-trainings\dotnet-trainings\console-spplications\day4\day4ConsoleAppDoctorSolution\ClinicAppDalLibrary\obj\Debug\net6.0\ref\ClinicAppDalLibrary.dll
+C:\Users\VC\Desktop\Presidio\Genspark-trainings\dotnet-trainings\console-spplications\day4\day4ConsoleAppDoctorSolution\ClinicAppDalLibrary\bin\Debug\net6.0\ClinicAppDalLibrary.runtimeconfig.json
+C:\Users\VC\Desktop\Presidio\Genspark-trainings\dotnet-trainings\console-spplications\day4\day4ConsoleAppDoctorSolution\ClinicAppDalLibrary\obj\Debug\net6.0\ClinicAppDalLibrary.genruntimeconfig.cache
