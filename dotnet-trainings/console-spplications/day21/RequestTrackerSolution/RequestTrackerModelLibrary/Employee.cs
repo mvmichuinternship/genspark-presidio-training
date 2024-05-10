@@ -16,5 +16,7 @@
         }
         public ICollection<Request> RequestsRaised { get; set; }//No effect on the table
         public ICollection<Request> RequestsClosed { get; set; }//No effect on the table
+        public ICollection<RequestSolution> SolutionsProvided { get; set; }
+        public ICollection<Feedback> FeedBackProvided { get; set; }
     }
 }

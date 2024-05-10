@@ -12,8 +12,8 @@ using RequestTrackerModelLibrary;
 namespace RequestTrackerModelLibrary.Migrations
 {
     [DbContext(typeof(RequestTrackerContext))]
-    [Migration("20240509114852_empdet")]
-    partial class empdet
+    [Migration("20240510050834_request-solution")]
+    partial class requestsolution
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
@@ -109,6 +109,46 @@ namespace RequestTrackerModelLibrary.Migrations
                     b.ToTable("Requests");
                 });
 
+            modelBuilder.Entity("RequestTrackerModelLibrary.RequestSolution", b =>
+                {
+                    b.Property<int>("SolId")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int");
+
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("SolId"), 1L, 1);
+
+                    b.Property<bool>("IsSolved")
+                        .HasColumnType("bit");
+
+                    b.Property<int>("RequestId")
+                        .HasColumnType("int");
+
+                    b.Property<string>("RequestRaiserComment")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("SolDescription")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("SolName")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<int>("SolvedBy")
+                        .HasColumnType("int");
+
+                    b.Property<DateTime>("SolvedDate")
+                        .HasColumnType("datetime2");
+
+                    b.HasKey("SolId");
+
+                    b.HasIndex("RequestId");
+
+                    b.HasIndex("SolvedBy");
+
+                    b.ToTable("RequestSolutions");
+                });
+
             modelBuilder.Entity("RequestTrackerModelLibrary.Request", b =>
                 {
                     b.HasOne("RequestTrackerModelLibrary.Employee", "RequestClosedByEmployee")
@@ -128,11 +168,37 @@ namespace RequestTrackerModelLibrary.Migrations
                     b.Navigation("RequestClosedByEmployee");
                 });
 
+            modelBuilder.Entity("RequestTrackerModelLibrary.RequestSolution", b =>
+                {
+                    b.HasOne("RequestTrackerModelLibrary.Request", "RequestData")
+                        .WithMany("SolutionsProvided")
+                        .HasForeignKey("RequestId")
+                        .OnDelete(DeleteBehavior.Restrict)
+                        .IsRequired();
+
+                    b.HasOne("RequestTrackerModelLibrary.Employee", "Sol_Employee")
+                        .WithMany("SolutionsProvided")
+                        .HasForeignKey("SolvedBy")
+                        .OnDelete(DeleteBehavior.Restrict)
+                        .IsRequired();
+
+                    b.Navigation("RequestData");
+
+                    b.Navigation("Sol_Employee");
+                });
+
             modelBuilder.Entity("RequestTrackerModelLibrary.Employee", b =>
                 {
                     b.Navigation("RequestsClosed");
 
                     b.Navigation("RequestsRaised");
+
+                    b.Navigation("SolutionsProvided");
+                });
+
+            modelBuilder.Entity("RequestTrackerModelLibrary.Request", b =>
+                {
+                    b.Navigation("SolutionsProvided");
                 });
 #pragma warning restore 612, 618
         }

@@ -1,7 +1,7 @@
 ﻿using RequestTrackerDALLibrary;
 using RequestTrackerModelLibrary;
 
-namespace RequestTrackerBLLibrary
+namespace RequestTrackerBLLibrary.employeeBL
 {
     public class EmployeeLoginBL : IEmployeeLoginBL
     {
@@ -14,7 +14,7 @@ namespace RequestTrackerBLLibrary
 
         public async Task<bool> Login(Employee employee)
         {
-           var emp = await _repository.Get(employee.Id);
+            var emp = await _repository.Get(employee.Id);
             if (emp != null)
             {
                 if (emp.Password == employee.Password)

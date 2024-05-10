@@ -1,4 +1,4 @@
-﻿using RequestTrackerBLLibrary;
+﻿using RequestTrackerBLLibrary.employeeBL;
 using RequestTrackerModelLibrary;
 using System.Threading.Channels;
 
@@ -28,9 +28,30 @@ namespace RequestTrackerFEAPP
             string password = Console.ReadLine() ?? "";
             await EmployeeLoginAsync(id,password);
         }
+
+        
         static async Task Main(string[] args)
         {
-            await new Program().GetLoginDeatils();
+            //await new Program().GetLoginDeatils();
+            RequestRaise requestRaise = new RequestRaise();
+            //await requestRaise.GetRequestDeatils();
+            //await requestRaise.GetIdForViewRequestStatus();
+            //await requestRaise.GetForViewRequestStatus();
+            //await requestRaise.GetIdForCloseRequest();
+
+
+
+            SolutionProvider solutionProvider = new SolutionProvider();
+            //await solutionProvider.GetDeatilsForGiveSolution();
+            //await solutionProvider.GetDeatilsForComments();
+            //await solutionProvider.GetIdForViewSolution();
+            //await solutionProvider.GetListViewSolution();
+
+
+
+            FeedBackPrograms fb = new FeedBackPrograms();
+            //await fb.GetFeedbackDetails();
+            await fb.GetFeedbackByIdDetails();
         }
     }
 }
