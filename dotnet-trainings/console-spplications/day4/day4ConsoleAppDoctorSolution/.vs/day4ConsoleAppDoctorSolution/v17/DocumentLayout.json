@@ -1,12 +1,71 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\VC\\Desktop\\Presidio\\Genspark-trainings\\dotnet-trainings\\console-spplications\\day4\\day4ConsoleAppDoctorSolution\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3F99BB84-C553-44FD-9C45-16FDB8229F8C}|ClinicAppDalLibrary\\ClinicAppDalLibrary.csproj|c:\\users\\vc\\desktop\\presidio\\genspark-trainings\\dotnet-trainings\\console-spplications\\day4\\day4consoleappdoctorsolution\\clinicappdallibrary\\patientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F99BB84-C553-44FD-9C45-16FDB8229F8C}|ClinicAppDalLibrary\\ClinicAppDalLibrary.csproj|solutionrelative:clinicappdallibrary\\patientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F99BB84-C553-44FD-9C45-16FDB8229F8C}|ClinicAppDalLibrary\\ClinicAppDalLibrary.csproj|c:\\users\\vc\\desktop\\presidio\\genspark-trainings\\dotnet-trainings\\console-spplications\\day4\\day4consoleappdoctorsolution\\clinicappdallibrary\\appointmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F99BB84-C553-44FD-9C45-16FDB8229F8C}|ClinicAppDalLibrary\\ClinicAppDalLibrary.csproj|solutionrelative:clinicappdallibrary\\appointmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F99BB84-C553-44FD-9C45-16FDB8229F8C}|ClinicAppDalLibrary\\ClinicAppDalLibrary.csproj|c:\\users\\vc\\desktop\\presidio\\genspark-trainings\\dotnet-trainings\\console-spplications\\day4\\day4consoleappdoctorsolution\\clinicappdallibrary\\model\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F99BB84-C553-44FD-9C45-16FDB8229F8C}|ClinicAppDalLibrary\\ClinicAppDalLibrary.csproj|solutionrelative:clinicappdallibrary\\model\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PatientRepository.cs",
+              "DocumentMoniker": "C:\\Users\\VC\\Desktop\\Presidio\\Genspark-trainings\\dotnet-trainings\\console-spplications\\day4\\day4ConsoleAppDoctorSolution\\ClinicAppDalLibrary\\PatientRepository.cs",
+              "RelativeDocumentMoniker": "ClinicAppDalLibrary\\PatientRepository.cs",
+              "ToolTip": "C:\\Users\\VC\\Desktop\\Presidio\\Genspark-trainings\\dotnet-trainings\\console-spplications\\day4\\day4ConsoleAppDoctorSolution\\ClinicAppDalLibrary\\PatientRepository.cs",
+              "RelativeToolTip": "ClinicAppDalLibrary\\PatientRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADgAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T19:51:30.566Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Appointment.cs",
+              "DocumentMoniker": "C:\\Users\\VC\\Desktop\\Presidio\\Genspark-trainings\\dotnet-trainings\\console-spplications\\day4\\day4ConsoleAppDoctorSolution\\ClinicAppDalLibrary\\Model\\Appointment.cs",
+              "RelativeDocumentMoniker": "ClinicAppDalLibrary\\Model\\Appointment.cs",
+              "ToolTip": "C:\\Users\\VC\\Desktop\\Presidio\\Genspark-trainings\\dotnet-trainings\\console-spplications\\day4\\day4ConsoleAppDoctorSolution\\ClinicAppDalLibrary\\Model\\Appointment.cs",
+              "RelativeToolTip": "ClinicAppDalLibrary\\Model\\Appointment.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T19:44:19.609Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AppointmentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\VC\\Desktop\\Presidio\\Genspark-trainings\\dotnet-trainings\\console-spplications\\day4\\day4ConsoleAppDoctorSolution\\ClinicAppDalLibrary\\AppointmentRepository.cs",
+              "RelativeDocumentMoniker": "ClinicAppDalLibrary\\AppointmentRepository.cs",
+              "ToolTip": "C:\\Users\\VC\\Desktop\\Presidio\\Genspark-trainings\\dotnet-trainings\\console-spplications\\day4\\day4ConsoleAppDoctorSolution\\ClinicAppDalLibrary\\AppointmentRepository.cs",
+              "RelativeToolTip": "ClinicAppDalLibrary\\AppointmentRepository.cs",
+              "ViewState": "AQIAADEAAAAAAAAAAAAUwDgAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T19:44:39.077Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }

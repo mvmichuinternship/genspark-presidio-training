@@ -1,4 +1,5 @@
-﻿using ClinicTrackerModelLibrary;
+﻿//using ClinicTrackerModelLibrary;
+using ClinicAppDalLibrary.Model;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -9,65 +10,62 @@ namespace ClinicAppDalLibrary
 {
     public class PatientRepository : IRepository<int, Patient>
     {
-        readonly Dictionary<int, Patient> _patients;
+
+        readonly day20EmployeeTrackerContext _patients;
 
         public PatientRepository()
         {
-            _patients = new Dictionary<int, Patient>();
+            _patients = new day20EmployeeTrackerContext();
 
         }
-        int GenerateID()
-        {
-            if (_patients.Count == 0)
-            {
-                return 1;
-            }
-            int id = _patients.Keys.Max();
-            return id++;
-        }
+        //int GenerateID()
+        //{
+        //    if (_patients.Count == 0)
+        //    {
+        //        return 1;
+        //    }
+        //    int id = _patients.Keys.Max();
+        //    return ++id;
+        //}
 
         public Patient Add(Patient item)
         {
-            if (_patients.ContainsValue(item))
-            {
-                return null;
-            }
-            _patients.Add(GenerateID(), item);
+
+            _patients.Patients.Add(item);
+            _patients.SaveChanges();
             return item;
         }
 
         public Patient Delete(int key)
         {
-            if (_patients.ContainsKey(key))
-            {
-                var patient = _patients[key];
-                _patients.Remove(key);
-                return patient;
-            }
+            var pats = _patients.Patients.ToList();
+
+            var pat = pats.SingleOrDefault(a => a.Pid == key);
+            _patients.Patients.Remove(pat);
             return null;
         }
 
         public Patient Get(int key)
         {
-            return _patients.ContainsKey(key) ? _patients[key] : null;
+            var pats = _patients.Patients.ToList();
+            var pat = pats.SingleOrDefault(a => a.Pid == key);
+            return pat == null ? null : pat;
         }
 
         public List<Patient> GetAll()
         {
-            if (_patients.Count == 0)
+            List<Patient> patients = new List<Patient>();
+            var pats = _patients.Patients.ToList();
+            foreach (var pat in pats)
             {
-                return null;
+                patients.Add(pat);
             }
-            return _patients.Values.ToList();
+            return patients;
         }
 
         public Patient Update(Patient item)
         {
-            if (_patients.ContainsKey(item.Id))
-            {
-                _patients[item.Id] = item;
-                return item;
-            }
+            _patients.Patients.Update(item);
             return null;
         }
 
