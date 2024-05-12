@@ -38,8 +38,7 @@
               "RelativeToolTip": "RequestTrackerModelLibrary\\Feedback.cs",
               "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-10T19:10:43.142Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-10T19:10:43.142Z"
             },
             {
               "$type": "Document",
@@ -51,8 +50,7 @@
               "RelativeToolTip": "RequestTrackerBLLibrary\\feedbackBL\\FeedbackBL.cs",
               "ViewState": "AQIAAAwAAAAAAAAAAAAwwBQAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-10T10:49:50.418Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-10T10:49:50.418Z"
             },
             {
               "$type": "Document",
@@ -62,7 +60,7 @@
               "RelativeDocumentMoniker": "RequestTrackerFEAPP\\Program.cs",
               "ToolTip": "C:\\Users\\VC\\Desktop\\Presidio\\Genspark-trainings\\dotnet-trainings\\console-spplications\\day21\\RequestTrackerSolution\\RequestTrackerFEAPP\\Program.cs",
               "RelativeToolTip": "RequestTrackerFEAPP\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAADUAAAAuAAAA",
+              "ViewState": "AQIAABYAAAAAAAAAAAAQwCkAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-10T17:01:04.958Z",
               "EditorCaption": ""
@@ -77,8 +75,7 @@
               "RelativeToolTip": "RequestTrackerFEAPP\\FeedBackPrograms.cs",
               "ViewState": "AQIAAC4AAAAAAAAAAAAiwDMAAAAQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-10T19:06:44.255Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-10T19:06:44.255Z"
             }
           ]
         }
