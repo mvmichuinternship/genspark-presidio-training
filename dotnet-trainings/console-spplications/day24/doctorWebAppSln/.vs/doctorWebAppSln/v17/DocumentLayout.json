@@ -3,24 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\VC\\Desktop\\Presidio\\Genspark-trainings\\dotnet-trainings\\console-spplications\\day24\\doctorWebAppSln\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DE05E7A4-2CC7-45D9-AFED-31D85F357E6F}|doctorWebApp\\doctorWebApp.csproj|c:\\users\\vc\\desktop\\presidio\\genspark-trainings\\dotnet-trainings\\console-spplications\\day24\\doctorwebappsln\\doctorwebapp\\controllers\\doctorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DE05E7A4-2CC7-45D9-AFED-31D85F357E6F}|doctorWebApp\\doctorWebApp.csproj|solutionrelative:doctorwebapp\\controllers\\doctorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{DE05E7A4-2CC7-45D9-AFED-31D85F357E6F}|doctorWebApp\\doctorWebApp.csproj|c:\\users\\vc\\desktop\\presidio\\genspark-trainings\\dotnet-trainings\\console-spplications\\day24\\doctorwebappsln\\doctorwebapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DE05E7A4-2CC7-45D9-AFED-31D85F357E6F}|doctorWebApp\\doctorWebApp.csproj|solutionrelative:doctorwebapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DE05E7A4-2CC7-45D9-AFED-31D85F357E6F}|doctorWebApp\\doctorWebApp.csproj|c:\\users\\vc\\desktop\\presidio\\genspark-trainings\\dotnet-trainings\\console-spplications\\day24\\doctorwebappsln\\doctorwebapp\\context\\doctorappcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DE05E7A4-2CC7-45D9-AFED-31D85F357E6F}|doctorWebApp\\doctorWebApp.csproj|solutionrelative:doctorwebapp\\context\\doctorappcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DE05E7A4-2CC7-45D9-AFED-31D85F357E6F}|doctorWebApp\\doctorWebApp.csproj|c:\\users\\vc\\desktop\\presidio\\genspark-trainings\\dotnet-trainings\\console-spplications\\day24\\doctorwebappsln\\doctorwebapp\\services\\doctorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DE05E7A4-2CC7-45D9-AFED-31D85F357E6F}|doctorWebApp\\doctorWebApp.csproj|solutionrelative:doctorwebapp\\services\\doctorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{DE05E7A4-2CC7-45D9-AFED-31D85F357E6F}|doctorWebApp\\doctorWebApp.csproj|c:\\users\\vc\\desktop\\presidio\\genspark-trainings\\dotnet-trainings\\console-spplications\\day24\\doctorwebappsln\\doctorwebapp\\controllers\\doctorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE05E7A4-2CC7-45D9-AFED-31D85F357E6F}|doctorWebApp\\doctorWebApp.csproj|solutionrelative:doctorwebapp\\controllers\\doctorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE05E7A4-2CC7-45D9-AFED-31D85F357E6F}|doctorWebApp\\doctorWebApp.csproj|c:\\users\\vc\\desktop\\presidio\\genspark-trainings\\dotnet-trainings\\console-spplications\\day24\\doctorwebappsln\\doctorwebapp\\models\\errormodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE05E7A4-2CC7-45D9-AFED-31D85F357E6F}|doctorWebApp\\doctorWebApp.csproj|solutionrelative:doctorwebapp\\models\\errormodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{DE05E7A4-2CC7-45D9-AFED-31D85F357E6F}|doctorWebApp\\doctorWebApp.csproj|c:\\users\\vc\\desktop\\presidio\\genspark-trainings\\dotnet-trainings\\console-spplications\\day24\\doctorwebappsln\\doctorwebapp\\interfaces\\idoctorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DE05E7A4-2CC7-45D9-AFED-31D85F357E6F}|doctorWebApp\\doctorWebApp.csproj|solutionrelative:doctorwebapp\\interfaces\\idoctorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE05E7A4-2CC7-45D9-AFED-31D85F357E6F}|doctorWebApp\\doctorWebApp.csproj|c:\\users\\vc\\desktop\\presidio\\genspark-trainings\\dotnet-trainings\\console-spplications\\day24\\doctorwebappsln\\doctorwebapp\\context\\doctorappcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE05E7A4-2CC7-45D9-AFED-31D85F357E6F}|doctorWebApp\\doctorWebApp.csproj|solutionrelative:doctorwebapp\\context\\doctorappcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,56 +34,67 @@
       "DocumentGroups": [
         {
           "DockedHeight": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
+              "Title": "ErrorModel.cs",
+              "DocumentMoniker": "C:\\Users\\VC\\Desktop\\Presidio\\Genspark-trainings\\dotnet-trainings\\console-spplications\\day24\\doctorWebAppSln\\doctorWebApp\\models\\ErrorModel.cs",
+              "RelativeDocumentMoniker": "doctorWebApp\\models\\ErrorModel.cs",
+              "ToolTip": "C:\\Users\\VC\\Desktop\\Presidio\\Genspark-trainings\\dotnet-trainings\\console-spplications\\day24\\doctorWebAppSln\\doctorWebApp\\models\\ErrorModel.cs",
+              "RelativeToolTip": "doctorWebApp\\models\\ErrorModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T04:29:48.473Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "doctorAppContext.cs",
               "DocumentMoniker": "C:\\Users\\VC\\Desktop\\Presidio\\Genspark-trainings\\dotnet-trainings\\console-spplications\\day24\\doctorWebAppSln\\doctorWebApp\\context\\doctorAppContext.cs",
               "RelativeDocumentMoniker": "doctorWebApp\\context\\doctorAppContext.cs",
               "ToolTip": "C:\\Users\\VC\\Desktop\\Presidio\\Genspark-trainings\\dotnet-trainings\\console-spplications\\day24\\doctorWebAppSln\\doctorWebApp\\context\\doctorAppContext.cs",
               "RelativeToolTip": "doctorWebApp\\context\\doctorAppContext.cs",
-              "ViewState": "AQIAAAoAAAAAAAAAAAAQwBMAAAAmAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAmAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-14T17:13:54.67Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-14T17:13:54.67Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "DoctorController.cs",
               "DocumentMoniker": "C:\\Users\\VC\\Desktop\\Presidio\\Genspark-trainings\\dotnet-trainings\\console-spplications\\day24\\doctorWebAppSln\\doctorWebApp\\Controllers\\DoctorController.cs",
               "RelativeDocumentMoniker": "doctorWebApp\\Controllers\\DoctorController.cs",
               "ToolTip": "C:\\Users\\VC\\Desktop\\Presidio\\Genspark-trainings\\dotnet-trainings\\console-spplications\\day24\\doctorWebAppSln\\doctorWebApp\\Controllers\\DoctorController.cs",
               "RelativeToolTip": "doctorWebApp\\Controllers\\DoctorController.cs",
-              "ViewState": "AQIAACMAAAAAAAAAAAAAACkAAAA4AAAA",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAqwDMAAAAoAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-14T17:05:23.186Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\VC\\Desktop\\Presidio\\Genspark-trainings\\dotnet-trainings\\console-spplications\\day24\\doctorWebAppSln\\doctorWebApp\\Program.cs",
               "RelativeDocumentMoniker": "doctorWebApp\\Program.cs",
               "ToolTip": "C:\\Users\\VC\\Desktop\\Presidio\\Genspark-trainings\\dotnet-trainings\\console-spplications\\day24\\doctorWebAppSln\\doctorWebApp\\Program.cs",
               "RelativeToolTip": "doctorWebApp\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAABRAAAA",
+              "ViewState": "AQIAABQAAAAAAAAAAAAAwB8AAAAWAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-14T17:02:59.892Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "DoctorService.cs",
               "DocumentMoniker": "C:\\Users\\VC\\Desktop\\Presidio\\Genspark-trainings\\dotnet-trainings\\console-spplications\\day24\\doctorWebAppSln\\doctorWebApp\\services\\DoctorService.cs",
               "RelativeDocumentMoniker": "doctorWebApp\\services\\DoctorService.cs",
               "ToolTip": "C:\\Users\\VC\\Desktop\\Presidio\\Genspark-trainings\\dotnet-trainings\\console-spplications\\day24\\doctorWebAppSln\\doctorWebApp\\services\\DoctorService.cs",
               "RelativeToolTip": "doctorWebApp\\services\\DoctorService.cs",
-              "ViewState": "AQIAABUAAAAAAAAAAAAAwBMAAABaAAAA",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAzwBUAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-14T15:14:29.45Z",
               "EditorCaption": ""
@@ -94,8 +109,7 @@
               "RelativeToolTip": "doctorWebApp\\interfaces\\IDoctorService.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAuwAcAAAAyAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-14T15:05:06.576Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-14T15:05:06.576Z"
             }
           ]
         }

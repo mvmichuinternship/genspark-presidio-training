@@ -28,6 +28,11 @@ namespace day24WebApp
 
             builder.Services.AddScoped<IEmployeeService, EmployeeBasicService>();
 
+            
+            builder.Services.AddScoped<IRepository<int, User>, UserRepository>();
+
+            builder.Services.AddScoped<IUserService, UserService>();
+
 
             var app = builder.Build();
 

@@ -45,6 +45,10 @@ namespace day24WebApp.Migrations
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
+                    b.Property<string>("Role")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
                     b.HasKey("Id");
 
                     b.ToTable("Employees");
@@ -56,7 +60,8 @@ namespace day24WebApp.Migrations
                             DateOfBirth = new DateTime(2000, 2, 12, 0, 0, 0, 0, DateTimeKind.Unspecified),
                             Image = "",
                             Name = "Ramu",
-                            Phone = "9876543321"
+                            Phone = "9876543321",
+                            Role = "User"
                         },
                         new
                         {
@@ -64,8 +69,42 @@ namespace day24WebApp.Migrations
                             DateOfBirth = new DateTime(2002, 3, 24, 0, 0, 0, 0, DateTimeKind.Unspecified),
                             Image = "",
                             Name = "Somu",
-                            Phone = "9988776655"
+                            Phone = "9988776655",
+                            Role = "Admin"
                         });
+                });
+
+            modelBuilder.Entity("day24WebApp.models.User", b =>
+                {
+                    b.Property<int>("EmployeeId")
+                        .HasColumnType("int");
+
+                    b.Property<byte[]>("Password")
+                        .IsRequired()
+                        .HasColumnType("varbinary(max)");
+
+                    b.Property<byte[]>("PasswordHashKey")
+                        .IsRequired()
+                        .HasColumnType("varbinary(max)");
+
+                    b.Property<string>("Status")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.HasKey("EmployeeId");
+
+                    b.ToTable("Users");
+                });
+
+            modelBuilder.Entity("day24WebApp.models.User", b =>
+                {
+                    b.HasOne("day24WebApp.models.Employee", "Employee")
+                        .WithMany()
+                        .HasForeignKey("EmployeeId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.Navigation("Employee");
                 });
 #pragma warning restore 612, 618
         }
