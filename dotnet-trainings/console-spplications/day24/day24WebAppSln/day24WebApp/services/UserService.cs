@@ -11,13 +11,17 @@ namespace day24WebApp.services
     {
         private readonly IRepository<int, User> _userRepo;
         private readonly IRepository<int, Employee> _employeeRepo;
+        private readonly ITokenService _tokenService;
 
-        public UserService(IRepository<int, User> userRepo, IRepository<int, Employee> employeeRepo)
+        public UserService(IRepository<int, User> userRepo, IRepository<int, Employee> employeeRepo, ITokenService tokenService)
         {
             _userRepo = userRepo;
             _employeeRepo = employeeRepo;
+            _tokenService = tokenService;
         }
-        public async Task<Employee> Login(UserLoginDTO loginDTO)
+
+
+        public async Task<LoginReturnDTO> Login(UserLoginDTO loginDTO)
         {
             var userDB = await _userRepo.Get(loginDTO.UserId);
             if (userDB == null)
@@ -30,11 +34,22 @@ namespace day24WebApp.services
             if (isPasswordSame)
             {
                 var employee = await _employeeRepo.Get(loginDTO.UserId);
-                if (userDB.Status == "Active")
-                    return employee;
+                LoginReturnDTO loginReturnDTO = MapEmployeeToLoginReturn(employee);
+                return loginReturnDTO;
+                //if (userDB.Status == "Active")
+                //    return employee;
                 throw new UserNotActiveException("Your account is not activated");
             }
             throw new UnauthorizedUserException("Invalid username or password");
+        }
+
+        private LoginReturnDTO MapEmployeeToLoginReturn(Employee employee)
+        {
+            LoginReturnDTO returnDTO = new LoginReturnDTO();
+            returnDTO.EmployeeID = employee.Id;
+            returnDTO.Role = employee.Role ?? "User";
+            returnDTO.Token = _tokenService.GenerateToken(employee);
+            return returnDTO;
         }
 
         private bool ComparePassword(byte[] encrypterPass, byte[] password)

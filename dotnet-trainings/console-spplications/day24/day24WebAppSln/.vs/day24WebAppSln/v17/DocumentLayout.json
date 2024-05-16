@@ -3,68 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\VC\\Desktop\\Presidio\\Genspark-trainings\\dotnet-trainings\\console-spplications\\day24\\day24WebAppSln\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{007F894F-9FF6-4CE2-9734-915D8B360332}|day24WebApp\\day24WebApp.csproj|c:\\users\\vc\\desktop\\presidio\\genspark-trainings\\dotnet-trainings\\console-spplications\\day24\\day24webappsln\\day24webapp\\contexts\\requesttrackercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{007F894F-9FF6-4CE2-9734-915D8B360332}|day24WebApp\\day24WebApp.csproj|solutionrelative:day24webapp\\contexts\\requesttrackercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{007F894F-9FF6-4CE2-9734-915D8B360332}|day24WebApp\\day24WebApp.csproj|c:\\users\\vc\\desktop\\presidio\\genspark-trainings\\dotnet-trainings\\console-spplications\\day24\\day24webappsln\\day24webapp\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{007F894F-9FF6-4CE2-9734-915D8B360332}|day24WebApp\\day24WebApp.csproj|solutionrelative:day24webapp\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{007F894F-9FF6-4CE2-9734-915D8B360332}|day24WebApp\\day24WebApp.csproj|c:\\users\\vc\\desktop\\presidio\\genspark-trainings\\dotnet-trainings\\console-spplications\\day24\\day24webappsln\\day24webapp\\services\\employeebasicservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{007F894F-9FF6-4CE2-9734-915D8B360332}|day24WebApp\\day24WebApp.csproj|solutionrelative:day24webapp\\services\\employeebasicservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{007F894F-9FF6-4CE2-9734-915D8B360332}|day24WebApp\\day24WebApp.csproj|c:\\users\\vc\\desktop\\presidio\\genspark-trainings\\dotnet-trainings\\console-spplications\\day24\\day24webappsln\\day24webapp\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{007F894F-9FF6-4CE2-9734-915D8B360332}|day24WebApp\\day24WebApp.csproj|solutionrelative:day24webapp\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{007F894F-9FF6-4CE2-9734-915D8B360332}|day24WebApp\\day24WebApp.csproj|c:\\users\\vc\\desktop\\presidio\\genspark-trainings\\dotnet-trainings\\console-spplications\\day24\\day24webappsln\\day24webapp\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{007F894F-9FF6-4CE2-9734-915D8B360332}|day24WebApp\\day24WebApp.csproj|solutionrelative:day24webapp\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{007F894F-9FF6-4CE2-9734-915D8B360332}|day24WebApp\\day24WebApp.csproj|c:\\users\\vc\\desktop\\presidio\\genspark-trainings\\dotnet-trainings\\console-spplications\\day24\\day24webappsln\\day24webapp\\models\\dtos\\employeeuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{007F894F-9FF6-4CE2-9734-915D8B360332}|day24WebApp\\day24WebApp.csproj|solutionrelative:day24webapp\\models\\dtos\\employeeuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{007F894F-9FF6-4CE2-9734-915D8B360332}|day24WebApp\\day24WebApp.csproj|c:\\users\\vc\\desktop\\presidio\\genspark-trainings\\dotnet-trainings\\console-spplications\\day24\\day24webappsln\\day24webapp\\models\\dtos\\userlogindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{007F894F-9FF6-4CE2-9734-915D8B360332}|day24WebApp\\day24WebApp.csproj|solutionrelative:day24webapp\\models\\dtos\\userlogindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{007F894F-9FF6-4CE2-9734-915D8B360332}|day24WebApp\\day24WebApp.csproj|c:\\users\\vc\\desktop\\presidio\\genspark-trainings\\dotnet-trainings\\console-spplications\\day24\\day24webappsln\\day24webapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{007F894F-9FF6-4CE2-9734-915D8B360332}|day24WebApp\\day24WebApp.csproj|solutionrelative:day24webapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{007F894F-9FF6-4CE2-9734-915D8B360332}|day24WebApp\\day24WebApp.csproj|c:\\users\\vc\\desktop\\presidio\\genspark-trainings\\dotnet-trainings\\console-spplications\\day24\\day24webappsln\\day24webapp\\repositories\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{007F894F-9FF6-4CE2-9734-915D8B360332}|day24WebApp\\day24WebApp.csproj|solutionrelative:day24webapp\\repositories\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{007F894F-9FF6-4CE2-9734-915D8B360332}|day24WebApp\\day24WebApp.csproj|c:\\users\\vc\\desktop\\presidio\\genspark-trainings\\dotnet-trainings\\console-spplications\\day24\\day24webappsln\\day24webapp\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{007F894F-9FF6-4CE2-9734-915D8B360332}|day24WebApp\\day24WebApp.csproj|solutionrelative:day24webapp\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{007F894F-9FF6-4CE2-9734-915D8B360332}|day24WebApp\\day24WebApp.csproj|c:\\users\\vc\\desktop\\presidio\\genspark-trainings\\dotnet-trainings\\console-spplications\\day24\\day24webappsln\\day24webapp\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{007F894F-9FF6-4CE2-9734-915D8B360332}|day24WebApp\\day24WebApp.csproj|solutionrelative:day24webapp\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{007F894F-9FF6-4CE2-9734-915D8B360332}|day24WebApp\\day24WebApp.csproj|c:\\users\\vc\\desktop\\presidio\\genspark-trainings\\dotnet-trainings\\console-spplications\\day24\\day24webappsln\\day24webapp\\services\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{007F894F-9FF6-4CE2-9734-915D8B360332}|day24WebApp\\day24WebApp.csproj|solutionrelative:day24webapp\\services\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{007F894F-9FF6-4CE2-9734-915D8B360332}|day24WebApp\\day24WebApp.csproj|c:\\users\\vc\\desktop\\presidio\\genspark-trainings\\dotnet-trainings\\console-spplications\\day24\\day24webappsln\\day24webapp\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{007F894F-9FF6-4CE2-9734-915D8B360332}|day24WebApp\\day24WebApp.csproj|solutionrelative:day24webapp\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{007F894F-9FF6-4CE2-9734-915D8B360332}|day24WebApp\\day24WebApp.csproj|c:\\users\\vc\\desktop\\presidio\\genspark-trainings\\dotnet-trainings\\console-spplications\\day24\\day24webappsln\\day24webapp\\exceptions\\unauthorizeduserexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{007F894F-9FF6-4CE2-9734-915D8B360332}|day24WebApp\\day24WebApp.csproj|solutionrelative:day24webapp\\exceptions\\unauthorizeduserexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{007F894F-9FF6-4CE2-9734-915D8B360332}|day24WebApp\\day24WebApp.csproj|c:\\users\\vc\\desktop\\presidio\\genspark-trainings\\dotnet-trainings\\console-spplications\\day24\\day24webappsln\\day24webapp\\models\\errormodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{007F894F-9FF6-4CE2-9734-915D8B360332}|day24WebApp\\day24WebApp.csproj|solutionrelative:day24webapp\\models\\errormodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{007F894F-9FF6-4CE2-9734-915D8B360332}|day24WebApp\\day24WebApp.csproj|c:\\users\\vc\\desktop\\presidio\\genspark-trainings\\dotnet-trainings\\console-spplications\\day24\\day24webappsln\\day24webapp\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{007F894F-9FF6-4CE2-9734-915D8B360332}|day24WebApp\\day24WebApp.csproj|solutionrelative:day24webapp\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{007F894F-9FF6-4CE2-9734-915D8B360332}|day24WebApp\\day24WebApp.csproj|c:\\users\\vc\\desktop\\presidio\\genspark-trainings\\dotnet-trainings\\console-spplications\\day24\\day24webappsln\\day24webapp\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{007F894F-9FF6-4CE2-9734-915D8B360332}|day24WebApp\\day24WebApp.csproj|solutionrelative:day24webapp\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{007F894F-9FF6-4CE2-9734-915D8B360332}|day24WebApp\\day24WebApp.csproj|c:\\users\\vc\\desktop\\presidio\\genspark-trainings\\dotnet-trainings\\console-spplications\\day24\\day24webappsln\\day24webapp\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{007F894F-9FF6-4CE2-9734-915D8B360332}|day24WebApp\\day24WebApp.csproj|solutionrelative:day24webapp\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -74,207 +30,72 @@
       "DocumentGroups": [
         {
           "DockedHeight": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "UnauthorizedUserException.cs",
-              "DocumentMoniker": "C:\\Users\\VC\\Desktop\\Presidio\\Genspark-trainings\\dotnet-trainings\\console-spplications\\day24\\day24WebAppSln\\day24WebApp\\exceptions\\UnauthorizedUserException.cs",
-              "RelativeDocumentMoniker": "day24WebApp\\exceptions\\UnauthorizedUserException.cs",
-              "ToolTip": "C:\\Users\\VC\\Desktop\\Presidio\\Genspark-trainings\\dotnet-trainings\\console-spplications\\day24\\day24WebAppSln\\day24WebApp\\exceptions\\UnauthorizedUserException.cs",
-              "RelativeToolTip": "day24WebApp\\exceptions\\UnauthorizedUserException.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAaAAAA",
+              "DocumentIndex": 0,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "C:\\Users\\VC\\Desktop\\Presidio\\Genspark-trainings\\dotnet-trainings\\console-spplications\\day24\\day24WebAppSln\\day24WebApp\\controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "day24WebApp\\controllers\\EmployeeController.cs",
+              "ToolTip": "C:\\Users\\VC\\Desktop\\Presidio\\Genspark-trainings\\dotnet-trainings\\console-spplications\\day24\\day24WebAppSln\\day24WebApp\\controllers\\EmployeeController.cs",
+              "RelativeToolTip": "day24WebApp\\controllers\\EmployeeController.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAYwCgAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-15T09:01:38.38Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "ErrorModel.cs",
-              "DocumentMoniker": "C:\\Users\\VC\\Desktop\\Presidio\\Genspark-trainings\\dotnet-trainings\\console-spplications\\day24\\day24WebAppSln\\day24WebApp\\models\\ErrorModel.cs",
-              "RelativeDocumentMoniker": "day24WebApp\\models\\ErrorModel.cs",
-              "ToolTip": "C:\\Users\\VC\\Desktop\\Presidio\\Genspark-trainings\\dotnet-trainings\\console-spplications\\day24\\day24WebAppSln\\day24WebApp\\models\\ErrorModel.cs",
-              "RelativeToolTip": "day24WebApp\\models\\ErrorModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAfAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-15T07:12:15.122Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "UserController.cs",
-              "DocumentMoniker": "C:\\Users\\VC\\Desktop\\Presidio\\Genspark-trainings\\dotnet-trainings\\console-spplications\\day24\\day24WebAppSln\\day24WebApp\\controllers\\UserController.cs",
-              "RelativeDocumentMoniker": "day24WebApp\\controllers\\UserController.cs",
-              "ToolTip": "C:\\Users\\VC\\Desktop\\Presidio\\Genspark-trainings\\dotnet-trainings\\console-spplications\\day24\\day24WebAppSln\\day24WebApp\\controllers\\UserController.cs",
-              "RelativeToolTip": "day24WebApp\\controllers\\UserController.cs",
-              "ViewState": "AQIAAA4AAAAAAAAAAIA5wB0AAAANAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-15T07:11:01.274Z",
+              "WhenOpened": "2024-05-16T11:17:41.53Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
+              "Title": "TokenService.cs",
+              "DocumentMoniker": "C:\\Users\\VC\\Desktop\\Presidio\\Genspark-trainings\\dotnet-trainings\\console-spplications\\day24\\day24WebAppSln\\day24WebApp\\services\\TokenService.cs",
+              "RelativeDocumentMoniker": "day24WebApp\\services\\TokenService.cs",
+              "ToolTip": "C:\\Users\\VC\\Desktop\\Presidio\\Genspark-trainings\\dotnet-trainings\\console-spplications\\day24\\day24WebAppSln\\day24WebApp\\services\\TokenService.cs",
+              "RelativeToolTip": "day24WebApp\\services\\TokenService.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAqwBcAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T06:51:44.655Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "UserService.cs",
               "DocumentMoniker": "C:\\Users\\VC\\Desktop\\Presidio\\Genspark-trainings\\dotnet-trainings\\console-spplications\\day24\\day24WebAppSln\\day24WebApp\\services\\UserService.cs",
               "RelativeDocumentMoniker": "day24WebApp\\services\\UserService.cs",
               "ToolTip": "C:\\Users\\VC\\Desktop\\Presidio\\Genspark-trainings\\dotnet-trainings\\console-spplications\\day24\\day24WebAppSln\\day24WebApp\\services\\UserService.cs",
               "RelativeToolTip": "day24WebApp\\services\\UserService.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAADYAAAAdAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAACwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-15T07:08:25.856Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 4,
               "Title": "IUserService.cs",
               "DocumentMoniker": "C:\\Users\\VC\\Desktop\\Presidio\\Genspark-trainings\\dotnet-trainings\\console-spplications\\day24\\day24WebAppSln\\day24WebApp\\interfaces\\IUserService.cs",
               "RelativeDocumentMoniker": "day24WebApp\\interfaces\\IUserService.cs",
               "ToolTip": "C:\\Users\\VC\\Desktop\\Presidio\\Genspark-trainings\\dotnet-trainings\\console-spplications\\day24\\day24WebAppSln\\day24WebApp\\interfaces\\IUserService.cs",
               "RelativeToolTip": "day24WebApp\\interfaces\\IUserService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAUAAAAhAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAcAAAAiAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-15T07:07:16.088Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "UserLoginDTO.cs",
-              "DocumentMoniker": "C:\\Users\\VC\\Desktop\\Presidio\\Genspark-trainings\\dotnet-trainings\\console-spplications\\day24\\day24WebAppSln\\day24WebApp\\models\\DTOs\\UserLoginDTO.cs",
-              "RelativeDocumentMoniker": "day24WebApp\\models\\DTOs\\UserLoginDTO.cs",
-              "ToolTip": "C:\\Users\\VC\\Desktop\\Presidio\\Genspark-trainings\\dotnet-trainings\\console-spplications\\day24\\day24WebAppSln\\day24WebApp\\models\\DTOs\\UserLoginDTO.cs",
-              "RelativeToolTip": "day24WebApp\\models\\DTOs\\UserLoginDTO.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAA8AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-15T07:06:23.256Z",
+              "WhenOpened": "2024-05-15T07:07:16.088Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "EmployeeUserDTO.cs",
-              "DocumentMoniker": "C:\\Users\\VC\\Desktop\\Presidio\\Genspark-trainings\\dotnet-trainings\\console-spplications\\day24\\day24WebAppSln\\day24WebApp\\models\\DTOs\\EmployeeUserDTO.cs",
-              "RelativeDocumentMoniker": "day24WebApp\\models\\DTOs\\EmployeeUserDTO.cs",
-              "ToolTip": "C:\\Users\\VC\\Desktop\\Presidio\\Genspark-trainings\\dotnet-trainings\\console-spplications\\day24\\day24WebAppSln\\day24WebApp\\models\\DTOs\\EmployeeUserDTO.cs",
-              "RelativeToolTip": "day24WebApp\\models\\DTOs\\EmployeeUserDTO.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-15T07:05:52.748Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Employee.cs",
-              "DocumentMoniker": "C:\\Users\\VC\\Desktop\\Presidio\\Genspark-trainings\\dotnet-trainings\\console-spplications\\day24\\day24WebAppSln\\day24WebApp\\models\\Employee.cs",
-              "RelativeDocumentMoniker": "day24WebApp\\models\\Employee.cs",
-              "ToolTip": "C:\\Users\\VC\\Desktop\\Presidio\\Genspark-trainings\\dotnet-trainings\\console-spplications\\day24\\day24WebAppSln\\day24WebApp\\models\\Employee.cs",
-              "RelativeToolTip": "day24WebApp\\models\\Employee.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAZAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-15T05:12:55.424Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "RequestTrackerContext.cs",
-              "DocumentMoniker": "C:\\Users\\VC\\Desktop\\Presidio\\Genspark-trainings\\dotnet-trainings\\console-spplications\\day24\\day24WebAppSln\\day24WebApp\\contexts\\RequestTrackerContext.cs",
-              "RelativeDocumentMoniker": "day24WebApp\\contexts\\RequestTrackerContext.cs",
-              "ToolTip": "C:\\Users\\VC\\Desktop\\Presidio\\Genspark-trainings\\dotnet-trainings\\console-spplications\\day24\\day24WebAppSln\\day24WebApp\\contexts\\RequestTrackerContext.cs",
-              "RelativeToolTip": "day24WebApp\\contexts\\RequestTrackerContext.cs",
-              "ViewState": "AQIAAA0AAAAAAAAAAAAQwBQAAACSAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-15T04:59:21.582Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "UserRepository.cs",
-              "DocumentMoniker": "C:\\Users\\VC\\Desktop\\Presidio\\Genspark-trainings\\dotnet-trainings\\console-spplications\\day24\\day24WebAppSln\\day24WebApp\\repositories\\UserRepository.cs",
-              "RelativeDocumentMoniker": "day24WebApp\\repositories\\UserRepository.cs",
-              "ToolTip": "C:\\Users\\VC\\Desktop\\Presidio\\Genspark-trainings\\dotnet-trainings\\console-spplications\\day24\\day24WebAppSln\\day24WebApp\\repositories\\UserRepository.cs",
-              "RelativeToolTip": "day24WebApp\\repositories\\UserRepository.cs",
-              "ViewState": "AQIAAB4AAAAAAAAAAAAUwCYAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-15T04:58:32.126Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "User.cs",
-              "DocumentMoniker": "C:\\Users\\VC\\Desktop\\Presidio\\Genspark-trainings\\dotnet-trainings\\console-spplications\\day24\\day24WebAppSln\\day24WebApp\\models\\User.cs",
-              "RelativeDocumentMoniker": "day24WebApp\\models\\User.cs",
-              "ToolTip": "C:\\Users\\VC\\Desktop\\Presidio\\Genspark-trainings\\dotnet-trainings\\console-spplications\\day24\\day24WebAppSln\\day24WebApp\\models\\User.cs",
-              "RelativeToolTip": "day24WebApp\\models\\User.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAcwA8AAAAqAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-15T04:51:40.97Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "IRepository.cs",
-              "DocumentMoniker": "C:\\Users\\VC\\Desktop\\Presidio\\Genspark-trainings\\dotnet-trainings\\console-spplications\\day24\\day24WebAppSln\\day24WebApp\\interfaces\\IRepository.cs",
-              "RelativeDocumentMoniker": "day24WebApp\\interfaces\\IRepository.cs",
-              "ToolTip": "C:\\Users\\VC\\Desktop\\Presidio\\Genspark-trainings\\dotnet-trainings\\console-spplications\\day24\\day24WebAppSln\\day24WebApp\\interfaces\\IRepository.cs",
-              "RelativeToolTip": "day24WebApp\\interfaces\\IRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAmAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-14T15:02:25.887Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "EmployeeBasicService.cs",
-              "DocumentMoniker": "C:\\Users\\VC\\Desktop\\Presidio\\Genspark-trainings\\dotnet-trainings\\console-spplications\\day24\\day24WebAppSln\\day24WebApp\\services\\EmployeeBasicService.cs",
-              "RelativeDocumentMoniker": "day24WebApp\\services\\EmployeeBasicService.cs",
-              "ToolTip": "C:\\Users\\VC\\Desktop\\Presidio\\Genspark-trainings\\dotnet-trainings\\console-spplications\\day24\\day24WebAppSln\\day24WebApp\\services\\EmployeeBasicService.cs",
-              "RelativeToolTip": "day24WebApp\\services\\EmployeeBasicService.cs",
-              "ViewState": "AQIAAB8AAAAAAAAAAAAkwAUAAAA4AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-14T06:24:32.056Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "EmployeeController.cs",
-              "DocumentMoniker": "C:\\Users\\VC\\Desktop\\Presidio\\Genspark-trainings\\dotnet-trainings\\console-spplications\\day24\\day24WebAppSln\\day24WebApp\\controllers\\EmployeeController.cs",
-              "RelativeDocumentMoniker": "day24WebApp\\controllers\\EmployeeController.cs",
-              "ToolTip": "C:\\Users\\VC\\Desktop\\Presidio\\Genspark-trainings\\dotnet-trainings\\console-spplications\\day24\\day24WebAppSln\\day24WebApp\\controllers\\EmployeeController.cs",
-              "RelativeToolTip": "day24WebApp\\controllers\\EmployeeController.cs",
-              "ViewState": "AQIAACkAAAAAAAAAAAAgwDgAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-14T06:22:27.415Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\VC\\Desktop\\Presidio\\Genspark-trainings\\dotnet-trainings\\console-spplications\\day24\\day24WebAppSln\\day24WebApp\\Program.cs",
               "RelativeDocumentMoniker": "day24WebApp\\Program.cs",
               "ToolTip": "C:\\Users\\VC\\Desktop\\Presidio\\Genspark-trainings\\dotnet-trainings\\console-spplications\\day24\\day24WebAppSln\\day24WebApp\\Program.cs",
               "RelativeToolTip": "day24WebApp\\Program.cs",
-              "ViewState": "AQIAAAsAAAAAAAAAAAAAwCEAAABEAAAA",
+              "ViewState": "AQIAADAAAAAAAAAAAAAtwD8AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-14T06:16:39.044Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "EmployeeRepository.cs",
-              "DocumentMoniker": "C:\\Users\\VC\\Desktop\\Presidio\\Genspark-trainings\\dotnet-trainings\\console-spplications\\day24\\day24WebAppSln\\day24WebApp\\repositories\\EmployeeRepository.cs",
-              "RelativeDocumentMoniker": "day24WebApp\\repositories\\EmployeeRepository.cs",
-              "ToolTip": "C:\\Users\\VC\\Desktop\\Presidio\\Genspark-trainings\\dotnet-trainings\\console-spplications\\day24\\day24WebAppSln\\day24WebApp\\repositories\\EmployeeRepository.cs",
-              "RelativeToolTip": "day24WebApp\\repositories\\EmployeeRepository.cs",
-              "ViewState": "AQIAABoAAAAAAAAAAAAgwDQAAAAwAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-14T06:15:07.056Z"
             }
           ]
         }

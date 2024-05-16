@@ -1,6 +1,7 @@
 ﻿using day24WebApp.exceptions;
 using day24WebApp.interfaces;
 using day24WebApp.models;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 
@@ -16,13 +17,14 @@ namespace day24WebApp.controllers
         {
             _employeeService = employeeService;
         }
+        [Authorize]
         [HttpGet]
         public async Task<IList<Employee>> Get()
         {
             var employees = await _employeeService.GetEmployees();
             return employees.ToList();
         }
-
+        [Authorize]
         [HttpPut]
         public async Task<ActionResult<Employee>> Put(int id, string phone)
         {
@@ -37,6 +39,7 @@ namespace day24WebApp.controllers
             }
         }
 
+        [Authorize]
         [Route("GetEmployeeByPhone")]
         [HttpPost]
         public async Task<ActionResult<Employee>> Get([FromBody] string phone)

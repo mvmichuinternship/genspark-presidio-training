@@ -67,3 +67,5 @@ C:\Users\VC\Desktop\Presidio\Genspark-trainings\dotnet-trainings\console-spplica
 C:\Users\VC\Desktop\Presidio\Genspark-trainings\dotnet-trainings\console-spplications\day24\day24WebAppSln\day24WebApp\obj\Debug\net6.0\day24WebApp.pdb
 C:\Users\VC\Desktop\Presidio\Genspark-trainings\dotnet-trainings\console-spplications\day24\day24WebAppSln\day24WebApp\obj\Debug\net6.0\day24WebApp.genruntimeconfig.cache
 C:\Users\VC\Desktop\Presidio\Genspark-trainings\dotnet-trainings\console-spplications\day24\day24WebAppSln\day24WebApp\obj\Debug\net6.0\ref\day24WebApp.dll
+C:\Users\VC\Desktop\Presidio\Genspark-trainings\dotnet-trainings\console-spplications\day24\day24WebAppSln\day24WebApp\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\VC\Desktop\Presidio\Genspark-trainings\dotnet-trainings\console-spplications\day24\day24WebAppSln\day24WebApp\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
