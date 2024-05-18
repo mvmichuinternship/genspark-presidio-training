@@ -11,13 +11,16 @@ namespace PizzaShopWebApp.services
     {
         private readonly IRepository<int, User> _userRepo;
         private readonly IRepository<int, Customer> _customerRepo;
+        private readonly ITokenService _tokenService;
 
-        public UserService(IRepository<int, User> userRepo, IRepository<int, Customer> customerRepo)
+
+        public UserService(IRepository<int, User> userRepo, IRepository<int, Customer> customerRepo, ITokenService tokenService)
         {
             _userRepo = userRepo;
             _customerRepo = customerRepo;
+            _tokenService = tokenService;
         }
-        public async Task<Customer> Login(UserLoginDTO loginDTO)
+        public async Task<LoginReturnDTO> Login(UserLoginDTO loginDTO)
         {
             var userDB = await _userRepo.Get(loginDTO.UserId);
             if (userDB == null)
@@ -30,13 +33,22 @@ namespace PizzaShopWebApp.services
             if (isPasswordSame)
             {
                 var customer = await _customerRepo.Get(loginDTO.UserId);
-                if (userDB.Status == "Active")
-                    return customer;
+                //if (userDB.Status == "Active")
+                //    return customer;
+                LoginReturnDTO loginReturnDTO = MapCustomerToLoginReturn(customer);
+                return loginReturnDTO;
                 throw new UserNotActiveException("Your account is not activated");
             }
             throw new UnauthorizedUserException("Invalid username or password");
         }
 
+        private LoginReturnDTO MapCustomerToLoginReturn(Customer customer)
+        {
+            LoginReturnDTO returnDTO = new LoginReturnDTO();
+            returnDTO.CustomerID = customer.Id;
+            returnDTO.Token = _tokenService.GenerateToken(customer);
+            return returnDTO;
+        }
         private bool ComparePassword(byte[] encrypterPass, byte[] password)
         {
             for (int i = 0; i < encrypterPass.Length; i++)

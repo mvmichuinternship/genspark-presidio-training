@@ -99,8 +99,13 @@ namespace RequestTrackerFEAPP
         public async Task GetForViewRequestStatus()
         {
             await Console.Out.WriteLineAsync("ViewStatus");
-            var res =await ViewRequestStatusProgram();
-            await Console.Out.WriteLineAsync(res[0]);
+            IList<string> res = new List<string>();
+             res =await ViewRequestStatusProgram();
+            foreach (var item in res)
+            {
+                await Console.Out.WriteLineAsync(item);
+
+            }
 
         }
 

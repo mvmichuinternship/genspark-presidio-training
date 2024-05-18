@@ -105,8 +105,17 @@ namespace RequestTrackerFEAPP
         public async Task GetListViewSolution()
         {
             await Console.Out.WriteLineAsync("View all solutions");
-            var res = await ViewSolutions();
-            await Console.Out.WriteLineAsync(res[0].SolName);
+            IList<RequestSolution> res = new List<RequestSolution>();
+            res = await ViewSolutions();
+            foreach (var item in res)
+            {
+                await Console.Out.WriteLineAsync(Convert.ToString(item.SolId));
+                await Console.Out.WriteLineAsync(item.SolName);
+                await Console.Out.WriteLineAsync(item.SolDescription);
+                await Console.Out.WriteLineAsync(item.RequestRaiserComment);
+
+            }
+            //await Console.Out.WriteLineAsync(res[0].SolName);
         }
     }
 }

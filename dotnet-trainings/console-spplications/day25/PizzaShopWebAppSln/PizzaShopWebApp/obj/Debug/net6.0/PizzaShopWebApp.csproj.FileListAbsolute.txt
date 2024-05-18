@@ -67,3 +67,6 @@ C:\Users\VC\Desktop\Presidio\Genspark-trainings\dotnet-trainings\console-spplica
 C:\Users\VC\Desktop\Presidio\Genspark-trainings\dotnet-trainings\console-spplications\day25\PizzaShopWebAppSln\PizzaShopWebApp\obj\Debug\net6.0\PizzaShopWebApp.pdb
 C:\Users\VC\Desktop\Presidio\Genspark-trainings\dotnet-trainings\console-spplications\day25\PizzaShopWebAppSln\PizzaShopWebApp\obj\Debug\net6.0\PizzaShopWebApp.genruntimeconfig.cache
 C:\Users\VC\Desktop\Presidio\Genspark-trainings\dotnet-trainings\console-spplications\day25\PizzaShopWebAppSln\PizzaShopWebApp\obj\Debug\net6.0\ref\PizzaShopWebApp.dll
+C:\Users\VC\Desktop\Presidio\Genspark-trainings\dotnet-trainings\console-spplications\day25\PizzaShopWebAppSln\PizzaShopWebApp\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\VC\Desktop\Presidio\Genspark-trainings\dotnet-trainings\console-spplications\day25\PizzaShopWebAppSln\PizzaShopWebApp\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\VC\Desktop\Presidio\Genspark-trainings\dotnet-trainings\console-spplications\day25\PizzaShopWebAppSln\PizzaShopWebApp\bin\Debug\net6.0\application.development.json

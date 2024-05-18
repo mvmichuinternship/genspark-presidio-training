@@ -3,20 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\VC\\Desktop\\Presidio\\Genspark-trainings\\dotnet-trainings\\console-spplications\\day21\\RequestTrackerSolution\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{49CE4122-4A72-4343-8055-4429D314BF97}|RequestTrackerModelLibrary\\RequestTrackerModelLibrary.csproj|c:\\users\\vc\\desktop\\presidio\\genspark-trainings\\dotnet-trainings\\console-spplications\\day21\\requesttrackersolution\\requesttrackermodellibrary\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49CE4122-4A72-4343-8055-4429D314BF97}|RequestTrackerModelLibrary\\RequestTrackerModelLibrary.csproj|solutionrelative:requesttrackermodellibrary\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49CE4122-4A72-4343-8055-4429D314BF97}|RequestTrackerModelLibrary\\RequestTrackerModelLibrary.csproj|c:\\users\\vc\\desktop\\presidio\\genspark-trainings\\dotnet-trainings\\console-spplications\\day21\\requesttrackersolution\\requesttrackermodellibrary\\requesttrackercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49CE4122-4A72-4343-8055-4429D314BF97}|RequestTrackerModelLibrary\\RequestTrackerModelLibrary.csproj|solutionrelative:requesttrackermodellibrary\\requesttrackercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7C35718-6DC1-4EEA-A840-C7D8834F05EF}|RequestTrackerFEAPP\\RequestTrackerFEAPP.csproj|c:\\users\\vc\\desktop\\presidio\\genspark-trainings\\dotnet-trainings\\console-spplications\\day21\\requesttrackersolution\\requesttrackerfeapp\\solutionprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7C35718-6DC1-4EEA-A840-C7D8834F05EF}|RequestTrackerFEAPP\\RequestTrackerFEAPP.csproj|solutionrelative:requesttrackerfeapp\\solutionprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{E7C35718-6DC1-4EEA-A840-C7D8834F05EF}|RequestTrackerFEAPP\\RequestTrackerFEAPP.csproj|c:\\users\\vc\\desktop\\presidio\\genspark-trainings\\dotnet-trainings\\console-spplications\\day21\\requesttrackersolution\\requesttrackerfeapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E7C35718-6DC1-4EEA-A840-C7D8834F05EF}|RequestTrackerFEAPP\\RequestTrackerFEAPP.csproj|solutionrelative:requesttrackerfeapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{E7C35718-6DC1-4EEA-A840-C7D8834F05EF}|RequestTrackerFEAPP\\RequestTrackerFEAPP.csproj|c:\\users\\vc\\desktop\\presidio\\genspark-trainings\\dotnet-trainings\\console-spplications\\day21\\requesttrackersolution\\requesttrackerfeapp\\requestraise.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7C35718-6DC1-4EEA-A840-C7D8834F05EF}|RequestTrackerFEAPP\\RequestTrackerFEAPP.csproj|solutionrelative:requesttrackerfeapp\\requestraise.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{E7C35718-6DC1-4EEA-A840-C7D8834F05EF}|RequestTrackerFEAPP\\RequestTrackerFEAPP.csproj|c:\\users\\vc\\desktop\\presidio\\genspark-trainings\\dotnet-trainings\\console-spplications\\day21\\requesttrackersolution\\requesttrackerfeapp\\feedbackprograms.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E7C35718-6DC1-4EEA-A840-C7D8834F05EF}|RequestTrackerFEAPP\\RequestTrackerFEAPP.csproj|solutionrelative:requesttrackerfeapp\\feedbackprograms.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{49CE4122-4A72-4343-8055-4429D314BF97}|RequestTrackerModelLibrary\\RequestTrackerModelLibrary.csproj|c:\\users\\vc\\desktop\\presidio\\genspark-trainings\\dotnet-trainings\\console-spplications\\day21\\requesttrackersolution\\requesttrackermodellibrary\\feedback.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{49CE4122-4A72-4343-8055-4429D314BF97}|RequestTrackerModelLibrary\\RequestTrackerModelLibrary.csproj|solutionrelative:requesttrackermodellibrary\\feedback.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{21B39C0E-E3C9-442A-8E8A-118B763D20F1}|RequestTrackerBLLibrary\\RequestTrackerBLLibrary.csproj|c:\\users\\vc\\desktop\\presidio\\genspark-trainings\\dotnet-trainings\\console-spplications\\day21\\requesttrackersolution\\requesttrackerbllibrary\\feedbackbl\\feedbackbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{21B39C0E-E3C9-442A-8E8A-118B763D20F1}|RequestTrackerBLLibrary\\RequestTrackerBLLibrary.csproj|solutionrelative:requesttrackerbllibrary\\feedbackbl\\feedbackbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,54 +34,79 @@
       "DocumentGroups": [
         {
           "DockedHeight": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Feedback.cs",
-              "DocumentMoniker": "C:\\Users\\VC\\Desktop\\Presidio\\Genspark-trainings\\dotnet-trainings\\console-spplications\\day21\\RequestTrackerSolution\\RequestTrackerModelLibrary\\Feedback.cs",
-              "RelativeDocumentMoniker": "RequestTrackerModelLibrary\\Feedback.cs",
-              "ToolTip": "C:\\Users\\VC\\Desktop\\Presidio\\Genspark-trainings\\dotnet-trainings\\console-spplications\\day21\\RequestTrackerSolution\\RequestTrackerModelLibrary\\Feedback.cs",
-              "RelativeToolTip": "RequestTrackerModelLibrary\\Feedback.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-10T19:10:43.142Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "FeedbackBL.cs",
-              "DocumentMoniker": "C:\\Users\\VC\\Desktop\\Presidio\\Genspark-trainings\\dotnet-trainings\\console-spplications\\day21\\RequestTrackerSolution\\RequestTrackerBLLibrary\\feedbackBL\\FeedbackBL.cs",
-              "RelativeDocumentMoniker": "RequestTrackerBLLibrary\\feedbackBL\\FeedbackBL.cs",
-              "ToolTip": "C:\\Users\\VC\\Desktop\\Presidio\\Genspark-trainings\\dotnet-trainings\\console-spplications\\day21\\RequestTrackerSolution\\RequestTrackerBLLibrary\\feedbackBL\\FeedbackBL.cs",
-              "RelativeToolTip": "RequestTrackerBLLibrary\\feedbackBL\\FeedbackBL.cs",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAwwBQAAAAMAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-10T10:49:50.418Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\VC\\Desktop\\Presidio\\Genspark-trainings\\dotnet-trainings\\console-spplications\\day21\\RequestTrackerSolution\\RequestTrackerFEAPP\\Program.cs",
-              "RelativeDocumentMoniker": "RequestTrackerFEAPP\\Program.cs",
-              "ToolTip": "C:\\Users\\VC\\Desktop\\Presidio\\Genspark-trainings\\dotnet-trainings\\console-spplications\\day21\\RequestTrackerSolution\\RequestTrackerFEAPP\\Program.cs",
-              "RelativeToolTip": "RequestTrackerFEAPP\\Program.cs",
-              "ViewState": "AQIAABYAAAAAAAAAAAAQwCkAAAAAAAAA",
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\VC\\Desktop\\Presidio\\Genspark-trainings\\dotnet-trainings\\console-spplications\\day21\\RequestTrackerSolution\\RequestTrackerModelLibrary\\Employee.cs",
+              "RelativeDocumentMoniker": "RequestTrackerModelLibrary\\Employee.cs",
+              "ToolTip": "C:\\Users\\VC\\Desktop\\Presidio\\Genspark-trainings\\dotnet-trainings\\console-spplications\\day21\\RequestTrackerSolution\\RequestTrackerModelLibrary\\Employee.cs",
+              "RelativeToolTip": "RequestTrackerModelLibrary\\Employee.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAYwBIAAABLAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-10T17:01:04.958Z",
+              "WhenOpened": "2024-05-17T07:44:34.61Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "RequestTrackerContext.cs",
+              "DocumentMoniker": "C:\\Users\\VC\\Desktop\\Presidio\\Genspark-trainings\\dotnet-trainings\\console-spplications\\day21\\RequestTrackerSolution\\RequestTrackerModelLibrary\\RequestTrackerContext.cs",
+              "RelativeDocumentMoniker": "RequestTrackerModelLibrary\\RequestTrackerContext.cs",
+              "ToolTip": "C:\\Users\\VC\\Desktop\\Presidio\\Genspark-trainings\\dotnet-trainings\\console-spplications\\day21\\RequestTrackerSolution\\RequestTrackerModelLibrary\\RequestTrackerContext.cs",
+              "RelativeToolTip": "RequestTrackerModelLibrary\\RequestTrackerContext.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAuwCkAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T14:16:35.94Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SolutionProvider.cs",
+              "DocumentMoniker": "C:\\Users\\VC\\Desktop\\Presidio\\Genspark-trainings\\dotnet-trainings\\console-spplications\\day21\\RequestTrackerSolution\\RequestTrackerFEAPP\\SolutionProvider.cs",
+              "RelativeDocumentMoniker": "RequestTrackerFEAPP\\SolutionProvider.cs",
+              "ToolTip": "C:\\Users\\VC\\Desktop\\Presidio\\Genspark-trainings\\dotnet-trainings\\console-spplications\\day21\\RequestTrackerSolution\\RequestTrackerFEAPP\\SolutionProvider.cs",
+              "RelativeToolTip": "RequestTrackerFEAPP\\SolutionProvider.cs",
+              "ViewState": "AQIAAEMAAAAAAAAAAAAuwE4AAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T08:44:50.01Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RequestRaise.cs",
+              "DocumentMoniker": "C:\\Users\\VC\\Desktop\\Presidio\\Genspark-trainings\\dotnet-trainings\\console-spplications\\day21\\RequestTrackerSolution\\RequestTrackerFEAPP\\RequestRaise.cs",
+              "RelativeDocumentMoniker": "RequestTrackerFEAPP\\RequestRaise.cs",
+              "ToolTip": "C:\\Users\\VC\\Desktop\\Presidio\\Genspark-trainings\\dotnet-trainings\\console-spplications\\day21\\RequestTrackerSolution\\RequestTrackerFEAPP\\RequestRaise.cs",
+              "RelativeToolTip": "RequestTrackerFEAPP\\RequestRaise.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAAuwDEAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T08:39:10.766Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\VC\\Desktop\\Presidio\\Genspark-trainings\\dotnet-trainings\\console-spplications\\day21\\RequestTrackerSolution\\RequestTrackerFEAPP\\Program.cs",
+              "RelativeDocumentMoniker": "RequestTrackerFEAPP\\Program.cs",
+              "ToolTip": "C:\\Users\\VC\\Desktop\\Presidio\\Genspark-trainings\\dotnet-trainings\\console-spplications\\day21\\RequestTrackerSolution\\RequestTrackerFEAPP\\Program.cs",
+              "RelativeToolTip": "RequestTrackerFEAPP\\Program.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAACAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T17:01:04.958Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "FeedBackPrograms.cs",
               "DocumentMoniker": "C:\\Users\\VC\\Desktop\\Presidio\\Genspark-trainings\\dotnet-trainings\\console-spplications\\day21\\RequestTrackerSolution\\RequestTrackerFEAPP\\FeedBackPrograms.cs",
               "RelativeDocumentMoniker": "RequestTrackerFEAPP\\FeedBackPrograms.cs",
               "ToolTip": "C:\\Users\\VC\\Desktop\\Presidio\\Genspark-trainings\\dotnet-trainings\\console-spplications\\day21\\RequestTrackerSolution\\RequestTrackerFEAPP\\FeedBackPrograms.cs",
               "RelativeToolTip": "RequestTrackerFEAPP\\FeedBackPrograms.cs",
-              "ViewState": "AQIAAC4AAAAAAAAAAAAiwDMAAAAQAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADMAAAAQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-10T19:06:44.255Z"
             }

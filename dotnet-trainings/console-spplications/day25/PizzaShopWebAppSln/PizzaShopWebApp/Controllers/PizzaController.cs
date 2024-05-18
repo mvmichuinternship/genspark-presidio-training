@@ -4,6 +4,7 @@ using PizzaShopWebApp.exceptions;
 using PizzaShopWebApp.interfaces;
 using PizzaShopWebApp.models.DTOs;
 using PizzaShopWebApp.models;
+using Microsoft.AspNetCore.Authorization;
 
 namespace PizzaShopWebApp.Controllers
 {
@@ -16,6 +17,7 @@ namespace PizzaShopWebApp.Controllers
         {
             _pizzaService = pizzaService;
         }
+        [Authorize]
         [HttpGet("GetMenu")]
         [ProducesResponseType(typeof(PizzaMenu), StatusCodes.Status200OK)]
         [ProducesResponseType(typeof(ErrorModel), StatusCodes.Status401Unauthorized)]
@@ -28,7 +30,7 @@ namespace PizzaShopWebApp.Controllers
             }
             catch (Exception ex)
             {
-                return Unauthorized(new ErrorModel(401, ex.Message));
+                return BadRequest(new ErrorModel(401, ex.Message));
             }
         }
         [HttpGet("GetStock")]
@@ -43,7 +45,7 @@ namespace PizzaShopWebApp.Controllers
             }
             catch (Exception ex)
             {
-                return BadRequest(new ErrorModel(501, ex.Message));
+                return BadRequest(new ErrorModel(401, ex.Message));
             }
         }
         }

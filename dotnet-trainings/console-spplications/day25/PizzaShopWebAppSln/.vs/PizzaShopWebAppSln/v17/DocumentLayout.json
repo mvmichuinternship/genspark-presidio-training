@@ -3,40 +3,44 @@
   "WorkspaceRootPath": "C:\\Users\\VC\\Desktop\\Presidio\\Genspark-trainings\\dotnet-trainings\\console-spplications\\day25\\PizzaShopWebAppSln\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{657CC050-4426-463F-827F-C0D154F112CB}|PizzaShopWebApp\\PizzaShopWebApp.csproj|c:\\users\\vc\\desktop\\presidio\\genspark-trainings\\dotnet-trainings\\console-spplications\\day25\\pizzashopwebappsln\\pizzashopwebapp\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{657CC050-4426-463F-827F-C0D154F112CB}|PizzaShopWebApp\\PizzaShopWebApp.csproj|solutionrelative:pizzashopwebapp\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{657CC050-4426-463F-827F-C0D154F112CB}|PizzaShopWebApp\\PizzaShopWebApp.csproj|c:\\users\\vc\\desktop\\presidio\\genspark-trainings\\dotnet-trainings\\console-spplications\\day25\\pizzashopwebappsln\\pizzashopwebapp\\contexts\\pizzashopcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{657CC050-4426-463F-827F-C0D154F112CB}|PizzaShopWebApp\\PizzaShopWebApp.csproj|solutionrelative:pizzashopwebapp\\contexts\\pizzashopcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{657CC050-4426-463F-827F-C0D154F112CB}|PizzaShopWebApp\\PizzaShopWebApp.csproj|c:\\users\\vc\\desktop\\presidio\\genspark-trainings\\dotnet-trainings\\console-spplications\\day25\\pizzashopwebappsln\\pizzashopwebapp\\models\\pizzamenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{657CC050-4426-463F-827F-C0D154F112CB}|PizzaShopWebApp\\PizzaShopWebApp.csproj|solutionrelative:pizzashopwebapp\\models\\pizzamenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{657CC050-4426-463F-827F-C0D154F112CB}|PizzaShopWebApp\\PizzaShopWebApp.csproj|c:\\users\\vc\\desktop\\presidio\\genspark-trainings\\dotnet-trainings\\console-spplications\\day25\\pizzashopwebappsln\\pizzashopwebapp\\controllers\\pizzacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{657CC050-4426-463F-827F-C0D154F112CB}|PizzaShopWebApp\\PizzaShopWebApp.csproj|solutionrelative:pizzashopwebapp\\controllers\\pizzacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{657CC050-4426-463F-827F-C0D154F112CB}|PizzaShopWebApp\\PizzaShopWebApp.csproj|c:\\users\\vc\\desktop\\presidio\\genspark-trainings\\dotnet-trainings\\console-spplications\\day25\\pizzashopwebappsln\\pizzashopwebapp\\services\\pizzaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{657CC050-4426-463F-827F-C0D154F112CB}|PizzaShopWebApp\\PizzaShopWebApp.csproj|solutionrelative:pizzashopwebapp\\services\\pizzaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{657CC050-4426-463F-827F-C0D154F112CB}|PizzaShopWebApp\\PizzaShopWebApp.csproj|c:\\users\\vc\\desktop\\presidio\\genspark-trainings\\dotnet-trainings\\console-spplications\\day25\\pizzashopwebappsln\\pizzashopwebapp\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{657CC050-4426-463F-827F-C0D154F112CB}|PizzaShopWebApp\\PizzaShopWebApp.csproj|solutionrelative:pizzashopwebapp\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{657CC050-4426-463F-827F-C0D154F112CB}|PizzaShopWebApp\\PizzaShopWebApp.csproj|c:\\users\\vc\\desktop\\presidio\\genspark-trainings\\dotnet-trainings\\console-spplications\\day25\\pizzashopwebappsln\\pizzashopwebapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{657CC050-4426-463F-827F-C0D154F112CB}|PizzaShopWebApp\\PizzaShopWebApp.csproj|solutionrelative:pizzashopwebapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{657CC050-4426-463F-827F-C0D154F112CB}|PizzaShopWebApp\\PizzaShopWebApp.csproj|c:\\users\\vc\\desktop\\presidio\\genspark-trainings\\dotnet-trainings\\console-spplications\\day25\\pizzashopwebappsln\\pizzashopwebapp\\interfaces\\ipizzaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{657CC050-4426-463F-827F-C0D154F112CB}|PizzaShopWebApp\\PizzaShopWebApp.csproj|solutionrelative:pizzashopwebapp\\interfaces\\ipizzaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{657CC050-4426-463F-827F-C0D154F112CB}|PizzaShopWebApp\\PizzaShopWebApp.csproj|c:\\users\\vc\\desktop\\presidio\\genspark-trainings\\dotnet-trainings\\console-spplications\\day25\\pizzashopwebappsln\\pizzashopwebapp\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{657CC050-4426-463F-827F-C0D154F112CB}|PizzaShopWebApp\\PizzaShopWebApp.csproj|solutionrelative:pizzashopwebapp\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{657CC050-4426-463F-827F-C0D154F112CB}|PizzaShopWebApp\\PizzaShopWebApp.csproj|c:\\users\\vc\\desktop\\presidio\\genspark-trainings\\dotnet-trainings\\console-spplications\\day25\\pizzashopwebappsln\\pizzashopwebapp\\repositories\\pizzarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{657CC050-4426-463F-827F-C0D154F112CB}|PizzaShopWebApp\\PizzaShopWebApp.csproj|solutionrelative:pizzashopwebapp\\repositories\\pizzarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{657CC050-4426-463F-827F-C0D154F112CB}|PizzaShopWebApp\\PizzaShopWebApp.csproj|c:\\users\\vc\\desktop\\presidio\\genspark-trainings\\dotnet-trainings\\console-spplications\\day25\\pizzashopwebappsln\\pizzashopwebapp\\services\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{657CC050-4426-463F-827F-C0D154F112CB}|PizzaShopWebApp\\PizzaShopWebApp.csproj|solutionrelative:pizzashopwebapp\\services\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{657CC050-4426-463F-827F-C0D154F112CB}|PizzaShopWebApp\\PizzaShopWebApp.csproj|c:\\users\\vc\\desktop\\presidio\\genspark-trainings\\dotnet-trainings\\console-spplications\\day25\\pizzashopwebappsln\\pizzashopwebapp\\models\\dtos\\pizzastock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{657CC050-4426-463F-827F-C0D154F112CB}|PizzaShopWebApp\\PizzaShopWebApp.csproj|solutionrelative:pizzashopwebapp\\models\\dtos\\pizzastock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{657CC050-4426-463F-827F-C0D154F112CB}|PizzaShopWebApp\\PizzaShopWebApp.csproj|c:\\users\\vc\\desktop\\presidio\\genspark-trainings\\dotnet-trainings\\console-spplications\\day25\\pizzashopwebappsln\\pizzashopwebapp\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{657CC050-4426-463F-827F-C0D154F112CB}|PizzaShopWebApp\\PizzaShopWebApp.csproj|solutionrelative:pizzashopwebapp\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{657CC050-4426-463F-827F-C0D154F112CB}|PizzaShopWebApp\\PizzaShopWebApp.csproj|c:\\users\\vc\\desktop\\presidio\\genspark-trainings\\dotnet-trainings\\console-spplications\\day25\\pizzashopwebappsln\\pizzashopwebapp\\models\\dtos\\loginreturndto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{657CC050-4426-463F-827F-C0D154F112CB}|PizzaShopWebApp\\PizzaShopWebApp.csproj|solutionrelative:pizzashopwebapp\\models\\dtos\\loginreturndto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{657CC050-4426-463F-827F-C0D154F112CB}|PizzaShopWebApp\\PizzaShopWebApp.csproj|c:\\users\\vc\\desktop\\presidio\\genspark-trainings\\dotnet-trainings\\console-spplications\\day25\\pizzashopwebappsln\\pizzashopwebapp\\contexts\\pizzashopcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{657CC050-4426-463F-827F-C0D154F112CB}|PizzaShopWebApp\\PizzaShopWebApp.csproj|solutionrelative:pizzashopwebapp\\contexts\\pizzashopcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{657CC050-4426-463F-827F-C0D154F112CB}|PizzaShopWebApp\\PizzaShopWebApp.csproj|c:\\users\\vc\\desktop\\presidio\\genspark-trainings\\dotnet-trainings\\console-spplications\\day25\\pizzashopwebappsln\\pizzashopwebapp\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{657CC050-4426-463F-827F-C0D154F112CB}|PizzaShopWebApp\\PizzaShopWebApp.csproj|solutionrelative:pizzashopwebapp\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{657CC050-4426-463F-827F-C0D154F112CB}|PizzaShopWebApp\\PizzaShopWebApp.csproj|c:\\users\\vc\\desktop\\presidio\\genspark-trainings\\dotnet-trainings\\console-spplications\\day25\\pizzashopwebappsln\\pizzashopwebapp\\interfaces\\itokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{657CC050-4426-463F-827F-C0D154F112CB}|PizzaShopWebApp\\PizzaShopWebApp.csproj|solutionrelative:pizzashopwebapp\\interfaces\\itokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,121 +50,129 @@
       "DocumentGroups": [
         {
           "DockedHeight": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "PizzaShopContext.cs",
-              "DocumentMoniker": "C:\\Users\\VC\\Desktop\\Presidio\\Genspark-trainings\\dotnet-trainings\\console-spplications\\day25\\PizzaShopWebAppSln\\PizzaShopWebApp\\contexts\\PizzaShopContext.cs",
-              "RelativeDocumentMoniker": "PizzaShopWebApp\\contexts\\PizzaShopContext.cs",
-              "ToolTip": "C:\\Users\\VC\\Desktop\\Presidio\\Genspark-trainings\\dotnet-trainings\\console-spplications\\day25\\PizzaShopWebAppSln\\PizzaShopWebApp\\contexts\\PizzaShopContext.cs",
-              "RelativeToolTip": "PizzaShopWebApp\\contexts\\PizzaShopContext.cs",
-              "ViewState": "AQIAAA0AAAAAAAAAAAAmwBsAAAB/AAAA",
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\VC\\Desktop\\Presidio\\Genspark-trainings\\dotnet-trainings\\console-spplications\\day25\\PizzaShopWebAppSln\\PizzaShopWebApp\\models\\Customer.cs",
+              "RelativeDocumentMoniker": "PizzaShopWebApp\\models\\Customer.cs",
+              "ToolTip": "C:\\Users\\VC\\Desktop\\Presidio\\Genspark-trainings\\dotnet-trainings\\console-spplications\\day25\\PizzaShopWebAppSln\\PizzaShopWebApp\\models\\Customer.cs",
+              "RelativeToolTip": "PizzaShopWebApp\\models\\Customer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-15T11:47:22.579Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "IPizzaService.cs",
-              "DocumentMoniker": "C:\\Users\\VC\\Desktop\\Presidio\\Genspark-trainings\\dotnet-trainings\\console-spplications\\day25\\PizzaShopWebAppSln\\PizzaShopWebApp\\interfaces\\IPizzaService.cs",
-              "RelativeDocumentMoniker": "PizzaShopWebApp\\interfaces\\IPizzaService.cs",
-              "ToolTip": "C:\\Users\\VC\\Desktop\\Presidio\\Genspark-trainings\\dotnet-trainings\\console-spplications\\day25\\PizzaShopWebAppSln\\PizzaShopWebApp\\interfaces\\IPizzaService.cs",
-              "RelativeToolTip": "PizzaShopWebApp\\interfaces\\IPizzaService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAA9AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-15T11:37:49.702Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "PizzaService.cs",
-              "DocumentMoniker": "C:\\Users\\VC\\Desktop\\Presidio\\Genspark-trainings\\dotnet-trainings\\console-spplications\\day25\\PizzaShopWebAppSln\\PizzaShopWebApp\\services\\PizzaService.cs",
-              "RelativeDocumentMoniker": "PizzaShopWebApp\\services\\PizzaService.cs",
-              "ToolTip": "C:\\Users\\VC\\Desktop\\Presidio\\Genspark-trainings\\dotnet-trainings\\console-spplications\\day25\\PizzaShopWebAppSln\\PizzaShopWebApp\\services\\PizzaService.cs",
-              "RelativeToolTip": "PizzaShopWebApp\\services\\PizzaService.cs",
-              "ViewState": "AQIAABUAAAAAAAAAAAAYwBsAAABMAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-15T11:53:02.331Z",
+              "WhenOpened": "2024-05-16T09:10:17.889Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\VC\\Desktop\\Presidio\\Genspark-trainings\\dotnet-trainings\\console-spplications\\day25\\PizzaShopWebAppSln\\PizzaShopWebApp\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "PizzaShopWebApp\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\VC\\Desktop\\Presidio\\Genspark-trainings\\dotnet-trainings\\console-spplications\\day25\\PizzaShopWebAppSln\\PizzaShopWebApp\\Controllers\\UserController.cs",
+              "RelativeToolTip": "PizzaShopWebApp\\Controllers\\UserController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T09:06:50.119Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PizzaShopContext.cs",
+              "DocumentMoniker": "C:\\Users\\VC\\Desktop\\Presidio\\Genspark-trainings\\dotnet-trainings\\console-spplications\\day25\\PizzaShopWebAppSln\\PizzaShopWebApp\\contexts\\PizzaShopContext.cs",
+              "RelativeDocumentMoniker": "PizzaShopWebApp\\contexts\\PizzaShopContext.cs",
+              "ToolTip": "C:\\Users\\VC\\Desktop\\Presidio\\Genspark-trainings\\dotnet-trainings\\console-spplications\\day25\\PizzaShopWebAppSln\\PizzaShopWebApp\\contexts\\PizzaShopContext.cs",
+              "RelativeToolTip": "PizzaShopWebApp\\contexts\\PizzaShopContext.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAhwB0AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T09:04:06.511Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "PizzaController.cs",
               "DocumentMoniker": "C:\\Users\\VC\\Desktop\\Presidio\\Genspark-trainings\\dotnet-trainings\\console-spplications\\day25\\PizzaShopWebAppSln\\PizzaShopWebApp\\Controllers\\PizzaController.cs",
               "RelativeDocumentMoniker": "PizzaShopWebApp\\Controllers\\PizzaController.cs",
               "ToolTip": "C:\\Users\\VC\\Desktop\\Presidio\\Genspark-trainings\\dotnet-trainings\\console-spplications\\day25\\PizzaShopWebAppSln\\PizzaShopWebApp\\Controllers\\PizzaController.cs",
               "RelativeToolTip": "PizzaShopWebApp\\Controllers\\PizzaController.cs",
-              "ViewState": "AQIAACEAAAAAAAAAAAAYwCQAAAAwAAAA",
+              "ViewState": "AQIAABMAAAAAAAAAAAAQwB4AAAAgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-15T14:02:15.763Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "UserService.cs",
-              "DocumentMoniker": "C:\\Users\\VC\\Desktop\\Presidio\\Genspark-trainings\\dotnet-trainings\\console-spplications\\day25\\PizzaShopWebAppSln\\PizzaShopWebApp\\services\\UserService.cs",
-              "RelativeDocumentMoniker": "PizzaShopWebApp\\services\\UserService.cs",
-              "ToolTip": "C:\\Users\\VC\\Desktop\\Presidio\\Genspark-trainings\\dotnet-trainings\\console-spplications\\day25\\PizzaShopWebAppSln\\PizzaShopWebApp\\services\\UserService.cs",
-              "RelativeToolTip": "PizzaShopWebApp\\services\\UserService.cs",
-              "ViewState": "AQIAAFAAAAAAAAAAAAAswBMAAABAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-15T10:36:25.47Z",
+              "WhenOpened": "2024-05-16T09:56:39.563Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "PizzaStock.cs",
-              "DocumentMoniker": "C:\\Users\\VC\\Desktop\\Presidio\\Genspark-trainings\\dotnet-trainings\\console-spplications\\day25\\PizzaShopWebAppSln\\PizzaShopWebApp\\models\\DTOs\\PizzaStock.cs",
-              "RelativeDocumentMoniker": "PizzaShopWebApp\\models\\DTOs\\PizzaStock.cs",
-              "ToolTip": "C:\\Users\\VC\\Desktop\\Presidio\\Genspark-trainings\\dotnet-trainings\\console-spplications\\day25\\PizzaShopWebAppSln\\PizzaShopWebApp\\models\\DTOs\\PizzaStock.cs",
-              "RelativeToolTip": "PizzaShopWebApp\\models\\DTOs\\PizzaStock.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAoAAAA",
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "C:\\Users\\VC\\Desktop\\Presidio\\Genspark-trainings\\dotnet-trainings\\console-spplications\\day25\\PizzaShopWebAppSln\\PizzaShopWebApp\\interfaces\\IUserService.cs",
+              "RelativeDocumentMoniker": "PizzaShopWebApp\\interfaces\\IUserService.cs",
+              "ToolTip": "C:\\Users\\VC\\Desktop\\Presidio\\Genspark-trainings\\dotnet-trainings\\console-spplications\\day25\\PizzaShopWebAppSln\\PizzaShopWebApp\\interfaces\\IUserService.cs",
+              "RelativeToolTip": "PizzaShopWebApp\\interfaces\\IUserService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAcAAAApAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-15T11:36:04.282Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "PizzaMenu.cs",
-              "DocumentMoniker": "C:\\Users\\VC\\Desktop\\Presidio\\Genspark-trainings\\dotnet-trainings\\console-spplications\\day25\\PizzaShopWebAppSln\\PizzaShopWebApp\\models\\PizzaMenu.cs",
-              "RelativeDocumentMoniker": "PizzaShopWebApp\\models\\PizzaMenu.cs",
-              "ToolTip": "C:\\Users\\VC\\Desktop\\Presidio\\Genspark-trainings\\dotnet-trainings\\console-spplications\\day25\\PizzaShopWebAppSln\\PizzaShopWebApp\\models\\PizzaMenu.cs",
-              "RelativeToolTip": "PizzaShopWebApp\\models\\PizzaMenu.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAwAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-15T11:21:07.48Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "PizzaRepository.cs",
-              "DocumentMoniker": "C:\\Users\\VC\\Desktop\\Presidio\\Genspark-trainings\\dotnet-trainings\\console-spplications\\day25\\PizzaShopWebAppSln\\PizzaShopWebApp\\repositories\\PizzaRepository.cs",
-              "RelativeDocumentMoniker": "PizzaShopWebApp\\repositories\\PizzaRepository.cs",
-              "ToolTip": "C:\\Users\\VC\\Desktop\\Presidio\\Genspark-trainings\\dotnet-trainings\\console-spplications\\day25\\PizzaShopWebAppSln\\PizzaShopWebApp\\repositories\\PizzaRepository.cs",
-              "RelativeToolTip": "PizzaShopWebApp\\repositories\\PizzaRepository.cs",
-              "ViewState": "AQIAACcAAAAAAAAAAAAuwDEAAAAxAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-15T11:39:21.826Z"
+              "WhenOpened": "2024-05-16T08:51:55.12Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\VC\\Desktop\\Presidio\\Genspark-trainings\\dotnet-trainings\\console-spplications\\day25\\PizzaShopWebAppSln\\PizzaShopWebApp\\services\\UserService.cs",
+              "RelativeDocumentMoniker": "PizzaShopWebApp\\services\\UserService.cs",
+              "ToolTip": "C:\\Users\\VC\\Desktop\\Presidio\\Genspark-trainings\\dotnet-trainings\\console-spplications\\day25\\PizzaShopWebAppSln\\PizzaShopWebApp\\services\\UserService.cs",
+              "RelativeToolTip": "PizzaShopWebApp\\services\\UserService.cs",
+              "ViewState": "AQIAADQAAAAAAAAAAAAewEAAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T08:50:34.936Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TokenService.cs",
+              "DocumentMoniker": "C:\\Users\\VC\\Desktop\\Presidio\\Genspark-trainings\\dotnet-trainings\\console-spplications\\day25\\PizzaShopWebAppSln\\PizzaShopWebApp\\services\\TokenService.cs",
+              "RelativeDocumentMoniker": "PizzaShopWebApp\\services\\TokenService.cs",
+              "ToolTip": "C:\\Users\\VC\\Desktop\\Presidio\\Genspark-trainings\\dotnet-trainings\\console-spplications\\day25\\PizzaShopWebAppSln\\PizzaShopWebApp\\services\\TokenService.cs",
+              "RelativeToolTip": "PizzaShopWebApp\\services\\TokenService.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T08:49:08.885Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ITokenService.cs",
+              "DocumentMoniker": "C:\\Users\\VC\\Desktop\\Presidio\\Genspark-trainings\\dotnet-trainings\\console-spplications\\day25\\PizzaShopWebAppSln\\PizzaShopWebApp\\interfaces\\ITokenService.cs",
+              "RelativeDocumentMoniker": "PizzaShopWebApp\\interfaces\\ITokenService.cs",
+              "ToolTip": "C:\\Users\\VC\\Desktop\\Presidio\\Genspark-trainings\\dotnet-trainings\\console-spplications\\day25\\PizzaShopWebAppSln\\PizzaShopWebApp\\interfaces\\ITokenService.cs",
+              "RelativeToolTip": "PizzaShopWebApp\\interfaces\\ITokenService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T08:47:39.865Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LoginReturnDTO.cs",
+              "DocumentMoniker": "C:\\Users\\VC\\Desktop\\Presidio\\Genspark-trainings\\dotnet-trainings\\console-spplications\\day25\\PizzaShopWebAppSln\\PizzaShopWebApp\\models\\DTOs\\LoginReturnDTO.cs",
+              "RelativeDocumentMoniker": "PizzaShopWebApp\\models\\DTOs\\LoginReturnDTO.cs",
+              "ToolTip": "C:\\Users\\VC\\Desktop\\Presidio\\Genspark-trainings\\dotnet-trainings\\console-spplications\\day25\\PizzaShopWebAppSln\\PizzaShopWebApp\\models\\DTOs\\LoginReturnDTO.cs",
+              "RelativeToolTip": "PizzaShopWebApp\\models\\DTOs\\LoginReturnDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T08:45:26.635Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\VC\\Desktop\\Presidio\\Genspark-trainings\\dotnet-trainings\\console-spplications\\day25\\PizzaShopWebAppSln\\PizzaShopWebApp\\Program.cs",
               "RelativeDocumentMoniker": "PizzaShopWebApp\\Program.cs",
               "ToolTip": "C:\\Users\\VC\\Desktop\\Presidio\\Genspark-trainings\\dotnet-trainings\\console-spplications\\day25\\PizzaShopWebAppSln\\PizzaShopWebApp\\Program.cs",
               "RelativeToolTip": "PizzaShopWebApp\\Program.cs",
-              "ViewState": "AQIAABsAAAAAAAAAAAAqwCMAAAAAAAAA",
+              "ViewState": "AQIAABkAAAAAAAAAAAAAwBsAAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-15T11:02:10.348Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-15T11:02:10.348Z"
             }
           ]
         }

@@ -3,28 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\VC\\Desktop\\Presidio\\Genspark-trainings\\dotnet-trainings\\console-spplications\\day7\\day7TrackerAppSolution\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B63C5246-B11A-4716-9DB0-87E103601A01}|DepartBLTest\\DepartBLTest.csproj|c:\\users\\vc\\desktop\\presidio\\genspark-trainings\\dotnet-trainings\\console-spplications\\day7\\day7trackerappsolution\\departbltest\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B63C5246-B11A-4716-9DB0-87E103601A01}|DepartBLTest\\DepartBLTest.csproj|solutionrelative:departbltest\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4B3ED360-C659-4BD2-9613-1A3496602394}|RequestTrackerBlLibrary\\RequestTrackerBlLibrary.csproj|c:\\users\\vc\\desktop\\presidio\\genspark-trainings\\dotnet-trainings\\console-spplications\\day7\\day7trackerappsolution\\requesttrackerbllibrary\\departmentbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4B3ED360-C659-4BD2-9613-1A3496602394}|RequestTrackerBlLibrary\\RequestTrackerBlLibrary.csproj|solutionrelative:requesttrackerbllibrary\\departmentbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{374D6FDD-03D0-498F-BAB7-2786D906C04C}|day10RequestTrackerTest\\day10RequestTrackerTest.csproj|c:\\users\\vc\\desktop\\presidio\\genspark-trainings\\dotnet-trainings\\console-spplications\\day7\\day7trackerappsolution\\day10requesttrackertest\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{374D6FDD-03D0-498F-BAB7-2786D906C04C}|day10RequestTrackerTest\\day10RequestTrackerTest.csproj|solutionrelative:day10requesttrackertest\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{8B2DEA23-E546-4433-8FD4-025350A3A70C}|RequestTrackerDalLibrary\\RequestTrackerDalLibrary.csproj|c:\\users\\vc\\desktop\\presidio\\genspark-trainings\\dotnet-trainings\\console-spplications\\day7\\day7trackerappsolution\\requesttrackerdallibrary\\departmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8B2DEA23-E546-4433-8FD4-025350A3A70C}|RequestTrackerDalLibrary\\RequestTrackerDalLibrary.csproj|solutionrelative:requesttrackerdallibrary\\departmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4B3ED360-C659-4BD2-9613-1A3496602394}|RequestTrackerBlLibrary\\RequestTrackerBlLibrary.csproj|c:\\users\\vc\\desktop\\presidio\\genspark-trainings\\dotnet-trainings\\console-spplications\\day7\\day7trackerappsolution\\requesttrackerbllibrary\\departmentnotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4B3ED360-C659-4BD2-9613-1A3496602394}|RequestTrackerBlLibrary\\RequestTrackerBlLibrary.csproj|solutionrelative:requesttrackerbllibrary\\departmentnotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8B2DEA23-E546-4433-8FD4-025350A3A70C}|RequestTrackerDalLibrary\\RequestTrackerDalLibrary.csproj|c:\\users\\vc\\desktop\\presidio\\genspark-trainings\\dotnet-trainings\\console-spplications\\day7\\day7trackerappsolution\\requesttrackerdallibrary\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8B2DEA23-E546-4433-8FD4-025350A3A70C}|RequestTrackerDalLibrary\\RequestTrackerDalLibrary.csproj|solutionrelative:requesttrackerdallibrary\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,80 +14,20 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "DepartmentNotFoundException.cs",
-              "DocumentMoniker": "C:\\Users\\VC\\Desktop\\Presidio\\Genspark-trainings\\dotnet-trainings\\console-spplications\\day7\\day7TrackerAppSolution\\RequestTrackerBlLibrary\\DepartmentNotFoundException.cs",
-              "RelativeDocumentMoniker": "RequestTrackerBlLibrary\\DepartmentNotFoundException.cs",
-              "ToolTip": "C:\\Users\\VC\\Desktop\\Presidio\\Genspark-trainings\\dotnet-trainings\\console-spplications\\day7\\day7TrackerAppSolution\\RequestTrackerBlLibrary\\DepartmentNotFoundException.cs",
-              "RelativeToolTip": "RequestTrackerBlLibrary\\DepartmentNotFoundException.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAuAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-23T07:08:38.152Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "DepartmentBL.cs",
-              "DocumentMoniker": "C:\\Users\\VC\\Desktop\\Presidio\\Genspark-trainings\\dotnet-trainings\\console-spplications\\day7\\day7TrackerAppSolution\\RequestTrackerBlLibrary\\DepartmentBL.cs",
-              "RelativeDocumentMoniker": "RequestTrackerBlLibrary\\DepartmentBL.cs",
-              "ToolTip": "C:\\Users\\VC\\Desktop\\Presidio\\Genspark-trainings\\dotnet-trainings\\console-spplications\\day7\\day7TrackerAppSolution\\RequestTrackerBlLibrary\\DepartmentBL.cs",
-              "RelativeToolTip": "RequestTrackerBlLibrary\\DepartmentBL.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAEYAAAA0AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-23T06:38:57.641Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "UnitTest1.cs",
-              "DocumentMoniker": "C:\\Users\\VC\\Desktop\\Presidio\\Genspark-trainings\\dotnet-trainings\\console-spplications\\day7\\day7TrackerAppSolution\\DepartBLTest\\UnitTest1.cs",
-              "RelativeDocumentMoniker": "DepartBLTest\\UnitTest1.cs",
-              "ToolTip": "C:\\Users\\VC\\Desktop\\Presidio\\Genspark-trainings\\dotnet-trainings\\console-spplications\\day7\\day7TrackerAppSolution\\DepartBLTest\\UnitTest1.cs",
-              "RelativeToolTip": "DepartBLTest\\UnitTest1.cs",
-              "ViewState": "AQIAAAoAAAAAAAAAAAAQwAkAAAAtAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-23T06:29:50.443Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
               "Title": "DepartmentRepository.cs",
               "DocumentMoniker": "C:\\Users\\VC\\Desktop\\Presidio\\Genspark-trainings\\dotnet-trainings\\console-spplications\\day7\\day7TrackerAppSolution\\RequestTrackerDalLibrary\\DepartmentRepository.cs",
               "RelativeDocumentMoniker": "RequestTrackerDalLibrary\\DepartmentRepository.cs",
               "ToolTip": "C:\\Users\\VC\\Desktop\\Presidio\\Genspark-trainings\\dotnet-trainings\\console-spplications\\day7\\day7TrackerAppSolution\\RequestTrackerDalLibrary\\DepartmentRepository.cs",
               "RelativeToolTip": "RequestTrackerDalLibrary\\DepartmentRepository.cs",
-              "ViewState": "AQIAACIAAAAAAAAAAAAmwA0AAAAJAAAA",
+              "ViewState": "AQIAABUAAAAAAAAAAAAcwA0AAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-23T05:12:50.486Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Repository.cs",
-              "DocumentMoniker": "C:\\Users\\VC\\Desktop\\Presidio\\Genspark-trainings\\dotnet-trainings\\console-spplications\\day7\\day7TrackerAppSolution\\RequestTrackerDalLibrary\\Repository.cs",
-              "RelativeDocumentMoniker": "RequestTrackerDalLibrary\\Repository.cs",
-              "ToolTip": "C:\\Users\\VC\\Desktop\\Presidio\\Genspark-trainings\\dotnet-trainings\\console-spplications\\day7\\day7TrackerAppSolution\\RequestTrackerDalLibrary\\Repository.cs",
-              "RelativeToolTip": "RequestTrackerDalLibrary\\Repository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAUAAAAMAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-17T07:13:25.942Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "UnitTest1.cs",
-              "DocumentMoniker": "C:\\Users\\VC\\Desktop\\Presidio\\Genspark-trainings\\dotnet-trainings\\console-spplications\\day7\\day7TrackerAppSolution\\day10RequestTrackerTest\\UnitTest1.cs",
-              "RelativeDocumentMoniker": "day10RequestTrackerTest\\UnitTest1.cs",
-              "ToolTip": "C:\\Users\\VC\\Desktop\\Presidio\\Genspark-trainings\\dotnet-trainings\\console-spplications\\day7\\day7TrackerAppSolution\\day10RequestTrackerTest\\UnitTest1.cs",
-              "RelativeToolTip": "day10RequestTrackerTest\\UnitTest1.cs",
-              "ViewState": "AQIAAA0AAAAAAAAAAAAQwAsAAAA0AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-23T04:46:16.818Z"
+              "WhenOpened": "2024-04-23T05:12:50.486Z",
+              "EditorCaption": ""
             }
           ]
         }
