@@ -4,6 +4,7 @@ using day24WebApp.models;
 using day24WebApp.repositories;
 using day24WebApp.services;
 using Microsoft.AspNetCore.Authentication.JwtBearer;
+using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.IdentityModel.Tokens;
 using Microsoft.OpenApi.Models;
@@ -48,6 +49,11 @@ namespace day24WebApp
                 }
             });
             });
+
+
+            //builder.Services.AddDefaultIdentity<IdentityUser>().AddRoles<IdentityRole>();
+            
+            
             //Debug.WriteLine(builder.Configuration["TokenKey:JWT"]);
             builder.Services.AddAuthentication(JwtBearerDefaults.AuthenticationScheme)
                 .AddJwtBearer(options =>
@@ -73,9 +79,12 @@ namespace day24WebApp
 
             
             builder.Services.AddScoped<IRepository<int, User>, UserRepository>();
+            builder.Services.AddScoped<IRepository<int, Request>, RequestRepository>();
 
             builder.Services.AddScoped<IUserService, UserService>();
+            builder.Services.AddScoped<IUserActivationService, EmployeeActivationService>();
             builder.Services.AddScoped<ITokenService, TokenService>();
+            builder.Services.AddScoped<IRequestService, RequestService>();
 
 
             var app = builder.Build();
@@ -87,6 +96,7 @@ namespace day24WebApp
                 app.UseSwaggerUI();
             }
 
+            
             app.UseAuthentication();
             app.UseAuthorization();
 

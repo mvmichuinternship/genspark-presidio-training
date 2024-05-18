@@ -17,7 +17,7 @@ namespace day24WebApp.controllers
         {
             _employeeService = employeeService;
         }
-        [Authorize]
+        [Authorize(Roles = "Admin")]
         [HttpGet]
         public async Task<IList<Employee>> Get()
         {

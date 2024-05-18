@@ -7,9 +7,9 @@ namespace day24WebApp.services
     {
         private readonly IRepository<int, Employee> _repository;
 
-        public EmployeeBasicService(IRepository<int, Employee> reposiroty)
+        public EmployeeBasicService(IRepository<int, Employee> repository)
         {
-            _repository = reposiroty;
+            _repository = repository;
         }
         public async Task<Employee> GetEmployeeByPhone(string phoneNumber)
         {
