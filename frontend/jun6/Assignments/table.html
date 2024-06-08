@@ -1,0 +1,508 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="./dist/output.css" />
+    <script
+      src="https://kit.fontawesome.com/3585ef08d1.js"
+      crossorigin="anonymous"
+    ></script>
+
+    <title>Table Page</title>
+  </head>
+  <body>
+    <div class="flex justify-center items-center w-screen h-screen">
+      <div
+        class="flex flex-col justify-between items-center w-[80%] h-[80%] rounded-lg shadow-lg border"
+      >
+        <div
+          class="h-fit bg-slate-50 w-full flex flex-col justify-end py-3 text-black"
+        >
+          <div class="flex justify-between items-center">
+            <div class="px-4 py-2 gap-x-4 flex w-[50%] justify-start">
+              <button
+                class="px-2 py-1 bg-white border border-neutral-200 rounded-md shadow-sm"
+              >
+                <i class="fa-solid fa-filter"></i>
+              </button>
+              <span class="flex"
+                ><i
+                  class="absolute self-center px-2 fa-solid fa-magnifying-glass"
+                ></i
+                ><input
+                  type="text"
+                  name="search"
+                  id="search"
+                  placeholder="Search..."
+                  class="px-8 border border-neutral-200 rounded-md"
+              /></span>
+            </div>
+            <div class="flex">
+              <i
+                class="absolute -py-4 px-6 text-white text-lg self-center fa-plus"
+              ></i
+              ><button
+                class="px-6 py-1 bg-blue-600 text-white mx-4 rounded-md self-end"
+              >
+                Add Customer
+              </button>
+            </div>
+          </div>
+          <div class="grid grid-cols-8 pl-4 text-xs">
+            <div class="flex gap-x-6">
+              <span>
+                <input
+                  class="size-4 cursor-pointer"
+                  type="checkbox"
+                  name="general"
+                  id="general"
+                />
+              </span>
+              <span> # </span>
+            </div>
+            <div>NAME</div>
+            <div class="col-span-2">DESCRIPTION</div>
+            <div class="flex flex-col items-end pr-10">STATUS</div>
+            <div class="flex flex-col items-end pr-10">RATE</div>
+            <div class="flex flex-col items-end pr-10">BALANCE</div>
+            <div class="flex flex-col items-end pr-10">DEPOSIT</div>
+          </div>
+        </div>
+        <div class="h-[75%] overflow-y-auto w-full">
+          <div class="w-full grid grid-rows-* gap-y-6">
+            <div class="grid grid-cols-8 pl-4 py-2 hover:bg-slate-50">
+              <div class="flex gap-x-6">
+                <span>
+                  <input
+                    class="size-4 cursor-pointer"
+                    type="checkbox"
+                    name="general"
+                    id="general"
+                  />
+                </span>
+                <span> 1 </span>
+              </div>
+              <div class="flex flex-col items-start text-sm">
+                <span class="text-sm pb-1 font-bold"> Ann Culhane </span>
+                <span class="text-xs text-neutral-500"> 5684236526 </span>
+              </div>
+              <div class="col-span-2">
+                <p class="text-overflow text-sm line-clamp-2">
+                  Lorem Ipsum is simply dummy text of the printing and
+                  typesetting industry. Lorem Ipsum has been the industry's
+                  standard dummy text ever since the 1500s, when an unknown
+                  printer took a galley of type and scrambled it to make a type
+                  specimen book.
+                </p>
+              </div>
+              <div class="flex flex-col items-end">
+                <div
+                  class="px-3 py-0.5 w-fit rounded-full bg-neutral-100 text-sm self-center text-blue-700"
+                >
+                  Open
+                </div>
+              </div>
+              <div class="flex flex-col text-sm items-end pr-10">
+                <span class="text-sm pb-1"> $70 </span>
+                <span class="text-xs text-neutral-500"> CAD </span>
+              </div>
+              <div class="flex flex-col text-sm items-end pr-10">
+                <span class="text-sm pb-1 text-red-500"> - $270 </span>
+                <span class="text-xs text-neutral-500"> CAD </span>
+              </div>
+              <div class="flex flex-col text-sm items-end pr-10">
+                <span class="text-sm pb-1"> $500 </span>
+                <span class="text-xs text-neutral-500"> CAD </span>
+              </div>
+            </div>
+            <div class="grid grid-cols-8 pl-4 py-2 hover:bg-slate-50">
+              <div class="flex gap-x-6">
+                <span>
+                  <input
+                    class="size-4 cursor-pointer"
+                    type="checkbox"
+                    name="general"
+                    id="general"
+                  />
+                </span>
+                <span> 2 </span>
+              </div>
+              <div class="flex flex-col items-start text-sm">
+                <span class="text-sm pb-1 font-bold"> Ann Culhane </span>
+                <span class="text-xs text-neutral-500"> 5684236526 </span>
+              </div>
+              <div class="col-span-2">
+                <p class="text-overflow text-sm line-clamp-2">
+                  Lorem Ipsum is simply dummy text of the printing and
+                  typesetting industry. Lorem Ipsum has been the industry's
+                  standard dummy text ever since the 1500s, when an unknown
+                  printer took a galley of type and scrambled it to make a type
+                  specimen book.
+                </p>
+              </div>
+              <div class="flex flex-col items-end">
+                <div
+                  class="px-3 py-0.5 w-fit rounded-full bg-neutral-100 text-sm self-center text-blue-700"
+                >
+                  Open
+                </div>
+              </div>
+              <div class="flex flex-col text-sm items-end pr-10">
+                <span class="text-sm pb-1"> $70 </span>
+                <span class="text-xs text-neutral-500"> CAD </span>
+              </div>
+              <div class="flex flex-col text-sm items-end pr-10">
+                <span class="text-sm pb-1 text-red-500"> - $270 </span>
+                <span class="text-xs text-neutral-500"> CAD </span>
+              </div>
+              <div class="flex flex-col text-sm items-end pr-10">
+                <span class="text-sm pb-1"> $500 </span>
+                <span class="text-xs text-neutral-500"> CAD </span>
+              </div>
+            </div>
+            <div class="grid grid-cols-8 pl-4 py-2 hover:bg-slate-50">
+              <div class="flex gap-x-6">
+                <span>
+                  <input
+                    class="size-4 cursor-pointer"
+                    type="checkbox"
+                    name="general"
+                    id="general"
+                  />
+                </span>
+                <span> 3 </span>
+              </div>
+              <div class="flex flex-col items-start text-sm">
+                <span class="text-sm pb-1 font-bold"> Ann Culhane </span>
+                <span class="text-xs text-neutral-500"> 5684236526 </span>
+              </div>
+              <div class="col-span-2">
+                <p class="text-overflow text-sm line-clamp-2">
+                  Lorem Ipsum is simply dummy text of the printing and
+                  typesetting industry. Lorem Ipsum has been the industry's
+                  standard dummy text ever since the 1500s, when an unknown
+                  printer took a galley of type and scrambled it to make a type
+                  specimen book.
+                </p>
+              </div>
+              <div class="flex flex-col items-end">
+                <div
+                  class="px-3 py-0.5 w-fit rounded-full bg-neutral-100 text-sm self-center text-blue-700"
+                >
+                  Open
+                </div>
+              </div>
+              <div class="flex flex-col text-sm items-end pr-10">
+                <span class="text-sm pb-1"> $70 </span>
+                <span class="text-xs text-neutral-500"> CAD </span>
+              </div>
+              <div class="flex flex-col text-sm items-end pr-10">
+                <span class="text-sm pb-1 text-red-500"> - $270 </span>
+                <span class="text-xs text-neutral-500"> CAD </span>
+              </div>
+              <div class="flex flex-col text-sm items-end pr-10">
+                <span class="text-sm pb-1"> $500 </span>
+                <span class="text-xs text-neutral-500"> CAD </span>
+              </div>
+            </div>
+            <div class="grid grid-cols-8 pl-4 py-2 hover:bg-slate-50">
+              <div class="flex gap-x-6">
+                <span>
+                  <input
+                    class="size-4 cursor-pointer"
+                    type="checkbox"
+                    name="general"
+                    id="general"
+                  />
+                </span>
+                <span> 4 </span>
+              </div>
+              <div class="flex flex-col items-start text-sm">
+                <span class="text-sm pb-1 font-bold"> Ann Culhane </span>
+                <span class="text-xs text-neutral-500"> 5684236526 </span>
+              </div>
+              <div class="col-span-2">
+                <p class="text-overflow text-sm line-clamp-2">
+                  Lorem Ipsum is simply dummy text of the printing and
+                  typesetting industry. Lorem Ipsum has been the industry's
+                  standard dummy text ever since the 1500s, when an unknown
+                  printer took a galley of type and scrambled it to make a type
+                  specimen book.
+                </p>
+              </div>
+              <div class="flex flex-col items-end">
+                <div
+                  class="px-3 py-0.5 w-fit rounded-full bg-neutral-100 text-sm self-center text-blue-700"
+                >
+                  Open
+                </div>
+              </div>
+              <div class="flex flex-col text-sm items-end pr-10">
+                <span class="text-sm pb-1"> $70 </span>
+                <span class="text-xs text-neutral-500"> CAD </span>
+              </div>
+              <div class="flex flex-col text-sm items-end pr-10">
+                <span class="text-sm pb-1 text-red-500"> - $270 </span>
+                <span class="text-xs text-neutral-500"> CAD </span>
+              </div>
+              <div class="flex flex-col text-sm items-end pr-10">
+                <span class="text-sm pb-1"> $500 </span>
+                <span class="text-xs text-neutral-500"> CAD </span>
+              </div>
+            </div>
+            <div class="grid grid-cols-8 pl-4 py-2 hover:bg-slate-50">
+              <div class="flex gap-x-6">
+                <span>
+                  <input
+                    class="size-4 cursor-pointer"
+                    type="checkbox"
+                    name="general"
+                    id="general"
+                  />
+                </span>
+                <span> 5 </span>
+              </div>
+              <div class="flex flex-col items-start text-sm">
+                <span class="text-sm pb-1 font-bold"> Ann Culhane </span>
+                <span class="text-xs text-neutral-500"> 5684236526 </span>
+              </div>
+              <div class="col-span-2">
+                <p class="text-overflow text-sm line-clamp-2">
+                  Lorem Ipsum is simply dummy text of the printing and
+                  typesetting industry. Lorem Ipsum has been the industry's
+                  standard dummy text ever since the 1500s, when an unknown
+                  printer took a galley of type and scrambled it to make a type
+                  specimen book.
+                </p>
+              </div>
+              <div class="flex flex-col items-end">
+                <div
+                  class="px-3 py-0.5 w-fit rounded-full bg-neutral-100 text-sm self-center text-blue-700"
+                >
+                  Open
+                </div>
+              </div>
+              <div class="flex flex-col text-sm items-end pr-10">
+                <span class="text-sm pb-1"> $70 </span>
+                <span class="text-xs text-neutral-500"> CAD </span>
+              </div>
+              <div class="flex flex-col text-sm items-end pr-10">
+                <span class="text-sm pb-1 text-red-500"> - $270 </span>
+                <span class="text-xs text-neutral-500"> CAD </span>
+              </div>
+              <div class="flex flex-col text-sm items-end pr-10">
+                <span class="text-sm pb-1"> $500 </span>
+                <span class="text-xs text-neutral-500"> CAD </span>
+              </div>
+            </div>
+            <div class="grid grid-cols-8 pl-4 py-2 hover:bg-slate-50">
+              <div class="flex gap-x-6">
+                <span>
+                  <input
+                    class="size-4 cursor-pointer"
+                    type="checkbox"
+                    name="general"
+                    id="general"
+                  />
+                </span>
+                <span> 6 </span>
+              </div>
+              <div class="flex flex-col items-start text-sm">
+                <span class="text-sm pb-1 font-bold"> Ann Culhane </span>
+                <span class="text-xs text-neutral-500"> 5684236526 </span>
+              </div>
+              <div class="col-span-2">
+                <p class="text-overflow text-sm line-clamp-2">
+                  Lorem Ipsum is simply dummy text of the printing and
+                  typesetting industry. Lorem Ipsum has been the industry's
+                  standard dummy text ever since the 1500s, when an unknown
+                  printer took a galley of type and scrambled it to make a type
+                  specimen book.
+                </p>
+              </div>
+              <div class="flex flex-col items-end">
+                <div
+                  class="px-3 py-0.5 w-fit rounded-full bg-neutral-100 text-sm self-center text-blue-700"
+                >
+                  Open
+                </div>
+              </div>
+              <div class="flex flex-col text-sm items-end pr-10">
+                <span class="text-sm pb-1"> $70 </span>
+                <span class="text-xs text-neutral-500"> CAD </span>
+              </div>
+              <div class="flex flex-col text-sm items-end pr-10">
+                <span class="text-sm pb-1 text-red-500"> - $270 </span>
+                <span class="text-xs text-neutral-500"> CAD </span>
+              </div>
+              <div class="flex flex-col text-sm items-end pr-10">
+                <span class="text-sm pb-1"> $500 </span>
+                <span class="text-xs text-neutral-500"> CAD </span>
+              </div>
+            </div>
+            <div class="grid grid-cols-8 pl-4 py-2 hover:bg-slate-50">
+              <div class="flex gap-x-6">
+                <span>
+                  <input
+                    class="size-4 cursor-pointer"
+                    type="checkbox"
+                    name="general"
+                    id="general"
+                  />
+                </span>
+                <span> 7 </span>
+              </div>
+              <div class="flex flex-col items-start text-sm">
+                <span class="text-sm pb-1 font-bold"> Ann Culhane </span>
+                <span class="text-xs text-neutral-500"> 5684236526 </span>
+              </div>
+              <div class="col-span-2">
+                <p class="text-overflow text-sm line-clamp-2">
+                  Lorem Ipsum is simply dummy text of the printing and
+                  typesetting industry. Lorem Ipsum has been the industry's
+                  standard dummy text ever since the 1500s, when an unknown
+                  printer took a galley of type and scrambled it to make a type
+                  specimen book.
+                </p>
+              </div>
+              <div class="flex flex-col items-end">
+                <div
+                  class="px-3 py-0.5 w-fit rounded-full bg-neutral-100 text-sm self-center text-blue-700"
+                >
+                  Open
+                </div>
+              </div>
+              <div class="flex flex-col text-sm items-end pr-10">
+                <span class="text-sm pb-1"> $70 </span>
+                <span class="text-xs text-neutral-500"> CAD </span>
+              </div>
+              <div class="flex flex-col text-sm items-end pr-10">
+                <span class="text-sm pb-1 text-red-500"> - $270 </span>
+                <span class="text-xs text-neutral-500"> CAD </span>
+              </div>
+              <div class="flex flex-col text-sm items-end pr-10">
+                <span class="text-sm pb-1"> $500 </span>
+                <span class="text-xs text-neutral-500"> CAD </span>
+              </div>
+            </div>
+            <div class="grid grid-cols-8 pl-4 py-2 hover:bg-slate-50">
+              <div class="flex gap-x-6">
+                <span>
+                  <input
+                    class="size-4 cursor-pointer"
+                    type="checkbox"
+                    name="general"
+                    id="general"
+                  />
+                </span>
+                <span> 8 </span>
+              </div>
+              <div class="flex flex-col items-start text-sm">
+                <span class="text-sm pb-1 font-bold"> Ann Culhane </span>
+                <span class="text-xs text-neutral-500"> 5684236526 </span>
+              </div>
+              <div class="col-span-2">
+                <p class="text-overflow text-sm line-clamp-2">
+                  Lorem Ipsum is simply dummy text of the printing and
+                  typesetting industry. Lorem Ipsum has been the industry's
+                  standard dummy text ever since the 1500s, when an unknown
+                  printer took a galley of type and scrambled it to make a type
+                  specimen book.
+                </p>
+              </div>
+              <div class="flex flex-col items-end">
+                <div
+                  class="px-3 py-0.5 w-fit rounded-full bg-neutral-100 text-sm self-center text-blue-700"
+                >
+                  Open
+                </div>
+              </div>
+              <div class="flex flex-col text-sm items-end pr-10">
+                <span class="text-sm pb-1"> $70 </span>
+                <span class="text-xs text-neutral-500"> CAD </span>
+              </div>
+              <div class="flex flex-col text-sm items-end pr-10">
+                <span class="text-sm pb-1 text-red-500"> - $270 </span>
+                <span class="text-xs text-neutral-500"> CAD </span>
+              </div>
+              <div class="flex flex-col text-sm items-end pr-10">
+                <span class="text-sm pb-1"> $500 </span>
+                <span class="text-xs text-neutral-500"> CAD </span>
+              </div>
+            </div>
+            <div class="grid grid-cols-8 pl-4 py-2 hover:bg-slate-50">
+              <div class="flex gap-x-6">
+                <span>
+                  <input
+                    class="size-4 cursor-pointer"
+                    type="checkbox"
+                    name="general"
+                    id="general"
+                  />
+                </span>
+                <span> 9 </span>
+              </div>
+              <div class="flex flex-col items-start text-sm">
+                <span class="text-sm pb-1 font-bold"> Ann Culhane </span>
+                <span class="text-xs text-neutral-500"> 5684236526 </span>
+              </div>
+              <div class="col-span-2">
+                <p class="text-overflow text-sm line-clamp-2">
+                  Lorem Ipsum is simply dummy text of the printing and
+                  typesetting industry. Lorem Ipsum has been the industry's
+                  standard dummy text ever since the 1500s, when an unknown
+                  printer took a galley of type and scrambled it to make a type
+                  specimen book.
+                </p>
+              </div>
+              <div class="flex flex-col items-end">
+                <div
+                  class="px-3 py-0.5 w-fit rounded-full bg-neutral-100 text-sm self-center text-blue-700"
+                >
+                  Open
+                </div>
+              </div>
+              <div class="flex flex-col text-sm items-end pr-10">
+                <span class="text-sm pb-1"> $70 </span>
+                <span class="text-xs text-neutral-500"> CAD </span>
+              </div>
+              <div class="flex flex-col text-sm items-end pr-10">
+                <span class="text-sm pb-1 text-red-500"> - $270 </span>
+                <span class="text-xs text-neutral-500"> CAD </span>
+              </div>
+              <div class="flex flex-col text-sm items-end pr-10">
+                <span class="text-sm pb-1"> $500 </span>
+                <span class="text-xs text-neutral-500"> CAD </span>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="h-[10%] w-full px-4 flex justify-between items-center">
+          <div class="flex justify-between px-2 text-xs">1-10 of 10</div>
+          <div class="flex justify-between items-center text-xs px-2 gap-x-6">
+            <div>Rows per page: 10 <i class="px-1 cursor-pointer fa-solid fa-angle-down"></i></div>
+            <div class="flex justify-between items-center gap-x-2">
+
+                <div>
+                  <button
+                    class="px-2 py-1 bg-white border border-neutral-200 rounded-md shadow-sm"
+                  >
+                    <
+                  </button>
+                </div>
+                <div>10</div>
+                <div>
+                    <button
+                      class="px-2 py-1 bg-white border border-neutral-200 rounded-md shadow-sm"
+                    >
+                      >
+                    </button>
+                  </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>
