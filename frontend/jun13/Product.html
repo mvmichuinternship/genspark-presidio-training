@@ -1,0 +1,63 @@
+<!doctype html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link href="dist/output.css" rel="stylesheet">
+</head>
+<body class="flex items-center justify-center h-screen">
+    <div class=" m-4 max-w-xl mx-auto">
+        <h1 class="text-2xl font-bold mb-4">Product Table</h1>
+        <form id="productForm" class="mb-6">
+            <div class="mb-4">
+                <label for="name" class="block text-sm font-medium text-gray-700">Product Name</label>
+                <input type="text" required id="name" name="name" class="mt-1 p-2 w-full border border-gray-300 rounded-md focus:outline-none focus:ring-indigo-500 focus:border-indigo-500">
+            </div>
+            <div class="mb-4">
+                <label for="price" class="block text-sm font-medium text-gray-700">Price</label>
+                <input type="number" required id="price" name="price" class="mt-1 p-2 w-full border border-gray-300 rounded-md focus:outline-none focus:ring-indigo-500 focus:border-indigo-500">
+            </div>
+            <div class="mb-4">
+                <label for="quantity" class="block text-sm font-medium text-gray-700">Quantity in stock</label>
+                <input type="number" required id="quantity" name="quantity" class="mt-1 p-2 w-full border border-gray-300 rounded-md focus:outline-none focus:ring-indigo-500 focus:border-indigo-500">
+            </div>
+            <button type="submit" class="px-4 py-2 bg-indigo-600 text-white rounded-md hover:bg-indigo-700">Add Product</button>
+        </form>
+
+        <table class="w-full border-collapse border border-gray-300 rounded-md">
+            <thead>
+                <tr>
+                    <th class="px-4 py-2 bg-gray-200 text-left">Product Name</th>
+                    <th class="px-4 py-2 bg-gray-200 text-left">Price</th>
+                    <th class="px-4 py-2 bg-gray-200 text-left">Quantity</th>
+                </tr>
+            </thead>
+            <tbody id="productTableBody">
+            </tbody>
+        </table>
+    </div>
+
+    <script>
+        document.getElementById('productForm').addEventListener('submit', function(event) {
+            event.preventDefault();
+
+            const name = document.getElementById('name').value;
+            const price = document.getElementById('price').value;
+            const qty = document.getElementById('quantity').value;
+
+            const newRow = document.createElement('tr');
+            newRow.innerHTML = `
+                <td class="border px-4 py-2">${name}</td>
+                <td class="border px-4 py-2">${price}</td>
+                <td class="border px-4 py-2">${qty}</td>
+            `;
+
+            document.getElementById('productTableBody').appendChild(newRow);
+
+            document.getElementById('name').value = '';
+            document.getElementById('price').value = '';
+            document.getElementById('quantity').value = '';
+        });
+    </script>
+</body>
+</html>
