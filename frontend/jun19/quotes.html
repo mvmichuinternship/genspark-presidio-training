@@ -1,0 +1,284 @@
+<!DOCTYPE html>
+<html lang="en">
+ 
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link
+      rel="stylesheet"
+      href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css"
+    />
+    <link
+      rel="shortcut icon"
+      href="https://cdn-icons-png.flaticon.com/512/10276/10276414.png"
+      type="image/x-icon"
+    />
+    <title>Document</title>
+
+    <!-- <script>
+        var quotes
+        var loadPage = ()=>{
+    fetch('https://dummyjson.com/quotes', {
+        method: 'GET',
+    })
+.then(async(res) => {
+    var quoteCard = document.getElementById("quote-card");
+     quotes= await res.json()
+    var cardsHTML = quotes.quotes.map(quote => {
+        return `
+        <div class="card">
+  <div class="card-header">
+    Quote
+  </div>
+  <div class="card-body">
+    <blockquote class="blockquote mb-0">
+      <p>${quote.quote}</p>
+      <footer class="blockquote-footer"> <cite title="Source Title">${quote.author}</cite></footer>
+    </blockquote>
+  </div>
+</div>
+        `;
+    }).slice(start,end);
+
+    quoteCard.innerHTML = cardsHTML.join('');
+})
+.catch(error => {
+    console.error(error);
+});
+}
+
+var numberOfItems = quotes.length
+var numberPerPage = 5
+var currentPage = 1
+var numberOfPages = Math.ceil(numberOfItems/numberPerPage)
+var start=1;
+start = (currentPage-1)*numberPerPage
+var end=start+numberPerPage;
+
+
+
+function CreatePagination(){
+    var pagination = document.getElementById("pagination");
+    for(i=0;i<numberOfPages;i++){
+    var itemElement = document.createElement('li');
+    itemElement.setAttribute("id", i);
+    itemElement.textContent = i;
+    pagination.appendChild(itemElement);  
+    document.getElementById(i).addEventListener("click", displayPage);   
+}
+}
+
+function displayPage(){
+    currentPage = 
+}
+
+    </script> -->
+
+    <script>
+      var quotes;
+      var numberPerPage = 6;
+      var currentPage = 1;
+
+      var loadPage = () => {
+        fetch("https://dummyjson.com/quotes", {
+          method: "GET",
+        })
+          .then(async (res) => {
+            var quoteCard = document.getElementById("quote-card");
+            quotes = await res.json();
+            displayQuotes();
+            createPagination();
+          })
+          .catch((error) => {
+            console.error(error);
+          });
+      };
+
+      var displayQuotes = () => {
+        var quoteCard = document.getElementById("quote-card");
+        var startIndex = (currentPage - 1) * numberPerPage;
+        var endIndex = startIndex + numberPerPage;
+        var quotesToDisplay = quotes.quotes.slice(startIndex, endIndex);
+
+        var cardsHTML = quotesToDisplay.map((quote) => {
+          return `
+                <div class="card ">
+                    <div class="card-header">
+                        Quote
+                    </div>
+                    <div class="card-body">
+                        <blockquote class="blockquote mb-0">
+                            <p>${quote.quote}</p>
+                            <footer class="blockquote-footer">${quote.author}</footer>
+                        </blockquote>
+                    </div>
+                </div>
+                `;
+        });
+
+        quoteCard.innerHTML = cardsHTML.join("");
+      };
+
+      var createPagination = () => {
+        var pagination = document.getElementById("pagination");
+        var numberOfPages = Math.ceil(quotes.quotes.length / numberPerPage);
+
+        pagination.innerHTML = "";
+
+        for (let i = 1; i <= numberOfPages; i++) {
+          var itemElement = document.createElement("li");
+          itemElement.classList.add("page-item");
+          itemElement.innerHTML = `<a class="page-link" href="#" onclick="changePage(${i})">${i}</a>`;
+          pagination.appendChild(itemElement);
+        }
+      };
+
+      var changePage = (page) => {
+        currentPage = page;
+
+        displayQuotes();
+      };
+
+      function setPrev() {
+        if (currentPage != 1) currentPage--;
+        displayQuotes();
+      }
+      function setNext() {
+        if (currentPage != numberOfPages) currentPage++;
+        displayQuotes();
+      }
+      window.onload = loadPage;
+
+      function Search() {
+        var searchText = document
+          .getElementById("searchtxt")
+          .value.toLowerCase();
+        var filteredQuotes = quotes.quotes.filter((quote) => {
+          return (
+            quote.author.toLowerCase().includes(searchText) ||
+            quote.quote.toLowerCase().includes(searchText)
+          );
+        });
+
+        
+
+        quotes.quotes = filteredQuotes;
+        numberOfPages = Math.ceil(filteredQuotes.length / numberPerPage);
+        currentPage = 1;
+        displayQuotes();
+        createPagination();
+      }
+      function Sorting(){
+            var sorted = quotes.quotes.sort((a, b) => {return (a.author.localeCompare(b.author) || a.quote.localeCompare(b.quote))});
+
+            quotes.quotes = sorted;
+        numberOfPages = Math.ceil(sorted.length / numberPerPage);
+        currentPage = 1;
+        displayQuotes();
+        createPagination();
+        }
+    </script>
+  </head>
+
+
+  
+  <body onload="loadPage()" >
+    <!-- Nav Section -->
+    <nav class="navbar navbar-expand-lg bg-body-tertiary">
+      <div class="container-fluid">
+        <a class="navbar-brand" href="#">Navbar</a>
+        <button
+          class="navbar-toggler"
+          type="button"
+          data-bs-toggle="collapse"
+          data-bs-target="#navbarNavAltMarkup"
+          aria-controls="navbarNavAltMarkup"
+          aria-expanded="false"
+          aria-label="Toggle navigation"
+        >
+          <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
+          <div class="navbar-nav">
+            <a class="nav-link active" aria-current="page" href="#">Home</a>
+            <a class="nav-link active" href="/quotes.html">Quotes</a>
+          </div>
+        </div>
+      </div>
+    </nav>
+
+    <!-- Card display -->
+    <div
+      style="
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        padding-top: 20px;
+        width: 90%;
+      ">
+      <div style="display: flex; justify-content: center; align-items: center">
+        <input
+          type="text"
+          placeholder="Search"
+          id="searchtxt"
+          style="
+            border: 1px solid #402e7a;
+            border-radius: 5px 0 0 5px;
+            outline: none;
+          "
+        />
+        <button
+          onclick="Search()"
+          style="
+            border: none;
+            border-radius: 0 5px 5px 0;
+            padding: 2px 12px;
+            color: white;
+            background-color: #402e7a;
+          "
+        >
+          Search
+        </button>
+      </div>
+    </div>
+    <div style="width: 100%; display: flex; flex-direction: column; justify-content: center; align-items: center;">
+
+        <div style="width: 90%; display: flex; justify-content: start; align-items: center; padding-top: 20px;">
+            <button onclick="Sorting()" style="border: none;
+            border-radius: 5px;
+            padding: 2px 12px;
+            color: white;
+            background-color: #402e7a;"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-sort-alpha-down" viewBox="0 0 16 16">
+      <path fill-rule="evenodd" d="M10.082 5.629 9.664 7H8.598l1.789-5.332h1.234L13.402 7h-1.12l-.419-1.371zm1.57-.785L11 2.687h-.047l-.652 2.157z"/>
+      <path d="M12.96 14H9.028v-.691l2.579-3.72v-.054H9.098v-.867h3.785v.691l-2.567 3.72v.054h2.645zM4.5 2.5a.5.5 0 0 0-1 0v9.793l-1.146-1.147a.5.5 0 0 0-.708.708l2 1.999.007.007a.497.497 0 0 0 .7-.006l2-2a.5.5 0 0 0-.707-.708L4.5 12.293z"/>
+    </svg></button>
+        </div>
+        <div
+        style="display: grid; grid-template-columns: repeat(auto-fit,minmax(32%, 1fr)); margin: 10px 0; width: 90%; row-gap: 10px ;column-gap: 10px;"
+          id="quote-card"
+          class=" "
+        ></div>
+    </div>
+
+    <!-- Pagination -->
+    <div
+      style="
+        width: 100%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+      "
+    >
+      <nav aria-label="Page navigation example">
+        <ul class="pagination">
+          <!-- <li class="page-item"><a class="page-link" href="" onclick="setPrev()">Previous</a></li> -->
+          <div id="pagination" style="display: flex"></div>
+          <!-- <li class="page-item" id="page"><a class="page-link" href="#">1</a></li>
+               <li class="page-item"><a class="page-link" href="#">2</a></li>
+               <li class="page-item"><a class="page-link" href="#">3</a></li> -->
+          <!-- <li class="page-item"><a class="page-link" href="" onclick="setNext()">Next</a></li> -->
+        </ul>
+      </nav>
+    </div>
+  </body>
+</html>
