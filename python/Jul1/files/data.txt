@@ -1,0 +1,18 @@
+Name: mv
+DOB: 2002-12-13
+Age: 22
+Email: mv@gmail.com
+Phone: 1234512345
+--------------------
+Name: vk
+DOB: 2002-09-27
+Age: 22
+Email: vk@gmail.com
+Phone: 1234567890
+--------------------
+Name: mk
+DOB: 2002-12-25
+Age: 22
+Email: mk@gmail.com
+Phone: 1234509876
+--------------------

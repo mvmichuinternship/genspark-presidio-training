@@ -1,0 +1,18 @@
+Name: Alice
+DOB: 1990-01-15
+Age: 32
+Email: alice@example.com
+Phone: 123-456-7890
+--------------------
+Name: Bob
+DOB: 1985-05-20
+Age: 37
+Email: bob@example.com
+Phone: 987-654-3210
+--------------------
+Name: Charlie
+DOB: 1980-11-10
+Age: 42
+Email: charlie@example.com
+Phone: 555-555-5555
+--------------------
