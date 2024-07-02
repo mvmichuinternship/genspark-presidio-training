@@ -1,0 +1,155 @@
+1.
+def merge_the_tools(string, k):
+    # string = "aaabbbccc"
+    string2=[]
+    k
+    n=len(string)
+    # print(string[k:-1])
+    def repeat(string):
+        p=""
+        for char in string:
+            if char not in p:
+                p = p+char
+        return p
+    for i in range(0,(n//k)+1):
+        string1=string[0:k]
+        string2.append(repeat(string1)) 
+        string=string[k:]
+        
+    for i in string2:
+        print(i)
+
+if __name__ == '__main__':
+    string, k = input(), int(input())
+    merge_the_tools(string, k)
+
+
+2.
+
+if __name__ == '__main__':
+    n = int(input().strip())
+
+if n%2!=0:
+    print('Weird')
+if n%2==0 and n in range(2,6):
+    print('Not Weird')
+if n%2==0 and n in range(6,21):
+    print('Weird')
+if n%2==0 and n>20:
+    print('Not Weird')
+
+
+
+
+3.
+if __name__ == '__main__':
+    a = int(input())
+    b = int(input())
+    
+    print(a+b)
+    print(a-b)
+    print(a*b)
+
+
+
+4.
+if __name__ == '__main__':
+    a = int(input())
+    b = int(input())
+    print(a//b)
+    print(a/b)
+
+
+5.
+if __name__ == '__main__':
+    n = int(input())
+    for i in range(0,n):
+        print(i*i)
+
+
+6.
+def is_leap(year):
+    leap = False
+    
+    if(year%4==0 ):
+        if(year%100==0):
+            if(year%400==0):
+                leap=True
+            else:
+                leap=False
+        else:
+            leap=True
+    else:
+        leap=False    
+
+    return leap
+
+year = int(input())
+print(is_leap(year))
+
+
+7.
+if __name__ == '__main__':
+    n = int(input())
+    
+    for i in range(1,n+1):
+        print(i, end='')
+
+
+8.
+if __name__ == '__main__':
+    x = int(input())
+    y = int(input())
+    z = int(input())
+    n = int(input())
+    
+    sum_list = [[i, j, k] for i in range(x+1) for j in range(y+1) for k in range(z+1) if (i + j + k) != n]
+
+print(sum_list)
+
+
+9.
+# Enter your code here. Read input from STDIN. Print output to STDOUT
+
+from collections import Counter
+
+X = int(input())
+shoes=list(map(int,input().split()))
+N = int(input())
+
+shoeCollection= Counter(shoes)
+total=0
+
+for i in range(1,N+1):
+    size,price = map(int,input().split())
+    if size in shoeCollection:
+        total+=price
+        shoeCollection[size]-=1
+        if shoeCollection[size]==0:
+            del shoeCollection[size]
+    
+print(total)
+
+
+10.
+#!/bin/python3
+
+import math
+import os
+import random
+import re
+import sys
+from collections import Counter
+
+
+if __name__ == '__main__':
+    s = input()
+    
+repeat = Counter(s)
+sortedDigits = sorted(repeat.items(), key=lambda x: (-x[1], x[0]))
+for i in range(3):
+    char, count = sortedDigits[i]
+    print(char, count)
+
+
+
