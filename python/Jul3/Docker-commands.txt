@@ -1,0 +1,28 @@
+docker -version
+
+docker pull hello-world
+
+docker images
+
+docker run hello-world
+
+docker ps -a
+
+docker ps
+
+-------------------------------------------
+
+What should be done in an image:
+
+Install Node
+
+Copy application
+
+-------------------------------------------
+docker build -t firstimage .
+
+docker images
+
+docker run --name firstimage_a firstimage
+
+docker ps -a
