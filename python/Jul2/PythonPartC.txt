@@ -24,12 +24,79 @@ substr= ""
 
 
 2.
+if(numRows  < 2):
+            return s
+        arr = ['']*numRows
+        dir = 0
+        row = 0
+        for i in s:
+            arr[row] += i
+            if row == numRows-1:
+                dir = 1
+            elif row == 0:
+                dir = 0
+            if(dir == 0):
+                row += 1
+            else:
+                row -= 1
+        return(''.join(arr))
 
 
 
 
 3.
+  total=0
+        mini=[]
+        
+        # l=nums[0]
+        # r=nums[len(nums)-1]
+        for i in range(1,len(nums)-1):
+            l=nums[i-1]
+            for j in range(i+1,len(nums)):
+                if(i!=j):
+                    # print(l)
+                    m=nums[i]
+                    # print(m)
+                    r=nums[j]
+                    # print(r)
+                    total=l+r+m
+                    # print(total)
+                    mini.append(total)
+        print(mini)
+        res= mini[0]    
+        for i in mini:
+            if target==i:
+                res=i
+                break
+            elif abs(target-i) <abs(target-res):
+                res=i
+            elif target-i <target-res:
+                res=i
+            # print(res)
+        return res
 
+
+
+5.
+ints = {'0':0, '1':1, '2':2, '3':3, '4':4, '5':5, '6':6, '7':7, '8':8, '9':9}
+        intToStr = ['0', '1', '2', '3', '4', '5', '6', '7', '8', '9']
+
+        result = [0]*(len(num1) + len(num2))
+        string = ''
+
+        for i in range(-1, -1*len(num1)-1, -1):
+            for j in range(-1, -1*len(num2)-1, -1):            
+
+                result[i+j+1] += ints[num1[i]]*ints[num2[j]]
+                result[i+j] += result[i+j+1] // 10
+                result[i+j+1] %= 10
+
+        for j in result:
+            string += intToStr[j]
+            
+        string = string.lstrip('0')
+
+        return '0' if (string == '') else string
 
 
 6.
@@ -46,6 +113,31 @@ class Solution:
             dict1[sortedstr].append(s)
         res=list(dict1.values())
         return res
+
+
+
+7.
+ints = {'0':0, '1':1, '2':2, '3':3, '4':4, '5':5, '6':6, '7':7, '8':8, '9':9}
+        intToStr = ['0', '1', '2', '3', '4', '5', '6', '7', '8', '9']
+
+        result = [0]*(len(num1) + len(num2))
+        string = ''
+
+        for i in range(-1, -1*len(num1)-1, -1):
+            for j in range(-1, -1*len(num2)-1, -1):            
+
+                result[i+j+1] += ints[num1[i]]*ints[num2[j]]
+                result[i+j] += result[i+j+1] // 10
+                result[i+j+1] %= 10
+
+        for j in result:
+            string += intToStr[j]
+            
+        string = string.lstrip('0')
+
+        return '0' if (string == '') else string
+
+
 
 8.
 class Solution:
