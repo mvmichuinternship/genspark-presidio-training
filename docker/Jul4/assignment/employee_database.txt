@@ -1,0 +1,74 @@
+
+----- pull postgres image -----
+
+docker pull postgres
+
+----- create instance -----
+
+docker run --name postgresdb_1 -e POSTGRES_PASSWORD=dockerpostgres -d postgres
+
+----- start instance psql prompt -----
+
+docker exec -it postgresdb_1 psql -U postgres
+
+---------- POSTGRES SQL QUERIES AND DB CONNECTION ----------
+
+-------- Create db ---------
+
+CREATE DATABASE employeedb;
+
+----- Connect db -----
+
+\c employeedb 			(connect to db)
+
+----- Create tables -----
+
+CREATE TABLE DEPARTMENT( dId SERIAL PRIMARY KEY, dName VARCHAR(60) NOT NULL);
+
+CREATE TABLE EMPLOYEE(eId SERIAL PRIMARY KEY, eName VARCHAR(100) NOT NULL, age INTEGER, phone VARCHAR(20), d_e_Id INTEGER REFERENCES DEPARTMENT(dId));
+
+CREATE TABLE SALARY(sId SERIAL PRIMARY KEY, eId INTEGER REFERENCES EMPLOYEE(eId), sal DECIMAL(10,
+2) NOT NULL);
+
+----- Insert values into tables -----
+
+INSERT INTO DEPARTMENT(dName) VALUES ('IT'),('CS'),('BIO');
+
+INSERT INTO Employee (eName, age, phone, d_e_Id) VALUES
+    ('MV', 22, '09087654321', 1),
+    ('VK', 21, '1234512345', 2),
+    ('MK', 21, '1234567890', 3);
+
+INSERT INTO Salary (eId, sal) VALUES
+    (1, 50000.00),
+    (2, 60000.00),
+    (3, 75000.00);
+
+----- quit psql prompt -----
+
+\q				(quit psql)
+
+----- stop instance -----
+
+docker stop postgresdb_1
+
+----- restart instance -----
+
+docker start postgresdb_1
+
+----- start psql prompt -----
+
+docker exec -it postgresdb_1 psql -U postgres
+
+----- Connect db -----
+
+\c employeedb
+
+----- Select queries -----
+
+SELECT e.eName, e.age, e.phone, d.dName, s.sal
+FROM Employee e
+INNER JOIN Department d ON e.d_e_Id = d.dId
+INNER JOIN Salary s ON e.eId = s.eId;
+
+------------------------------------------------------

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\VC\\Desktop\\Presidio\\Genspark-trainings\\docker\\Jul4\\webAppDocker1Sln\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{25ACDFF1-0807-423C-B53E-4688F46FD6D9}|webAppDocker1\\webAppDocker1.csproj|c:\\users\\vc\\desktop\\presidio\\genspark-trainings\\docker\\jul4\\webappdocker1sln\\webappdocker1\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{25ACDFF1-0807-423C-B53E-4688F46FD6D9}|webAppDocker1\\webAppDocker1.csproj|solutionrelative:webappdocker1\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\VC\\Desktop\\Presidio\\Genspark-trainings\\docker\\Jul4\\webAppDocker1Sln\\webAppDocker1\\Dockerfile",
+              "RelativeDocumentMoniker": "webAppDocker1\\Dockerfile",
+              "ToolTip": "C:\\Users\\VC\\Desktop\\Presidio\\Genspark-trainings\\docker\\Jul4\\webAppDocker1Sln\\webAppDocker1\\Dockerfile",
+              "RelativeToolTip": "webAppDocker1\\Dockerfile",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-07-04T05:37:17.749Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

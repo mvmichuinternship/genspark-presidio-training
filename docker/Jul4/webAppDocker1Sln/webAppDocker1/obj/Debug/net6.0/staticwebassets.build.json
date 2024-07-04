@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "zue/DggU2m50O2J9eFzOLFDPMP8lHwKmDejuLc+BGXU=",
+  "Source": "webAppDocker1",
+  "BasePath": "_content/webAppDocker1",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

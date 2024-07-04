@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\webAppDocker1.props" />
+</Project>

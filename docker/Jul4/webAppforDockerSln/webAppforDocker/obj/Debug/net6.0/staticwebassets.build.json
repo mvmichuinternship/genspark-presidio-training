@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "rm0lMIzVS22dFfa5YvyyerME0U8kGQEOTvTgBbp2ykk=",
+  "Source": "webAppforDocker",
+  "BasePath": "_content/webAppforDocker",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
