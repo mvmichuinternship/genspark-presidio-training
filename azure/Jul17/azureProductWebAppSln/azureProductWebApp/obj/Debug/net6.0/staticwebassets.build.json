@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "YYL5OzorlbeMek5FdAIc4wwuUwHu5tsoCN0TaVZKm6E=",
+  "Source": "azureProductWebApp",
+  "BasePath": "_content/azureProductWebApp",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

@@ -1,0 +1,3 @@
+Server=mv-web-app.eastus.cloudapp.azure.com,1430;Integrated Security=false;User ID=mvvm;Password=Mridula@vm67"
+
+Data Source='mv-web-app.eastus.cloudapp.azure.com,1430';Integrated Security=false;User ID=mvvm;Password=Mridula@vm67";Initial Catalog=azureProductApp

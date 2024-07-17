@@ -1,0 +1,207 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\VC\\Desktop\\Presidio\\Genspark-trainings\\azure\\Jul17\\azureProductWebAppSln\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{29748C1E-133C-4AB2-A636-665E4B73F334}|azureProductWebApp\\azureProductWebApp.csproj|c:\\users\\vc\\desktop\\presidio\\genspark-trainings\\azure\\jul17\\azureproductwebappsln\\azureproductwebapp\\models\\dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29748C1E-133C-4AB2-A636-665E4B73F334}|azureProductWebApp\\azureProductWebApp.csproj|solutionrelative:azureproductwebapp\\models\\dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29748C1E-133C-4AB2-A636-665E4B73F334}|azureProductWebApp\\azureProductWebApp.csproj|c:\\users\\vc\\desktop\\presidio\\genspark-trainings\\azure\\jul17\\azureproductwebappsln\\azureproductwebapp\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29748C1E-133C-4AB2-A636-665E4B73F334}|azureProductWebApp\\azureProductWebApp.csproj|solutionrelative:azureproductwebapp\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29748C1E-133C-4AB2-A636-665E4B73F334}|azureProductWebApp\\azureProductWebApp.csproj|c:\\users\\vc\\desktop\\presidio\\genspark-trainings\\azure\\jul17\\azureproductwebappsln\\azureproductwebapp\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29748C1E-133C-4AB2-A636-665E4B73F334}|azureProductWebApp\\azureProductWebApp.csproj|solutionrelative:azureproductwebapp\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29748C1E-133C-4AB2-A636-665E4B73F334}|azureProductWebApp\\azureProductWebApp.csproj|c:\\users\\vc\\desktop\\presidio\\genspark-trainings\\azure\\jul17\\azureproductwebappsln\\azureproductwebapp\\interfaces\\iblobservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29748C1E-133C-4AB2-A636-665E4B73F334}|azureProductWebApp\\azureProductWebApp.csproj|solutionrelative:azureproductwebapp\\interfaces\\iblobservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29748C1E-133C-4AB2-A636-665E4B73F334}|azureProductWebApp\\azureProductWebApp.csproj|c:\\users\\vc\\desktop\\presidio\\genspark-trainings\\azure\\jul17\\azureproductwebappsln\\azureproductwebapp\\services\\blobstorageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29748C1E-133C-4AB2-A636-665E4B73F334}|azureProductWebApp\\azureProductWebApp.csproj|solutionrelative:azureproductwebapp\\services\\blobstorageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29748C1E-133C-4AB2-A636-665E4B73F334}|azureProductWebApp\\azureProductWebApp.csproj|c:\\users\\vc\\desktop\\presidio\\genspark-trainings\\azure\\jul17\\azureproductwebappsln\\azureproductwebapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29748C1E-133C-4AB2-A636-665E4B73F334}|azureProductWebApp\\azureProductWebApp.csproj|solutionrelative:azureproductwebapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29748C1E-133C-4AB2-A636-665E4B73F334}|azureProductWebApp\\azureProductWebApp.csproj|c:\\users\\vc\\desktop\\presidio\\genspark-trainings\\azure\\jul17\\azureproductwebappsln\\azureproductwebapp\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29748C1E-133C-4AB2-A636-665E4B73F334}|azureProductWebApp\\azureProductWebApp.csproj|solutionrelative:azureproductwebapp\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29748C1E-133C-4AB2-A636-665E4B73F334}|azureProductWebApp\\azureProductWebApp.csproj|c:\\users\\vc\\desktop\\presidio\\genspark-trainings\\azure\\jul17\\azureproductwebappsln\\azureproductwebapp\\interfaces\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29748C1E-133C-4AB2-A636-665E4B73F334}|azureProductWebApp\\azureProductWebApp.csproj|solutionrelative:azureproductwebapp\\interfaces\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29748C1E-133C-4AB2-A636-665E4B73F334}|azureProductWebApp\\azureProductWebApp.csproj|c:\\users\\vc\\desktop\\presidio\\genspark-trainings\\azure\\jul17\\azureproductwebappsln\\azureproductwebapp\\repository\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29748C1E-133C-4AB2-A636-665E4B73F334}|azureProductWebApp\\azureProductWebApp.csproj|solutionrelative:azureproductwebapp\\repository\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29748C1E-133C-4AB2-A636-665E4B73F334}|azureProductWebApp\\azureProductWebApp.csproj|c:\\users\\vc\\desktop\\presidio\\genspark-trainings\\azure\\jul17\\azureproductwebappsln\\azureproductwebapp\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29748C1E-133C-4AB2-A636-665E4B73F334}|azureProductWebApp\\azureProductWebApp.csproj|solutionrelative:azureproductwebapp\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29748C1E-133C-4AB2-A636-665E4B73F334}|azureProductWebApp\\azureProductWebApp.csproj|c:\\users\\vc\\desktop\\presidio\\genspark-trainings\\azure\\jul17\\azureproductwebappsln\\azureproductwebapp\\context\\azureappcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29748C1E-133C-4AB2-A636-665E4B73F334}|azureProductWebApp\\azureProductWebApp.csproj|solutionrelative:azureproductwebapp\\context\\azureappcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductDTO.cs",
+              "DocumentMoniker": "C:\\Users\\VC\\Desktop\\Presidio\\Genspark-trainings\\azure\\Jul17\\azureProductWebAppSln\\azureProductWebApp\\models\\DTOs\\ProductDTO.cs",
+              "RelativeDocumentMoniker": "azureProductWebApp\\models\\DTOs\\ProductDTO.cs",
+              "ToolTip": "C:\\Users\\VC\\Desktop\\Presidio\\Genspark-trainings\\azure\\Jul17\\azureProductWebAppSln\\azureProductWebApp\\models\\DTOs\\ProductDTO.cs",
+              "RelativeToolTip": "azureProductWebApp\\models\\DTOs\\ProductDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T17:45:12.93Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IBlobService.cs",
+              "DocumentMoniker": "C:\\Users\\VC\\Desktop\\Presidio\\Genspark-trainings\\azure\\Jul17\\azureProductWebAppSln\\azureProductWebApp\\interfaces\\IBlobService.cs",
+              "RelativeDocumentMoniker": "azureProductWebApp\\interfaces\\IBlobService.cs",
+              "ToolTip": "C:\\Users\\VC\\Desktop\\Presidio\\Genspark-trainings\\azure\\Jul17\\azureProductWebAppSln\\azureProductWebApp\\interfaces\\IBlobService.cs",
+              "RelativeToolTip": "azureProductWebApp\\interfaces\\IBlobService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAQAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T16:21:34.485Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BlobStorageService.cs",
+              "DocumentMoniker": "C:\\Users\\VC\\Desktop\\Presidio\\Genspark-trainings\\azure\\Jul17\\azureProductWebAppSln\\azureProductWebApp\\services\\BlobStorageService.cs",
+              "RelativeDocumentMoniker": "azureProductWebApp\\services\\BlobStorageService.cs",
+              "ToolTip": "C:\\Users\\VC\\Desktop\\Presidio\\Genspark-trainings\\azure\\Jul17\\azureProductWebAppSln\\azureProductWebApp\\services\\BlobStorageService.cs",
+              "RelativeToolTip": "azureProductWebApp\\services\\BlobStorageService.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAAABEAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T16:03:02.158Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\VC\\Desktop\\Presidio\\Genspark-trainings\\azure\\Jul17\\azureProductWebAppSln\\azureProductWebApp\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "azureProductWebApp\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\VC\\Desktop\\Presidio\\Genspark-trainings\\azure\\Jul17\\azureProductWebAppSln\\azureProductWebApp\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "azureProductWebApp\\Controllers\\ProductController.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAswBoAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T15:36:13.152Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\Users\\VC\\Desktop\\Presidio\\Genspark-trainings\\azure\\Jul17\\azureProductWebAppSln\\azureProductWebApp\\services\\ProductService.cs",
+              "RelativeDocumentMoniker": "azureProductWebApp\\services\\ProductService.cs",
+              "ToolTip": "C:\\Users\\VC\\Desktop\\Presidio\\Genspark-trainings\\azure\\Jul17\\azureProductWebAppSln\\azureProductWebApp\\services\\ProductService.cs",
+              "RelativeToolTip": "azureProductWebApp\\services\\ProductService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T15:30:08.875Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IProductService.cs",
+              "DocumentMoniker": "C:\\Users\\VC\\Desktop\\Presidio\\Genspark-trainings\\azure\\Jul17\\azureProductWebAppSln\\azureProductWebApp\\interfaces\\IProductService.cs",
+              "RelativeDocumentMoniker": "azureProductWebApp\\interfaces\\IProductService.cs",
+              "ToolTip": "C:\\Users\\VC\\Desktop\\Presidio\\Genspark-trainings\\azure\\Jul17\\azureProductWebAppSln\\azureProductWebApp\\interfaces\\IProductService.cs",
+              "RelativeToolTip": "azureProductWebApp\\interfaces\\IProductService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T15:28:18.989Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\VC\\Desktop\\Presidio\\Genspark-trainings\\azure\\Jul17\\azureProductWebAppSln\\azureProductWebApp\\interfaces\\IRepository.cs",
+              "RelativeDocumentMoniker": "azureProductWebApp\\interfaces\\IRepository.cs",
+              "ToolTip": "C:\\Users\\VC\\Desktop\\Presidio\\Genspark-trainings\\azure\\Jul17\\azureProductWebAppSln\\azureProductWebApp\\interfaces\\IRepository.cs",
+              "RelativeToolTip": "azureProductWebApp\\interfaces\\IRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T15:27:26.926Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\VC\\Desktop\\Presidio\\Genspark-trainings\\azure\\Jul17\\azureProductWebAppSln\\azureProductWebApp\\repository\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "azureProductWebApp\\repository\\ProductRepository.cs",
+              "ToolTip": "C:\\Users\\VC\\Desktop\\Presidio\\Genspark-trainings\\azure\\Jul17\\azureProductWebAppSln\\azureProductWebApp\\repository\\ProductRepository.cs",
+              "RelativeToolTip": "azureProductWebApp\\repository\\ProductRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T15:16:00.898Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\VC\\Desktop\\Presidio\\Genspark-trainings\\azure\\Jul17\\azureProductWebAppSln\\azureProductWebApp\\Program.cs",
+              "RelativeDocumentMoniker": "azureProductWebApp\\Program.cs",
+              "ToolTip": "C:\\Users\\VC\\Desktop\\Presidio\\Genspark-trainings\\azure\\Jul17\\azureProductWebAppSln\\azureProductWebApp\\Program.cs",
+              "RelativeToolTip": "azureProductWebApp\\Program.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAAcwC8AAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T09:18:00.341Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\VC\\Desktop\\Presidio\\Genspark-trainings\\azure\\Jul17\\azureProductWebAppSln\\azureProductWebApp\\models\\Product.cs",
+              "RelativeDocumentMoniker": "azureProductWebApp\\models\\Product.cs",
+              "ToolTip": "C:\\Users\\VC\\Desktop\\Presidio\\Genspark-trainings\\azure\\Jul17\\azureProductWebAppSln\\azureProductWebApp\\models\\Product.cs",
+              "RelativeToolTip": "azureProductWebApp\\models\\Product.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T12:14:27.805Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AzureAppContext.cs",
+              "DocumentMoniker": "C:\\Users\\VC\\Desktop\\Presidio\\Genspark-trainings\\azure\\Jul17\\azureProductWebAppSln\\azureProductWebApp\\context\\AzureAppContext.cs",
+              "RelativeDocumentMoniker": "azureProductWebApp\\context\\AzureAppContext.cs",
+              "ToolTip": "C:\\Users\\VC\\Desktop\\Presidio\\Genspark-trainings\\azure\\Jul17\\azureProductWebAppSln\\azureProductWebApp\\context\\AzureAppContext.cs",
+              "RelativeToolTip": "azureProductWebApp\\context\\AzureAppContext.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAiwBcAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T12:12:28.532Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
