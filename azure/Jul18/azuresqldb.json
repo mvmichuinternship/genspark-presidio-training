@@ -1,0 +1,37 @@
+{
+    "$schema": "https://schema.management.azure.com/schemas/2019-04-01/deploymentTemplate.json#",
+    "contentVersion": "1.0.0.0",
+    "parameters": {
+        "serverName": {
+            "type": "string",
+            "defaultValue": "[uniqueString('sql', resourceGroup().id)]",
+            "metadata": {
+                "description": "The name of the SQL logical server."
+            }
+        },
+        "sqlDBName": {
+            "type": "string",
+            "defaultValue": "SampleDB",
+            "metadata": {
+                "description": "The name of the SQL Database."
+            }
+        }
+    },
+    "resources": [
+        {
+            "type": "Microsoft.Sql/servers/databases",
+            "apiVersion": "2022-05-01-preview",
+            "name": "[format('{0}/{1}', parameters('serverName'), parameters('sqlDBName'))]",
+            "location": "eastus",
+            "sku": {
+                "name": "Standard",
+                "tier": "Standard"
+            },
+            "properties": {
+                "administratorLogin": "mvvm",
+                "administratorLoginPassword": "Mridula@vm67"
+            }
+        }
+
+    ]
+}

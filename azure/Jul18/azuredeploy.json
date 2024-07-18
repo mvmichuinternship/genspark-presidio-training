@@ -1,0 +1,17 @@
+{
+    "$schema": "https://schema.management.azure.com/schemas/2019-04-01/deploymentTemplate.json#",
+    "contentVersion": "1.0.0.0",
+    "resources": [
+        {
+            "type": "Microsoft.Sql/servers",
+            "apiVersion": "2022-11-01-preview",
+            "name": "mv-sql-server-arm",
+            "location": "eastus",
+            "properties": {
+                "administratorLogin": "mvvm",
+                "administratorLoginPassword": "Mridula@vm67"
+            }
+        }
+
+    ]
+}
