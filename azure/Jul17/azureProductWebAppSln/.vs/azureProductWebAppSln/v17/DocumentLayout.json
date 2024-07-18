@@ -64,7 +64,7 @@
               "RelativeDocumentMoniker": "azureProductWebApp\\models\\DTOs\\ProductDTO.cs",
               "ToolTip": "C:\\Users\\VC\\Desktop\\Presidio\\Genspark-trainings\\azure\\Jul17\\azureProductWebAppSln\\azureProductWebApp\\models\\DTOs\\ProductDTO.cs",
               "RelativeToolTip": "azureProductWebApp\\models\\DTOs\\ProductDTO.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAbAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-17T17:45:12.93Z",
               "EditorCaption": ""
@@ -79,8 +79,7 @@
               "RelativeToolTip": "azureProductWebApp\\interfaces\\IBlobService.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAuwAQAAAAvAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-17T16:21:34.485Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-17T16:21:34.485Z"
             },
             {
               "$type": "Document",
@@ -92,8 +91,7 @@
               "RelativeToolTip": "azureProductWebApp\\services\\BlobStorageService.cs",
               "ViewState": "AQIAAA0AAAAAAAAAAAAAABEAAAA8AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-17T16:03:02.158Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-17T16:03:02.158Z"
             },
             {
               "$type": "Document",
@@ -105,8 +103,7 @@
               "RelativeToolTip": "azureProductWebApp\\Controllers\\ProductController.cs",
               "ViewState": "AQIAABgAAAAAAAAAAAAswBoAAAA/AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-17T15:36:13.152Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-17T15:36:13.152Z"
             },
             {
               "$type": "Document",
@@ -118,8 +115,7 @@
               "RelativeToolTip": "azureProductWebApp\\services\\ProductService.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-17T15:30:08.875Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-17T15:30:08.875Z"
             },
             {
               "$type": "Document",
@@ -131,8 +127,7 @@
               "RelativeToolTip": "azureProductWebApp\\interfaces\\IProductService.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAnAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-17T15:28:18.989Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-17T15:28:18.989Z"
             },
             {
               "$type": "Document",
@@ -144,8 +139,7 @@
               "RelativeToolTip": "azureProductWebApp\\interfaces\\IRepository.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-17T15:27:26.926Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-17T15:27:26.926Z"
             },
             {
               "$type": "Document",
@@ -157,8 +151,7 @@
               "RelativeToolTip": "azureProductWebApp\\repository\\ProductRepository.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAA9AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-17T15:16:00.898Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-17T15:16:00.898Z"
             },
             {
               "$type": "Document",
@@ -170,8 +163,7 @@
               "RelativeToolTip": "azureProductWebApp\\Program.cs",
               "ViewState": "AQIAACYAAAAAAAAAAAAcwC8AAAA3AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-17T09:18:00.341Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-17T09:18:00.341Z"
             },
             {
               "$type": "Document",
@@ -183,8 +175,7 @@
               "RelativeToolTip": "azureProductWebApp\\models\\Product.cs",
               "ViewState": "AQIAAAMAAAAAAAAAAAAAAAIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-17T12:14:27.805Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-17T12:14:27.805Z"
             },
             {
               "$type": "Document",
@@ -196,8 +187,7 @@
               "RelativeToolTip": "azureProductWebApp\\context\\AzureAppContext.cs",
               "ViewState": "AQIAAAsAAAAAAAAAAAAiwBcAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-17T12:12:28.532Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-17T12:12:28.532Z"
             }
           ]
         }
