@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="./output.css" rel="stylesheet">
+    <script src="./script.js"></script>
+    <title>SpellBee</title>
+</head>
+<body class="w-[100%] h-screen">
+    <div class="flex p-10 w-full h-full">
+        <div class="flex flex-col justify-around items-center w-[50%] h-full">
+            <input type="text" id="word-input" placeholder="Type or click" class="text-3xl h-fit py-1 px-2 w-[30%] self-center focus:outline-none" >
+            <div id="letters-container" class="flex flex-wrap justify-center space-x-2 mb-4">
+                <!-- <span class="bg-gray-200 p-3 rounded-lg text-lg font-semibold">D</span>
+                <span class="bg-gray-200 p-3 rounded-lg text-lg font-semibold">G</span>
+                <span class="bg-gray-200 p-3 rounded-lg text-lg font-semibold">I</span>
+                <span class="bg-gray-200 p-3 rounded-lg text-lg font-semibold">L</span>
+                <span class="bg-gray-200 p-3 rounded-lg text-lg font-semibold">N</span>
+                <span class="bg-gray-200 p-3 rounded-lg text-lg font-semibold">E</span>
+                <span class="bg-gray-200 p-3 rounded-lg text-lg font-semibold">W</span> -->
+            </div>
+            <div class="flex gap-x-5">
+                <!-- <button class="rounded-full border border-neutral-300 px-4 py-2">Delete</button> -->
+                <button id="submit-btn" class="rounded-full border border-neutral-300 px-4 py-2">Submit</button>
+            </div>
+        </div>
+        <div class="flex flex-col w-[50%] h-full justify-center items-center">
+            <div class="h-[10%] w-full" id="stepper">
+
+            </div>
+            <div class=" h-[80%] w-full">
+                <p id="feedback"  class="border border-neutral-300 p-5 text-lg rounded-md h-full w-full focus:outline:none"></p>
+
+            </div>
+        </div>
+    </div>
+</body>
+</html>
