@@ -1,0 +1,17 @@
+Account:
+# Properties
+	acc_id
+	acc_balance
+	acc_holder_name
+	acc_holder_pan_no
+	acc_holder_aad_no
+	acc_type
+# Methods
+	Deposit(amount)
+	Withdrawal(amount)
+	Transfer(to_acc_id, amount)
+
+Savings_Account:
+
+
+https://medium.com/@smagid_allThings/uml-class-diagram-example-fab6197200e6

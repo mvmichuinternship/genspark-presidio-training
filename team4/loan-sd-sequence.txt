@@ -1,0 +1,20 @@
+(1) Customer -> Loan Officer : apply Loan
+(2) Loan Officer : verify details
+(3) Loan Officer -> Customer : ask additional details
+(4) Customer -> Loan Officer : provide necessary details
+(5) Loan Officer -> Bank : request credit score
+(6) Bank -> Loan Officer : return credit score
+(7) Loan Officer : check credit score
+(8) Loan Officer -> Bank : evaluate Application
+alt:
+	(9) Bank -> Loan Officer : Approve loan
+	(10) Loan Officer -> Customer : Confirm approval
+	(11) Loan Officer -> Bank : request disbursal
+	(12) Bank -> Loan Officer : disburse loan
+	(13) Loan Officer -> Customer : confirm disbursal
+alt:
+	(14) Bank -> Loan Officer : Reject Loan
+	(15) Loan Officer -> Customer : Confirm rejection
+
+(16) Customer -> Bank : Repay Installment
+(17) Bank -> Customer : confirm repayment

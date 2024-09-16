@@ -23,6 +23,7 @@ namespace day24WebApp
             builder.Services.AddControllers();
             // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
             builder.Services.AddEndpointsApiExplorer();
+            builder.Services.AddLogging(l => l.AddLog4Net());
             builder.Services.AddSwaggerGen(option =>
             {
                 option.AddSecurityDefinition("Bearer", new OpenApiSecurityScheme()
@@ -68,6 +69,16 @@ namespace day24WebApp
 
                 });
 
+            #region CORS
+            builder.Services.AddCors(opts =>
+            {
+                opts.AddPolicy("MyCors", options =>
+                {
+                    options.AllowAnyHeader().AllowAnyMethod().AllowAnyOrigin();
+                });
+            });
+            #endregion
+
 
             builder.Services.AddDbContext<RequestTrackerContext>(
                 options => options.UseSqlServer(builder.Configuration.GetConnectionString("defaultConnection"))
@@ -96,7 +107,7 @@ namespace day24WebApp
                 app.UseSwaggerUI();
             }
 
-            
+            app.UseCors("MyCors");
             app.UseAuthentication();
             app.UseAuthorization();
 

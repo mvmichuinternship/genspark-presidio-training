@@ -76,3 +76,5 @@ C:\Users\VC\Desktop\Presidio\Genspark-trainings\dotnet-trainings\console-spplica
 C:\Users\VC\Desktop\Presidio\Genspark-trainings\dotnet-trainings\console-spplications\day24\day24WebAppSln\day24WebApp\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Embedded.dll
 C:\Users\VC\Desktop\Presidio\Genspark-trainings\dotnet-trainings\console-spplications\day24\day24WebAppSln\day24WebApp\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
 C:\Users\VC\Desktop\Presidio\Genspark-trainings\dotnet-trainings\console-spplications\day24\day24WebAppSln\day24WebApp\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\VC\Desktop\Presidio\Genspark-trainings\dotnet-trainings\console-spplications\day24\day24WebAppSln\day24WebApp\bin\Debug\net6.0\log4net.dll
+C:\Users\VC\Desktop\Presidio\Genspark-trainings\dotnet-trainings\console-spplications\day24\day24WebAppSln\day24WebApp\bin\Debug\net6.0\Microsoft.Extensions.Logging.Log4Net.AspNetCore.dll

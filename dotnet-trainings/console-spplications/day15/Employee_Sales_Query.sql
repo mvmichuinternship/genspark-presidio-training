@@ -6,6 +6,7 @@
 	/*Mgrid int constraint fk_dept_emp foreign key references Employee(Eid)*/
 	);
 	sp_help Department;
+
 	
 	create table Employee (Eid int constraint pk_Eid primary key,
 	EName varchar(100), 

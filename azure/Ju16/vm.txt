@@ -1,0 +1,264 @@
+location="eastus"
+mvinod [ ~ ]$ az group create --name $resourcegroup --location $location
+{
+  "id": "/subscriptions/e34397b2-486a-417d-bd5a-b9113a4a1b0c/resourceGroups/mvAzureRg",
+  "location": "eastus",
+  "managedBy": null,
+  "name": "mvAzureRg",
+  "properties": {
+    "provisioningState": "Succeeded"
+  },
+  "tags": {
+    "test01": "",
+    "test02": "",
+    "test03": "",
+    "test04": "",
+    "test05": "",
+    "test06": "",
+    "test07": "",
+    "test08": "",
+    "test09": ""
+  },
+  "type": "Microsoft.Resources/resourceGroups"
+}
+mvinod [ ~ ]$ vmname="mvVM"
+username="azureuser"
+az vm create --resource-group $resourcegroup --name $vmname --image Win2022AzureEditionCore --public-ip-sku Standard --admin-username $username
+Admin Password: 
+Confirm Admin Password: 
+The password length must be between 12 and 123. Password must have the 3 of the following: 1 lower case character, 1 upper case character, 1 number and 1 special character.
+mvinod [ ~ ]$ az vm create --resource-group $resourcegroup --name $vmname --image Win2022AzureEditionCore --public-ip-sku Standard --admin-username $username
+Admin Password: 
+Confirm Admin Password: 
+The password length must be between 12 and 123. Password must have the 3 of the following: 1 lower case character, 1 upper case character, 1 number and 1 special character.
+mvinod [ ~ ]$ az vm create --resource-group $resourcegroup --name $vmname --image Win2022AzureEditionCore --public-ip-sku Standard --admin-username $username
+Admin Password: 
+Confirm Admin Password: 
+{
+  "fqdns": "",
+  "id": "/subscriptions/e34397b2-486a-417d-bd5a-b9113a4a1b0c/resourceGroups/mvAzureRg/providers/Microsoft.Compute/virtualMachines/mvVM",
+  "location": "eastus",
+  "macAddress": "00-22-48-32-E4-FA",
+  "powerState": "VM running",
+  "privateIpAddress": "10.0.0.4",
+  "publicIpAddress": "20.185.59.189",
+  "resourceGroup": "mvAzureRg",
+  "zones": ""
+}
+mvinod [ ~ ]$ az vm run-command invoke -g $resourcegroup -n $vmname --command-id RunPowerShellScript --scripts "Install-WindowsFeature -name Web-Server -IncludeManagementTools"
+{
+  "value": [
+    {
+      "code": "ComponentStatus/StdOut/succeeded",
+      "displayStatus": "Provisioning succeeded",
+      "level": "Info",
+      "message": "Success Restart Needed Exit Code      Feature Result                               \n------- -------------- ---------      --------------                               \nTrue    No             Success        {Common HTTP Features, Default Document, D...\n\n",
+      "time": null
+    },
+    {
+      "code": "ComponentStatus/StdErr/succeeded",
+      "displayStatus": "Provisioning succeeded",
+      "level": "Info",
+      "message": "",
+      "time": null
+    }
+  ]
+}
+mvinod [ ~ ]$ az vm open-port --port 80 --resource-group $resourcegroup --name $vmname
+{
+  "defaultSecurityRules": [
+    {
+      "access": "Allow",
+      "description": "Allow inbound traffic from all VMs in VNET",
+      "destinationAddressPrefix": "VirtualNetwork",
+      "destinationAddressPrefixes": [],
+      "destinationPortRange": "*",
+      "destinationPortRanges": [],
+      "direction": "Inbound",
+      "etag": "W/\"6c594bd7-c4a2-43d6-9680-6902a473da0d\"",
+      "id": "/subscriptions/e34397b2-486a-417d-bd5a-b9113a4a1b0c/resourceGroups/mvAzureRg/providers/Microsoft.Network/networkSecurityGroups/mvVMNSG/defaultSecurityRules/AllowVnetInBound",
+      "name": "AllowVnetInBound",
+      "priority": 65000,
+      "protocol": "*",
+      "provisioningState": "Succeeded",
+      "resourceGroup": "mvAzureRg",
+      "sourceAddressPrefix": "VirtualNetwork",
+      "sourceAddressPrefixes": [],
+      "sourcePortRange": "*",
+      "sourcePortRanges": [],
+      "type": "Microsoft.Network/networkSecurityGroups/defaultSecurityRules"
+    },
+    {
+      "access": "Allow",
+      "description": "Allow inbound traffic from azure load balancer",
+      "destinationAddressPrefix": "*",
+      "destinationAddressPrefixes": [],
+      "destinationPortRange": "*",
+      "destinationPortRanges": [],
+      "direction": "Inbound",
+      "etag": "W/\"6c594bd7-c4a2-43d6-9680-6902a473da0d\"",
+      "id": "/subscriptions/e34397b2-486a-417d-bd5a-b9113a4a1b0c/resourceGroups/mvAzureRg/providers/Microsoft.Network/networkSecurityGroups/mvVMNSG/defaultSecurityRules/AllowAzureLoadBalancerInBound",
+      "name": "AllowAzureLoadBalancerInBound",
+      "priority": 65001,
+      "protocol": "*",
+      "provisioningState": "Succeeded",
+      "resourceGroup": "mvAzureRg",
+      "sourceAddressPrefix": "AzureLoadBalancer",
+      "sourceAddressPrefixes": [],
+      "sourcePortRange": "*",
+      "sourcePortRanges": [],
+      "type": "Microsoft.Network/networkSecurityGroups/defaultSecurityRules"
+    },
+    {
+      "access": "Deny",
+      "description": "Deny all inbound traffic",
+      "destinationAddressPrefix": "*",
+      "destinationAddressPrefixes": [],
+      "destinationPortRange": "*",
+      "destinationPortRanges": [],
+      "direction": "Inbound",
+      "etag": "W/\"6c594bd7-c4a2-43d6-9680-6902a473da0d\"",
+      "id": "/subscriptions/e34397b2-486a-417d-bd5a-b9113a4a1b0c/resourceGroups/mvAzureRg/providers/Microsoft.Network/networkSecurityGroups/mvVMNSG/defaultSecurityRules/DenyAllInBound",
+      "name": "DenyAllInBound",
+      "priority": 65500,
+      "protocol": "*",
+      "provisioningState": "Succeeded",
+      "resourceGroup": "mvAzureRg",
+      "sourceAddressPrefix": "*",
+      "sourceAddressPrefixes": [],
+      "sourcePortRange": "*",
+      "sourcePortRanges": [],
+      "type": "Microsoft.Network/networkSecurityGroups/defaultSecurityRules"
+    },
+    {
+      "access": "Allow",
+      "description": "Allow outbound traffic from all VMs to all VMs in VNET",
+      "destinationAddressPrefix": "VirtualNetwork",
+      "destinationAddressPrefixes": [],
+      "destinationPortRange": "*",
+      "destinationPortRanges": [],
+      "direction": "Outbound",
+      "etag": "W/\"6c594bd7-c4a2-43d6-9680-6902a473da0d\"",
+      "id": "/subscriptions/e34397b2-486a-417d-bd5a-b9113a4a1b0c/resourceGroups/mvAzureRg/providers/Microsoft.Network/networkSecurityGroups/mvVMNSG/defaultSecurityRules/AllowVnetOutBound",
+      "name": "AllowVnetOutBound",
+      "priority": 65000,
+      "protocol": "*",
+      "provisioningState": "Succeeded",
+      "resourceGroup": "mvAzureRg",
+      "sourceAddressPrefix": "VirtualNetwork",
+      "sourceAddressPrefixes": [],
+      "sourcePortRange": "*",
+      "sourcePortRanges": [],
+      "type": "Microsoft.Network/networkSecurityGroups/defaultSecurityRules"
+    },
+    {
+      "access": "Allow",
+      "description": "Allow outbound traffic from all VMs to Internet",
+      "destinationAddressPrefix": "Internet",
+      "destinationAddressPrefixes": [],
+      "destinationPortRange": "*",
+      "destinationPortRanges": [],
+      "direction": "Outbound",
+      "etag": "W/\"6c594bd7-c4a2-43d6-9680-6902a473da0d\"",
+      "id": "/subscriptions/e34397b2-486a-417d-bd5a-b9113a4a1b0c/resourceGroups/mvAzureRg/providers/Microsoft.Network/networkSecurityGroups/mvVMNSG/defaultSecurityRules/AllowInternetOutBound",
+      "name": "AllowInternetOutBound",
+      "priority": 65001,
+      "protocol": "*",
+      "provisioningState": "Succeeded",
+      "resourceGroup": "mvAzureRg",
+      "sourceAddressPrefix": "*",
+      "sourceAddressPrefixes": [],
+      "sourcePortRange": "*",
+      "sourcePortRanges": [],
+      "type": "Microsoft.Network/networkSecurityGroups/defaultSecurityRules"
+    },
+    {
+      "access": "Deny",
+      "description": "Deny all outbound traffic",
+      "destinationAddressPrefix": "*",
+      "destinationAddressPrefixes": [],
+      "destinationPortRange": "*",
+      "destinationPortRanges": [],
+      "direction": "Outbound",
+      "etag": "W/\"6c594bd7-c4a2-43d6-9680-6902a473da0d\"",
+      "id": "/subscriptions/e34397b2-486a-417d-bd5a-b9113a4a1b0c/resourceGroups/mvAzureRg/providers/Microsoft.Network/networkSecurityGroups/mvVMNSG/defaultSecurityRules/DenyAllOutBound",
+      "name": "DenyAllOutBound",
+      "priority": 65500,
+      "protocol": "*",
+      "provisioningState": "Succeeded",
+      "resourceGroup": "mvAzureRg",
+      "sourceAddressPrefix": "*",
+      "sourceAddressPrefixes": [],
+      "sourcePortRange": "*",
+      "sourcePortRanges": [],
+      "type": "Microsoft.Network/networkSecurityGroups/defaultSecurityRules"
+    }
+  ],
+  "etag": "W/\"6c594bd7-c4a2-43d6-9680-6902a473da0d\"",
+  "id": "/subscriptions/e34397b2-486a-417d-bd5a-b9113a4a1b0c/resourceGroups/mvAzureRg/providers/Microsoft.Network/networkSecurityGroups/mvVMNSG",
+  "location": "eastus",
+  "name": "mvVMNSG",
+  "networkInterfaces": [
+    {
+      "id": "/subscriptions/e34397b2-486a-417d-bd5a-b9113a4a1b0c/resourceGroups/mvAzureRg/providers/Microsoft.Network/networkInterfaces/mvVMVMNic",
+      "resourceGroup": "mvAzureRg"
+    }
+  ],
+  "provisioningState": "Succeeded",
+  "resourceGroup": "mvAzureRg",
+  "resourceGuid": "bcdd5d1b-a850-47af-8c1d-cca1ded094f6",
+  "securityRules": [
+    {
+      "access": "Allow",
+      "destinationAddressPrefix": "*",
+      "destinationAddressPrefixes": [],
+      "destinationPortRange": "3389",
+      "destinationPortRanges": [],
+      "direction": "Inbound",
+      "etag": "W/\"6c594bd7-c4a2-43d6-9680-6902a473da0d\"",
+      "id": "/subscriptions/e34397b2-486a-417d-bd5a-b9113a4a1b0c/resourceGroups/mvAzureRg/providers/Microsoft.Network/networkSecurityGroups/mvVMNSG/securityRules/rdp",
+      "name": "rdp",
+      "priority": 1000,
+      "protocol": "Tcp",
+      "provisioningState": "Succeeded",
+      "resourceGroup": "mvAzureRg",
+      "sourceAddressPrefix": "*",
+      "sourceAddressPrefixes": [],
+      "sourcePortRange": "*",
+      "sourcePortRanges": [],
+      "type": "Microsoft.Network/networkSecurityGroups/securityRules"
+    },
+    {
+      "access": "Allow",
+      "destinationAddressPrefix": "*",
+      "destinationAddressPrefixes": [],
+      "destinationPortRange": "80",
+      "destinationPortRanges": [],
+      "direction": "Inbound",
+      "etag": "W/\"6c594bd7-c4a2-43d6-9680-6902a473da0d\"",
+      "id": "/subscriptions/e34397b2-486a-417d-bd5a-b9113a4a1b0c/resourceGroups/mvAzureRg/providers/Microsoft.Network/networkSecurityGroups/mvVMNSG/securityRules/open-port-80",
+      "name": "open-port-80",
+      "priority": 900,
+      "protocol": "*",
+      "provisioningState": "Succeeded",
+      "resourceGroup": "mvAzureRg",
+      "sourceAddressPrefix": "*",
+      "sourceAddressPrefixes": [],
+      "sourcePortRange": "*",
+      "sourcePortRanges": [],
+      "type": "Microsoft.Network/networkSecurityGroups/securityRules"
+    }
+  ],
+  "tags": {
+    "test01": "",
+    "test02": "",
+    "test03": "",
+    "test04": "",
+    "test05": "",
+    "test06": "",
+    "test07": "",
+    "test08": "",
+    "test09": ""
+  },
+  "type": "Microsoft.Network/networkSecurityGroups"
+}

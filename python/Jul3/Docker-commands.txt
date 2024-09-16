@@ -18,6 +18,8 @@ Install Node
 
 Copy application
 
+Build
+
 -------------------------------------------
 docker build -t firstimage .
 
@@ -26,3 +28,38 @@ docker images
 docker run --name firstimage_a firstimage
 
 docker ps -a
+
+--------------------------------------------
+
+docker pull ubuntu
+
+docker run --name ubuntu_a -it ubuntu  	(interactive mode)
+
+exit
+
+docker start -ai containerid	(restart same docker image inside that container)
+
+------------- Linux commands -------------
+sudo apt update     (install environment for apps)
+
+sudo apt install nano	
+
+nano --version
+
+nano filename
+
+cat filename
+----------------------------------------------
+
+docker rm containername
+
+docker rmi imagename -f(force)(not necessary)
+
+-----------------------------------------------
+
+docker system prune -a (del all stopped containers, images with no containers associated, )
+
+-----------------------------------------------
+
+Volume in docker, maps physical system with virtual system which triggers changes in physical system to virtual system
+

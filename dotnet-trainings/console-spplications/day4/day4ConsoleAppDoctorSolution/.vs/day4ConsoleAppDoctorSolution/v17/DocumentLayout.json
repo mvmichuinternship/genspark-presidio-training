@@ -40,7 +40,7 @@
               "RelativeDocumentMoniker": "ClinicAppDalLibrary\\Model\\day20EmployeeTrackerContext.cs",
               "ToolTip": "C:\\Users\\VC\\Desktop\\Presidio\\Genspark-trainings\\dotnet-trainings\\console-spplications\\day4\\day4ConsoleAppDoctorSolution\\ClinicAppDalLibrary\\Model\\day20EmployeeTrackerContext.cs",
               "RelativeToolTip": "ClinicAppDalLibrary\\Model\\day20EmployeeTrackerContext.cs",
-              "ViewState": "AQIAAGEAAAAAAAAAAAAwwAAAAAAAAAAA",
+              "ViewState": "AQIAACgAAAAAAAAAAAAwwAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-14T14:52:40.348Z",
               "EditorCaption": ""
@@ -55,8 +55,7 @@
               "RelativeToolTip": "ClinicAppDalLibrary\\IRepository.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-14T14:50:14.338Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-14T14:50:14.338Z"
             },
             {
               "$type": "Document",
@@ -68,8 +67,7 @@
               "RelativeToolTip": "ClinicAppDalLibrary\\PatientRepository.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAADgAAAAiAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-11T19:51:30.566Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-11T19:51:30.566Z"
             },
             {
               "$type": "Document",

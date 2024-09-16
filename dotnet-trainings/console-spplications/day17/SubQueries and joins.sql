@@ -1,6 +1,6 @@
 use Northwind
 
-select * from Categories
+select top 5 * from Categories 
 
 select CategoryId from Categories where CategoryName = 'Confections'
 
@@ -15,11 +15,11 @@ select ProductName from Products where SupplierID =
 (select SupplierID from Suppliers where CompanyName = 'Tokyo Traders')
 
 --get all the products that are supplied by suppliers from USA
-select ProductName from products where SupplierID in 
+select * from products where SupplierID in 
 (select SupplierID from Suppliers where Country = 'USA')
 
 --get all the products from the category that has 'ea' in the description
-select ProductName from products where CategoryID in
+select * from products where CategoryID in
 (select CategoryID from Categories where Description like '%ea%')
 
 select * from customers
@@ -33,6 +33,9 @@ select ProductID, Quantity from [Order Details] where OrderID in
 
 --Get the products that are priced above the average price of all the products
 select * from Products where UnitPrice>(select avg(Unitprice) from products)
+
+-- WRONG APPROACH -- select * from Products where UnitPrice>avg(Unitprice)
+
 
 --select the latest order by every employee
 --select top 1 * from Orders group by EmployeeID order by OrderDate desc

@@ -1,0 +1,8 @@
+ls
+apt update
+apt install nano
+nano filename
+cat filename
+rm filename
+mkdir dirname
+rmdir dirname
